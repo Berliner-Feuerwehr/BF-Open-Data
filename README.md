@@ -57,7 +57,7 @@ No special software is required to work with our data.
 ## Usage Examples:
 You can find visualiziations derived from our data on our website:
 
-https://www.berliner-feuerwehr.de/open-data
+https://www.berliner-feuerwehr.de/service/open-data/
 <!-- -Showcase how users can utilize the data (e.g., data analysis, visualization, research).>
 <Provide code snippets or examples demonstrating data retrieval and manipulation.
 
