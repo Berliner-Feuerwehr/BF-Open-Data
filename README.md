@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Berliner-Feuerwehr/BF-Open-Data/blob/main/img/BF_logo.png" alt="x" width="600"/>
 <!--![](https://github.com/Berliner-Feuerwehr/BF-Open-Data/blob/main/img/Bfw_Logo_M_DE_PW_RGB.png)-->
-The Open Data Platform of the Berlin Fire Deparment
+The Open Data Platform of the Berlin Fire Brigade
 <!--(Für die deutsche Version bitte herunterscrollen)-->
 
 ## Introduction:
@@ -10,7 +10,7 @@ The Open Data Platform of the Berlin Fire Deparment
 In an effort to become a modern city, Berlin published its Open Data strategy in 2012. In the same year, a city-wide open data portal, called daten.berlin.de was launched. Meanwhile over 3000 datasets are available for the public and the number keeps growing. 
     
 
-The Berlin Fire Department offers critical services like fire rescue, ambulance service as well as technical assistance. 
+The Berlin Fire Brigade offers critical services like fire rescue, ambulance service as well as technical assistance. 
 The quality of emergency services makes the difference between a tragedy and a narrow escape. 
 Therefore, it is crucial for each citizen to be well informed about the quality of emergency services available to them. 
 In this repository, we will publish datasets relevant to our operations for everyone to use.  
@@ -29,7 +29,7 @@ This is an ongoing project number and types of datasets will grow continously.
 Please Note: 
 
 This is a machine-generated data set
-There may be differences to the annual report of the Berlin Fire Department, which may stem from a case-by-case consideration of the missions. 
+There may be differences to the annual report of the Berlin Fire Brigade, which may stem from a case-by-case consideration of the missions. 
 Differences arise primarily in the classification of missions as "other" or internal missions.
 
 ## Getting Started:
