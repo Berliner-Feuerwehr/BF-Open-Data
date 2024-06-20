@@ -28,7 +28,7 @@ This is an ongoing project number and types of datasets will grow continously.
 
 Please Note: 
 
-This is a machine-generated data set
+This is a machine-generated data set.
 There may be differences to the annual report of the Berlin Fire Brigade, which may stem from a case-by-case consideration of the missions. 
 Differences arise primarily in the classification of missions as "other" or internal missions.
 
