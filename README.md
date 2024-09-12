@@ -49,6 +49,7 @@ No special software is required to work with our data.
 |  Kiez Data | Mission counts and response times |Based on the [Living Spaces (LOR)](https://www.berlin.de/sen/sbw/stadtdaten/stadtwissen/sozialraumorientierte-planungsgrundlagen/lebensweltlich-orientierte-raeume/) concept of Berlin. Either 58 prediciton rooms, 143 district areas or 542 planning rooms  |  1 year    | daily |
 | Daily Data | Mission counts,response times, call counts, answer times  | The entire city of Berlin and its outskirts   | 1 day, 1 month, 1 year   | daily |  |   |
 |  Dispatchcodes | A mapping of dispatchcodes to resource requierements| N.A.  | N.A.   | irregularly |   |   |
+|  Defibrillator Locations |All locations of public defibrillators that we know of | N.A.  | N.A.   | daily |   |   |
 
 <Create a table or list of available datasets.>
 <Include a brief description for each dataset.>
