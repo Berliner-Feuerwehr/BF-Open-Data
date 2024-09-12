@@ -1,477 +1,529 @@
-name,hinweis,adresse,objekt,longitude,latitude
-AED 0001-ZOO-CAS,Löwentor im Servicecenter,Hardenbergplatz 8 (O:Tiergarten),Zoologischer Garten,1333526,5250799
-AED 0002-ZOO-CAS,WC Waldschänke (Kinderspielplatz),Hardenbergplatz 8 (O:Tiergarten),Zoologischer Garten,13338778,52509492
-AED 0003-ZOO-CAS,Aquarium (neben dem Glasaufzug),Hardenbergplatz 8 (O:Tiergarten),Zoologischer Garten,13340354,52506091
-AED 0004-ZOO-CAS,Eingang Zoo-Restaurant,Hardenbergplatz 8 (O:Tiergarten),Zoologischer Garten,1334193,52507054
-AED 0005-TPF-CAS,Kassenbereich Eingang Bärenschaufenster,Am Tierpark 93 (O:Friedrichsfelde),TIERPARK Berlin,13523706,52498462
-AED 0006-TPF-CAS,Dickhäuterhaus (derzeit wg. Bauarbeiten umgesetzt zum Alfred-Brehm-Haus),Am Tierpark 93 (O:Friedrichsfelde),TIERPARK Berlin,13534713,52499277
-AED 0007-TPF-CAS,Besucher WC Affenhaus,Am Tierpark 93 (O:Friedrichsfelde),TIERPARK Berlin,13531364,52507718
-AED 0008-TPF-CAS,"Eingang Restaurant ""Patagona""",Am Tierpark 93 (O:Friedrichsfelde),TIERPARK Berlin,13528919,52504886
-AED 0009-OLY-ASB,Empfang,Glockenturmstr. 1 (O:Westend),Horst-Korber-Sportzentrum,13228972,52513156
-AED 0010-OLY-ASB,Empfang,Glockenturmstr. 1 (O:Westend),Rudolf-Harbig-Halle,13229886,52513172
-AED 0011-OLY-ASB,Empfangsnebenraum (Hausmeisterzimmer),Jesse-Owens-Allee 2 (O:Westend),Landessportbund - Verwaltung,13239159,52511619
-AED 0012-WRD-SON,Tauchturm,Am Pichelssee 20 (O:Wilhelmstadt),DLRG Zentralstation,13197721,52507769
-AED 0013-FUB-SON,"1. OG, Raum 107",Grunewaldstr. 34A (O:Steglitz),FU Berlin - Bereich Arbeitssicherheit,13307233,52459505
-AED 0014-FUB-SON,Bibliothek EG Ausleihtheke,Van't-Hoff-Str. 8 (O:Dahlem),FU Berlin - Bibliothek für Rechtswissenschaften,13281867,52447833
-AED 0015-FUB-SON,Philologische Bibliothek Ausleihtheke,Habelschwerdter Allee 45 (O:Dahlem),"Philologische Bibliothek, FU-Berlin",13288383,52451817
-AED 0016-FUB-SON,"Haus 1, EG, Wartebereich neben Untersuchungsraum",Oertzenweg 19B (O:Zehlendorf),Klinik für kleine Haustiere der FU Berlin,132373,52430283
-AED 0017-FUB-SON,"EG, Raum 1",Kaiserswerther Str. 16 (O:Dahlem),FU Berlin - Präsidium,13286134,52447916
-AED 0018-FUB-SON,"Haupteingang, EG, neben dem Erste-Hilfe-Raum",Arnimallee 22 (O:Dahlem),Freie Universität Berlin-Dahlem,13293438,52455036
-AED 0019-FUB-SON,"Sporthalle, neben dem Hallenwartraum",Königin-Luise-Str. 47 (O:Dahlem),Freie Universität Berlin - Hochschulsport,13289894,52458755
-AED 0020-FUB-SON,"1. OG, Information/Leihstelle",Garystr. 39 (O:Dahlem),Freie Universität Berlin - Bibliothek,13277526,52448068
-AED 0021-FUB-SON,neben der Pförtnerloge,Garystr. 35 (O:Dahlem),Freie Universität Berlin - Henry-Ford-Bau,13278371,52447713
-AED 0022-FUB-SON,Pförtner Haus G,Malteserstr. 74 (O:Lankwitz),FU-Berlin Campus Lankwitz,13357638,52426042
-AED 0023-FUB-SON,"Atrium, vor der Bibliothek",Ihnestr. 21 (O:Dahlem),Otto-Suhr-Institut der FU,13276931,52449295
-AED 0024-FUB-SON,Eingang Fachbereich Chemie,Fabeckstr. 34 (O:Dahlem),Anorganisch-Chemisches Institut,13293683,5245355
-AED 0025-FUB-SON,Atrium,Königin-Luise-Str. 2 (O:Lichterfelde),Institut für Pharmazie der FU,1330645,5245885
-AED 0026-FUB-SON,"1. OG, vor Verwaltungsleitung",Arnimallee 14 (O:Dahlem),Fachbereich Physik der FU-Berlin,13295833,52455967
-AED 0027-FUB-SON,"EG, Atrium neben Seminarraum",Robert-von-Ostertag-Str. 15 (O:Zehlendorf),Institut für Veterenär-Pathologie+Andrologie der FU,13237561,52427371
-AED 0028-FUB-SON,"Campusbibliothek, ggü. der Ausleihe/Information",Fabeckstraße 23 (O:Dahlem),"Campus Bibliothek, FU-Berlin",1329201,5245417
-AED 0029-TUB-CAS,"Erdgeschoss, Treppenhaus 7 (zur Behrenshalle)",Gustav-Meyer-Allee 25 (O:Gesundbrunnen),Technologie und Innovationspark der TU Berlin,13385168,52541017
-AED 0030-TUB-SON,Pförtnerloge (+ nicht öffentlicher AED in 110-kV-Station),Hardenbergstr. 36 (O:Charlottenburg),Eugene-Paul-Wigner-Gebäude ehem. Physik-Neubau (EW),13324891,52510306
-AED 0031-TUB-CAS,Flurbereich am Eingang,Ernst-Reuter-Platz 1 (O:Charlottenburg),Bergbau und Hüttenwesen Altbau (BH-A) TU Berlin,13323313,52511562
-AED 0032-TUB-CAS,Eingangshalle vor Cafeteria,Straße des 17. Juni 152 (O:Charlottenburg),Architekturgebäude (A) der TU Berlin,13323001,52513707
-AED 0033-TUB-CAS,Hintereingang ggü. Hausmeister,Straße des 17. Juni 115 (O:Charlottenburg),Chemiegebäude (C) TU Berlin,13329672,52512003
-AED 0034-TUB-CAS,Pförtnerloge (und zu den Dienstzeiten BÄD Raum 7128),Straße des 17. Juni 135 (O:Charlottenburg),Hauptgebäude (H) TU Berlin,13327426,5251235
-AED 0035-TUB-CAS,Pförtnerloge (+ nicht öffentlicher AED in 110-kV-Station),Straße des 17. Juni 136 (O:Charlottenburg),Mathematikgebäude (MA) der TU Berlin,13326331,52513526
-AED 0036-TUB-CAS,Schalthalle/Eingang Flur (Nicht öffentlich - klingeln möglich!),Fasanenstr. 1A (O:Charlottenburg),Thermodynamik und Kältetechnik (TK) TU Berlin,13328647,52510643
-AED 0037-TUB-CAS,Halle,Straße des 17. Juni 144 (O:Charlottenburg,Wasserbau und Wasserwirtschaft (W) der TU Berlin,13324921,52513603
-AED 0038-TUB-CAS,Schlosserwerkstatt,Müller-Breslau-Str. 15 (O:Charlottenb,"Zentralwerkstatt,ehem.Versuchsanstalt für Wasser-Schiffbau (VWS) TU Berlin",13335821,52511835
-AED 0039-TUB-CAS,Eingang/Pförtner,Ernst-Reuter-Platz 7 (O:Charlottenburg),TU Hochhaus ehem. Telefunkenhochhaus,13320118,52512768
-AED 0040-TUB-SON,Eingang/Pförtner,Pascalstr. 8 - 9 (O:Charlottenburg),Produktionstechnisches Zentrum der TU Berlin,13323453,52523509
-AED 0041-TUB-CAS,Eingang/Pförtner,Marchstr. 23 (O:Charlottenburg),Bürogebäude - Gebäude (MAR) der TU Berlin,13323707,52516533
-AED 0042-TUB-SON,Haupteingang links vom Eingang Cafeteria,Waldschulallee 71 (O:Westend),Sporthalle Westend der TU Berlin,13260476,52501542
-AED 0043-TUB-CAS,Pförtnerloge,Fasanenstr. 88 (O:Charlottenburg),Universitätsbiliothek (BIB),133302,52510133
-AED 0044-TUB-SON,Pförtnerloge,Einsteinufer 17 (O:Charlottenburg),Elektrotechnische Institute Neubau (E-N) der TU Berlin,13326572,5251554
-AED 0045-TUB-CAS,"Geb. SG 12, Flur/EG",Salzufer 17 (O:Charlottenburg),Severin Gelände (SG) der TU Berlin,13322167,52519669
-AED 0046-TUB-CAS,Treppenaufgang A,Ackerstr. 76 (O:Gesundbrunnen),Sonderforschungsbereich 69 der TU Berlin,13384639,52538658
-AED 0047-TUB-SON,Pförtnerloge,Fraunhoferstr. 33 (O:Charlottenburg),Bürogebäude - Gebäude (FH) der TU Berlin,13320917,52514684
-AED 0048-TUB-SON,Pförtnerloge,Marchstraße 12 - 12B (O:Charlottenburg),Flugtechnische Institute (F) der TU Berlin,13323622,52515156
-AED 0049-TUB-SON,Werkstatt (Nicht öffentlich!),Einsteinufer 25 (O:Charlottenburg),Hochfrequenz- u. Fernmeldetechnik Techn. Akustik (HFT-TA) der TU Berlin,13325821,52515366
-AED 0050-TUB-SON,"EG, vor Raum 12 (Eingeschränkt zugänglich!)",Einsteinufer 19 (O:Charlottenburg),Elektrotechnische Institute Altbau (E) der TU Berlin,13326158,52514938
-AED 0051-TUB-SON,Maschinenhalle EM4 Galerie (Nicht öffentlich!),Einsteinufer 11 (O:Charlottenburg),Geb. Elektromaschinen und Hochspannungstechnik (EMH) der TU Berlin,13327128,52514029
-AED 0052-TUB-SON,Eingang,Siemenswerderweg 27 (O:Wilhelmstadt),Bootshaus der TU Berlin,13208973,52509673
-AED 0053-HUB-SON,Bibliothek,Hessische Str. 1 - 2 (O:Mitte),Humboldt-Universität zu Berlin - Bibliothek,13381124,52528447
-AED 0054-HUB-SON,Institutsgebäude (Mittelbau),Invalidenstr. 42 (O:Mitte),"Humboldt-Universität zu Berlin, Institut für Genetik",13379676,52530403
-AED 0055-HUB-SON,Institutsgebäude,Invalidenstr. 42 (O:Mitte),Humboldt-Universität zu Berlin (Lebenswissenschaftliche Fakultät),13380883,52530193
-AED 0056-HUB-SON,Institutsgebäude (Ostbau),Invalidenstr. 42 (O:Mitte),Humboldt-Universität zu Berlin (Lebenswissenschaftliche Fakultät),13379748,52531119
-AED 0057-HUB-SON,Institut für Nutzpflanzenforschung,Lentzeallee 55 (O:Dahlem),"Humboldt-Universität zu Berlin, Institut für Nutzpflanzenforschung",13298771,52468508
-AED 0058-HUB-SON,Institutsgebäude (Späth-Arboretum),Späthstr. 80 (O:Baumschulenweg),Späth-Arboretum der Humboldt Universität,13473161,5245419
-AED 0059-HUB-SON,Erwin-Schrödinger-Zentrum (Zentralbibliothek),Rudower Chaussee 26 (O:Adlershof),Humboldt Universität zu Berlin (Zentralbibliothek),13531591,52430974
-AED 0060-HUB-SON,Universitätsgebäude am Hegelplatz,Dorotheenstr. 24 (O:Mitte),Germanistisches Institut der Humboldt-Universität Berlin,13392656,52519259
-AED 0061-HUB-SON,Institutsgebäude Theologie,Burgstraße 26 (O:Mitte),Humboldt Universität zu Berlin (Institut für Theologie),13401047,52520935
-AED 0062-HUB-SON,Grimm-Zentrum (Zentralbibliothek),Geschwister-Scholl-Straße 1 (O:Mitte),Jakob und Wilhelm Grimm-Zentrum (Bibliothek der HU),1339087,52520407
-AED 0063-HUB-SON,Institutsgebäude,Spandauer Str. 1 (O:Mitte),Humboldt Universität Lehrgebäude,13403175,52520784
-AED 0064-HUB-SON,Geografisches Institut,Rudower Chaussee 16 (O:Adlershof),Humboldt Universität zu Berlin (Geograph. Institut),13534165,52432162
-AED 0065-HUB-SON,Institut für Psychologie,Rudower Chaussee 18 (O:Adlershof),Humboldt Universität zu Berlin (Inst. für Psychologie),13533727,524319
-AED 0066-HUB-SON,Institutsgebäude,Albrecht-Thaer-Weg 5 (O:Dahlem),Humboldt-Universität zu Berlin,13299021,52466742
-AED 0067-HUB-SON,Institutsgebäude,Geschwister-Scholl-Str. 7 (O:Mitte),Humboldt-Universität zu Berlin,13391488,52521604
-AED 0068-HUB-SON,Sporthalle,Geschwister-Scholl-Str. 7 (O:Mitte),Humboldt-Universität zu Berlin,13391026,52521488
-AED 0069-HUB-SON,Institutsgebäude,Dorotheenstr. 1 (O:Mitte),Humboldt-Universität zu Berlin,13396671,52519506
-AED 0070-HUB-SON,Institutsgebäude,Am Kupfergraben 5 (O:Mitte),Humboldt-Universität zu Berlin,1339501,52520394
-AED 0071-HUB-SON,Institutsgebäude,Universitätsstr. 3B (O:Mitte),Humboldt-Universität zu Berlin,13391795,52519987
-AED 0072-HUB-SON,"Institutsgebäude, Haus 1 (Graduate School)",Luisenstr. 56 (O:Mitte),Humboldt Graduate School HU Berlin,13379557,52525325
-AED 0073-HUB-SON,"Institutsgebäude, Haus 12",Hannoversche Str. 27 (O:Mitte),"Humboldt-Universität zu Berlin, Institutsgebäude",13385329,52526757
-AED 0074-HUB-SON,Universitäts-Hauptgebäude,Unter den Linden 6 (O:Mitte),"Humboldt-Universität zu Berlin, Hauptgebäude",13393726,5251801
-AED 0075-HUB-SON,Institutsgebäude - Altes Palais,Unter den Linden 9 (O:Mitte),Altes Palais,13392916,52516874
-AED 0076-HUB-SON,Institutsgebäude - Gouverneurshaus,Unter den Linden 11 (O:Mitte),Gouverneurshaus,13392156,52516826
-AED 0077-HUB-SON,Institutsgebäude - Kommode,Bebelplatz 2 (O:Mitte),Humboldt-Universität zu Berlin - Juristische Fakultät,13393299,52516311
-AED 0078-HUB-SON,Institutsgebäude,Sophienstr. 22 (O:Mitte),Humboldt-Universität zu Berlin - Institutsgebäude,13400174,52525986
-AED 0079-HUB-SON,Institutsgebäude,Georgenstr. 36 (O:Mitte),Humboldt-Universität zu Berlin - Institutsgebäude,13391039,52519929
-AED 0080-HUB-SON,Institutsgebäude - Pergamonpalais,Georgenstr. 47 (O:Mitte),Universitäts- u. Bürogebäude,13394139,52520416
-AED 0081-HUB-SON,Institutsgebäude (Quartier Stadtmitte),Friedrichstraße 191 (O:Mitte),Humboldt-Universität zu Berlin - Institut f. Geschichtswissenschaft iund Klassische Philologie,13389462,52510823
-AED 0082-HUB-SON,Institutsgebäude,Hausvogteiplatz 5 (O:Mitte),HU Berlin - Zentralinstitut für Elektrophysik,13395792,52512982
-AED 0083-HUB-SON,Institutsgebäude,Mohrenstr. 40 (O:Mitte),Humboldt-Universität zu Berlin - Institutsgebäude,13396189,52512646
-AED 0084-HUB-SON,Verwaltungsgebäude,Ziegelstr. 11 (O:Mitte),Humboldt-Universität zu Berlin - Verwaltungsgebäude,13390862,52523469
-AED 0085-HUB-SON,Institutsgebäude,Ziegelstr. 13A (O:Mitte),Humboldt-Universität zu Berlin - Institutsgebäude,13391745,52523225
-AED 0086-HUB-SON,Boeckh-Haus,Dorotheenstr. 65 (O:Mitte),August-Boeckh Haus (Bürogebäude),13386648,52518362
-AED 0087-HUB-SON,Institutsgebäude (Gesamtpersonalrat),Monbijoustr. 2 B (O:Mitte),Humboldt-Universität zu Berlin - Institutsgebäude,13395,52522956
-AED 0088-HUB-SON,Institutsgebäude (Haus 11),Philippstr. 13 (O:Mitte),HU Berlin - Campus Nord - Haus 11,13383408,52527033
-AED 0089-HUB-SON,Institutsgebäude (Leonor-Michaelis-Haus),Phillipstraße 13 (O:Mitte),Haus 18 (Leonor Michaelis Haus ehem. Abderhaldenhaus) HU Berlin,13383262,52525135
-AED 0090-HUB-SON,Institutsgebäude (Haus 16),Philippstr. 13 (O:Mitte),HU Berlin - Campus Nord - Haus 16,1338421,52525023
-AED 0091-HUB-SON,Institutsgebäude (Haus 6),Philippstr. 13 (O:Mitte),HU Berlin - Campus Nord - Haus 6,13382094,52525878
-AED 0092-HUB-SON,Institutsgebäude (Haus 9 - Lehr- und Praktikumshaus),Philippstr. 13 (O:Mitte),HU Berlin - Campus Nord - Haus 9,13383082,52526338
-AED 0093-HUB-SON,Institutsgebäude (Haus 2),Philippstr. 13 (O:Mitte),HU Berlin - Campus Nord - Haus 2,1338087,52524895
-AED 0094-HUB-SON,Institutsgebäude (Haus 4),Phillipstraße 13 (O:Mitte),Haus 4 (Ostertag-Haus) HU Berlin,13381694,52525448
-AED 0095-HUB-SON,Institutsgebäude (Rhoda-Erdmann-Haus),Phillipstraße 13 (O:Mitte),Rhoda Erdmann Haus HU Berlin,13381989,52526894
-AED 0096-HUB-SON,Institutsgebäude (Kita im Hedwig-Dohm-Haus der HU Berlin),Ziegelstr. 5 (O:Mitte),Hedwig Dohm Haus ( Kita an der Humbold Universität ),13390049,52523374
-AED 0097-HUB-SON,Institutsgebäude,Ziegelstr. 13C (O:Mitte),Humboldt-Universität zu Berlin - Institutsgebäude,13390877,52522817
-AED 0098-HUB-SON,Institutsgebäude,Friedrichstr. 199 (O:Mitte),Haus Friedrichstadt,13389734,52509679
-AED 0099-HUB-SON,Institutsgebäude in den Friedrichstadtpassagen,Friedrichstr. 60 (O:Mitte),"Friedrichstadtpassagen Block 203, Atrium",13390161,52510531
-AED 0100-HUB-SON,Institutsgebäude,Dorotheenstr. 26 (O:Mitte),Humboldt-Universität zu Berlin,13391936,52519235
-AED 0101-HUB-SON,Institutsgebäude (Edison Höfe),Invalidenstr. 118 (O:Mitte),Edison Höfe,13385526,52530508
-AED 0102-HUB-SON,Institutsgebäude (Physik),Invalidenstr. 110 (O:Mitte),"Humboldt-Universität zu Berlin, Institut für Physik",13383481,52529953
-AED 0103-HUB-SON,Mensa Nord,Hannoversche Str. 7 (O:Mitte),"Humboldt-Universität zu Berlin, Mensa Nord",13381554,52528203
-AED 0104-HUB-SON,Institut für Geisteswissenschaften,Hannoversche Str. 6 (O:Mitte),"Humboldt-Universität zu Berlin, Institut für Geisteswissenschaften",13382994,52527549
-AED 0105-HUB-SON,Forschungssporthalle,Hannoversche Str. 27 (O:Mitte),"Humboldt-Universität zu Berlin, Institutsgebäude",13384522,52526413
-AED 0106-HUB-SON,Sportstätte,Linienstr. 121 (O:Mitte),Humboldt-Universität zu Berlin (Sportstätte),13390498,52527202
-AED 0107-HUB-SON,Stallgebäude der HU,Lentzeallee 75 (O:Dahlem),Humboldt-Universität zu Berlin (Stall- und Wirtschaftsgebäude),13300906,52468132
-AED 0108-HUB-SON,Wassersportzentrum der HU,Alt-Schmöckwitz 8 (O:Schmöckwitz),Humboldt-Universität zu Berlin (Wassersportzentrum),13649095,52374112
-AED 0109-HUB-SON,Johann-von-Neumann-Haus,Rudower Chaussee 25 (O:Adlershof),Humboldt-Universität zu Berlin (Johann-von-Neumann-Haus),13530019,52429399
-AED 0110-HUB-SON,Sporthalle,Rudower Str. 18 (O:Altglienicke),Humboldt-Universität zu Berlin,13525206,5242283
-AED 0111-HUB-SON,Lise-Meitner-Haus,Newtonstr. 15 (O:Adlershof),"Humboldt-Universität zu Berlin, (Institut für Physik)",13529563,52432921
-AED 0112-HUB-SON,Walter-Nernst-Haus (LCP),Newtonstr. 14 (O:Adlershof),"Humboldt-Universität zu Berlin, (Walter-Nernst-Haus)",13528832,52432917
-AED 0113-HUB-SON,Emil-Fischer-Haus (CIA),Brook-Taylor-Str. 2 (O:Adlershof),Humboldt-Universität zu Berlin (Institut für Chemie),13527928,52432344
-AED 0114-HUB-SON,Experimentierhalle (MHP),Brook-Taylor-Str. 6 (O:Adlershof),Humboldt-Universität zu Berlin (Experimentierhalle Physik MHP),13528853,52431309
-AED 0115-HUB-SON,Speicherbibliothek,Wagner-Régeny-Str. 5 (O:Adlershof),HU zu Berlin - Speicherbibliothek und Universitätsarchiv,13533783,5243786
-AED 0116-HUB-SON,Lehrwerkstatt,Gustav-Kirchhoff-Str. 1 (O:Adlershof),Humboldt-Universität zu Berlin (Lehrwerkstatt),1353436,52429228
-AED 0117-SON-CAS,"EG, Foyer",Spichernstr. 2 (O:Wilmersdorf),Berufsgenossenschaft Berlin,13333217,52497972
-AED 0118-THB-CAS,Verwaltungshaus,Hausvaterweg 39 (O:Falkenberg),Tierheim Berlin,13546635,52576172
-AED 0119-THB-CAS,Haupteingang,Hausvaterweg 39 (O:Falkenberg),Tierheim Berlin,13546151,5257393
-AED 0120-THB-CAS,Reptilienhaus,Hausvaterweg 39 (O:Falkenberg),Tierheim Berlin,13544096,52575734
-AED 0121-TUB-CAS,Pförtnerloge,Straße des 17. Juni 115 (O:Charlottenburg),Chemiegebäude (C) TU Berlin,13329602,52512597
-AED 0122-SON-CAS,Büro,Miraustr. 8 (O:Wittenau),HWL Löttechnik,13314623,52578758
-AED 0123-SON-CAS,Büro,Kaiser-Wilhelm-Str. 133 (O:Lankwitz),Lysoform Dr. Hans Rosemann GmbH,13354747,5244191
-AED 0124-SON-CAS,Büro,Beusselstr 44N (O:Moabit),Berliner Tafel e.V.,13316233,5253432
-AED 0125-EKZ-CAS,"1. Obergeschoß, Info",Lankwitzer Str. 19 (O:Lichterfelde),Einkaufszentrum LIO,13329688,52429284
-AED 0126-SON-SON,im Gebäude,Eichenstr. 3A (O:Alt-Treptow),50Hertz Transmission GmbH,13454849,52496178
-AED 0127-SEN-SON,im Gebäude,Leipziger Straße 3 (O:Mitte),Abgeordnetenhaus von Berlin,13381932,52507611
-AED 0128-SPO-SON,Platzwartraum,Schubartstr. 66 (O:Wittenau),Sportplatz Günther-Jäger-Anlage,133018,525857
-AED 0129-SCH-SON,"1. OG, Lehrerzimmer",Parchimer Allee 109 (O:Britz),Albert-Einstein-Schule (Gymnasium),13442354,52445228
-AED 0130-EKZ-SON,links vor Rewe,Pablo-Neruda-Str. 2 (O:Köpenick),Allende- Center,13587574,52441273
-AED 0131-SEN-SON,"EG, Pförtnerloge",Rathausstr. 27 (O:Mariendorf),Amts-und Vertrauensärztlicher Dienst,13379077,52445897
-AED 0132-KUT-SON,Cineplex-Kino,Karl-Marx-Str. 66 (O:Neukölln),Arkaden Neukölln,13432351,52481937
-AED 0133-SEN-SON,am Seiteneingang Jüdenstraße,athausstraße 15 (O:Mitte),Berliner Rathaus (BIM 30001),13409141,52518477
-AED 0134-SEN-SON,"EG, Pförtnerloge",Strelitzstr. 15 (O:Mariendorf),Bezirksamt Tempelhof-Schöneberg,13382762,52449468
-AED 0135-OLY-SON,"Haus 27, Empfang",Friedrich-Friesen-Allee (O:Westend),Landesleistungszentrum+Boxhalle,1324022,52519775
-AED 0136-SON-SON,2. Etage rechts,Pohlstr. 20 (O:Tiergarten),Bombardier Transportation,133683,525004
-AED 0137-SON-SON,im Haus, Ringbahnstr. 98 (O:Tempelhof),BSR Hauptverwaltung,13382141,52468754
-AED 0138-BUN-SON,im Haus,Am Treptower Park 5 (O:Alt-Treptow),Bundeskriminalamt und Bundesamt für Verfassungsschutz,13456434,52491954
-AED 0139-BUN-SON,"Bauteil D, EG, ggü. Zeiterfassungsterminal",Invalidenstr. 44 (O:Mitte),Bundesministerium für Digitales und Verkehr,13376822,52530246
-AED 0140-SEN-SON,Flur vor Raum 215,Briesingstr. 6 (O:Lichtenrade),Bürgeramt Tempelhof-Schöneberg,13398765,52385642
-AED 0141-SEN-SON,im Haus,Hohenzollerndamm 177 (O:Wilmersdorf),Bürgeramt Wilmersdorf,13312388,52489389
-AED 0142-SON-ASB,Praxis für Allgemeinmedizin,Askanischer Platz 1 (O:Kreuzberg),Bürogebäude  Askanischer Platz,13381187,52505035
-AED 0143-SPO-SON,Platzwartraum,Lessingstr. 5 (O:Steglitz),Carl-Diem-Sportplatz,13335606,52455805
-AED 0144-SPO-SON,"Erste-Hilfe-Raum im Hauptgebäude (EG, Raum 8)",Hüttenweg 43 (O:Dahlem),Cole-Sport-Center,1326806,52454319
-AED 0145-SPO-SON,Hausmeisterbüro,Priesterweg 4 (O:Schöneberg),Dominicus-Sportplatz,13355992,52475771
-AED 0146-SPO-SON,Platzwartraum,Onkel-Tom-Str. 40 (O:Zehlendorf),Ernst-Reuter-Sportfeld,13253634,52442144
-AED 0147-SPO-SON,Neben dem Hallenwartraum,Rudolstädter Str. 77 (O:Wilmersdorf),Gretel-Bergmann-Sporthalle,13306195,52484977
-AED 0148-SPO-SON,"Haupteingang Ballspielhalle durch 2. Tür geradeaus, linke Wand",Hämmerlingstraße 80 (O:Köpenick),Großsporthalle Hämmerlingstr.,13572269,52459003
-AED 0149-SPO-SON,"Haupteingang Kegelhalle durch Foyer und Flur, linke Wand",Hämmerlingstraße 88 (O:Köpenick),Großsporthalle Hämmerlingstr.,1357293,52459733
-AED 0150-SPO-SON,"EG, neben Nottelefon am Eingang/Regieraum",Forckenbeckstr. 20 (O:Schmargendorf),Harald-Mellorowicz-Sporthalle,13299578,52481172
-AED 0151-SPO-SON,"Haus 1, ggü. Platzwartraum,",Hubertusallee 50 (O:Grunewald),Hubertussportplatz,13284698,52485249
-AED 0152-SPO-SON,Empfang,Buolstraße 14 (O:Siemensstadt),Sport- und Freizeitzentrum Siemensstadt,13258647,52545183
-AED 0153-SPO-SON,"Erste-Hilfe-Raum (Hauptgeb., EG, Raum 2)",Wedellstr. 57 (O:Lankwitz),Sportanlage Kiriat Bialik,13360428,52431813
-AED 0154-SPO-SON,"Erste-Hilfe-Raum (Hauptgeb., EG, Raum 8)",Osdorfer Str. 53 (O:Lichterfelde),Sportanlage Osdorfer Str.,13320072,52411551
-AED 0155-SPO-SON,"Haupteingang, EG, hinter 2. Tür links",Sportpromenade 3 (O:Grünau),Haus des Sports,13601955,52409672
-AED 0156-SPO-SON,Pförtnerhäuschen (Schranke Hauptparkplatz),Weißenseer Weg 53 (O:Alt-Hohenschönhausen),Sportforum,13473418,52538454
-AED 0157-SPO-SON,Hallenwartraum linke Seite,Merlitzstr.16 (O:Adlershof),Sporthalle Adlershof,13534136,5243325
-AED 0158-SPO-SON,Erste-Hilfe-Raum,Sömmeringstr. 29 (O:Charlottenburg),Sporthalle Charlottenburg,13305594,52523446
-AED 0159-SPO-SON,"neben Hallenwartraum, 4. OG",Uhlandstr. 194 (O:Charlottenburg),Sporthalle im Freizeitzentrum am Steinplatz,13326841,52506866
-AED 0161-SPO-SON,Platzwartraum,Lippstädter Str. 5 (O:Lichterfelde),Sporthalle Lippstädter Straße,13303046,52413247
-AED 0162-SPO-SON,Platzwartraum (Raum 12),Onkel-Tom-Str. 58 (O:Zehlendorf),Sporthalle Onkel-Tom-Str.,13252236,52446314
-AED 0163-SPO-SON,Hallenwartraum,Schloßstr. 1 (O:Charlottenburg),Sporthalle Schloßstr.,13294932,52518418
-AED 0164-SPO-SON,"Eingang, linke Wand",Zur Uferbahn 10 (O:Grünau),Sporthalle Wasserfahrsport Zur Uferbahn,13583127,5241031
-AED 0165-SPO-SON,Platzwartraum,Straße am Schoelerpark 39 (O:Wilmersdorf),Sportplatz am Volkspark,13322432,52483955
-AED 0166-SPO-SON,Platzwartraum/Wandhalterung,Aroser Allee 184 (O:Reinickendorf),Sportplatz Aroser Allee,13353497,52572109
-AED 0167-SPO-SON,Platzwartraum/Wandhalterung,Berliner Str. 75(O:Tegel),Sportplatz Berliner Str.,13290028,52585215
-AED 0168-SPO-SON,Platzwartraum/Wandhalterung,Elchdamm 171 (O:Heiligensee),Sportplatz Elchdamm,13221212,52600224
-AED 0169-SPO-SON,Platzwartraum/Wandhalterung,Finsterwalder Str. 58 (O:Märkisches Viertel),Sportplatz Finsterwalder Str.,13345667,52600855
-AED 0170-SPO-SON,Platzwartraum/Wandhalterung,Freiheitsweg 20 (O:Reinickendorf),Sportplatz Freiheitsweg,13355774,52576133
-AED 0171-SPO-SON,Platzwartraum/Wandhalterung,Göschenstr. 9 (O:Wittenau),Sportplatz Göschenstr.,1332756,52596356
-AED 0172-SPO-SON,Platzwartraum/Wandhalterung,Heidenheimer Str. 53 (O:Hermsdorf),Sportplatz Heidenheimer Str.,1329829,52616135
-AED 0173-SPO-SON,Platzwartraum/Wandhalterung,Königsweg 10 (O:Grunewald),Sportplatz Im Jagen 57-58,13250847,52484964
-AED 0174-SPO-SON,Platzwartraum/Wandhalterung,Königshorster Str. 10 (O:Märkisches Viertel),Sportplatz Königshorster Str.,13349888,52598389
-AED 0175-SPO-SON,Platzwartraum/Wandhalterung,Rütlistr. 19 (O:Reinickendorf),Sportplatz Schäfersee,13356884,5256393
-AED 0176-SPO-SON,Platzwartraum/Wandhalterung,Uranusweg 34 (O:Reinickendorf),(alt) Sportplatz Scharnweberstr.,13315251,52564661
-AED 0177-SPO-SON,Platzwartraum/Wandhalterung,Schluchseestr. 68 (O:Waidmannslust),Sportplatz Schluchseestr.,13337646,52608133
-AED 0178-SPO-SON,Platzwartraum/Wandhalterung,Schönfließer Str. 19 (O:Frohnau),Sportplatz Schönfließer Str.,13291046,52642292
-AED 0179-SPO-SON,Platzwartraum/Wandhalterung,Seebadstr. 40 (O:Hermsdorf),Sportplatz Seebadstr.,13321691,52615931
-AED 0180-SPO-SON,Platzwartraum/Wandhalterung,Sömmeringstr. 15 (O:Charlottenburg),Sportplatz Sömmeringstraße,13304791,52522189
-AED 0181-SPO-SON,Platzwartraum/Wandhalterung,Thurgauer Str. 45 (O:Reinickendorf),Sportplatz Thurgauer Str.,13355885,52570491
-AED 0182-SPO-SON,"Haupteingang, rechte Wand",Dörpfeldstr. 89 (O:Adlershof),Fritz-Lesch-Sportplatz,13555198,52439953
-AED 0183-SPO-SON,neben Platzwartraum,Harbigstr. 40 (O:Westend),Sportplatz Eichkamp,13257287,52498497
-AED 0184-SPO-SON,neben Platzwartraum,Fritschestr. 21 (O:Charlottenburg),Sportplatz Fritschestr.,13298647,52514504
-AED 0185-SPO-SON,Kabinengang (zw. Kab.1 und 2),Heckerdamm 204 (O:Charlottenburg-Nord),Sportplatz Heckerdamm,13306082,52539668
-AED 0186-SPO-SON,Platzwartraum,Jungfernheideweg 70 (O:Charlottenburg-Nord),Sportanlage Jungfernheide,13274239,5254547
-AED 0187-SPO-SON,Platzwartraum,Kühler Weg 12 (O:Westend),Sportplatz Kühler Weg,1326017,52495808
-AED 0188-SPO-SON,im Casino,Ollenhauerstr. 64E (O:Reinickendorf),Sportplatz Ollenhauerstr.,13337952,52576988
-AED 0189-SPO-SON,Platzwartraum,Kreuznacher Str. 29 (O:Steglitz),Sportplatz Schildhornstr.,13313799,52466721
-AED 0190-SPO-SON,Vorraum/Wandhalterung,Hatzefeldtallee 29 (O:Tegel),Sportplatz Hatzfeldtallee,13294871,52593024
-AED 0191-SPO-SON,Schiedsrichterraum,Wackerweg o.Nr. (O:Reinickendorf),Sportplatz Wackerweg,13308975,52575031
-AED 0192-SPO-SON,Kabinengang im Neubau,Spandauer Damm 150 (O:Westend),Sportplatz Westend,1327384,52522949
-AED 0193-SPO-SON,"EG, neben Erste-Hilfe-Raum",Waldschulallee 34 (O:Westend),Mommsen-Stadion,13263697,5250068
-AED 0194-SPO-SON,neben Hallenwartraum,Forckenbeckstr. 37 (O:Schmargendorf),Werner-Ruhemann-Sporthalle,13297023,52481703
-AED 0195-SPO-SON,neben dem Platzwartraum,Forckenbeckstr. 14 (O:Schmargendorf),Stadion Wilmersdorf,13302194,52484464
-AED 0196-SPO-SON,neben dem Platzwartraum,Forckenbeckstr. 14 (O:Schmargendorf),Stadion Wilmersdorf,13301643,52484598
-AED 0197-EKZ-SON,"Wachschutzbüro, EG",Klosterstraße 3 (O:Spandau),Spandau Arcaden,13195835,52534218
-AED 0198-KUT-ASB,"Adria-Filmtheater, Foyer links, Durchgang zur Küche",Schloßstraße 48 (O:Steglitz),Schloßpark Theater,13318076,52454698
-AED 0199-EKZ-ASB,bei Saturn (Infotheke),Alexanderplatz 3 (O:Mitte),Einkaufszentrum - Die Mitte,13415011,52521496
-AED 0200-HBG-ASB,"EG, Rezeption",Sonnenallee 225 (O:Neukölln),Estrel-Residence-Hotel,13458631,52472952
-AED 0201-EKZ-ASB,"EG, Rolltreppe am Brunnen/Café Tiffany",Tauentzienstraße 9 (O:Charlottenburg),EUROPA-CENTER,13337213,52504585
-AED 0202-EKZ-ASB,"Röntgeninstitut, 1. OG, Raum 1.22",Möllendorffstr. 45-52,Möllendorff-Passage,13480167,52525011
-AED 0203-SON-ASB,"Personaleingang 3, Hedwig-Wachenheim-Str., 1. OG",Mercedes Platz 1 (O:Friedrichshain),Uber Arena,13444582,52506171
-AED 0204-OLY-SON,Flur hinter der Kasse,Glockenturmstr. 14 (O:Westend),Eissporthalle Glockenturmstr.,13227103,5251376
-AED 0205-EKZ-SON,"Büroflur, 1. OG, nicht öffentlich",Friedrichstr.83 (O:Mitte),Rosmarin Karree,13389275,52516083
-AED 0206-SEN-SON,Pförtnerloge,Otto-Suhr-Allee 100 (O:Charlottenburg),Rathaus Charlottenburg,13308217,52517129
-AED 0207-SEN-SON,Pförtnerloge,Alt-Köpenick 21 (O:Köpenick),Rathaus Köpenick,13574753,52445651
-AED 0208-SEN-SON,Pförtnerloge,Yorckstr. 4 (O:Kreuzberg),Rathaus Kreuzberg,13386601,52493425
-AED 0209-SEN-SON,Pförtnerloge,Am Rathaus 9 (O:Schöneberg),Rathaus Schöneberg,13344199,52485012
-AED 0210-SEN-SON,Pförtnerloge,Carl-Schurz-Straße 2 (O:Spandau),Rathaus Spandau,13200587,52535112
-AED 0211-SEN-SON,Pförtnerloge,Tempelhofer Damm 165 (O:Tempelhof),Rathaus Tempelhof,13385915,52462591
-AED 0212-SEN-SON,"EG, Wachdienstbüro, Raum 21",Neue Krugallee 4 (O:Plänterwald),Rathaus Treptow,13479816,52483679
-AED 0213-ASB-ASB,"linker Flur, Stiefelschrank",Hauptstr. 13A (O:Französisch-Buchholz),ASB Hugenottenhofkita Berlin,13431502,52605204
-AED 0214-ASB-ASB,"EG, Landesgeschäftsstelle",Rudolfstr. 9 (O:Friedrichshain),ASB Landesverband Berlin,13452825,5250425
-AED 0215-ASB-ASB,"EG, Ausbildungszentrum",Seestr. 120 (O:Wedding),ASB Berlin (Fernmeldedienst),13344379,52546977
-AED 0216-ASB-ASB,"4. OG, rechts neben dem Ausbildungsbüro",Lahnstr. 52 (O:Neukölln),ASB Regionalverband Berlin-Südwest e.V.,13447338,52468457
-AED 0217-ASB-ASB,EG im Foyer,Ehrenbergstr. 11 (O:Friedrichshain),ASB Nothilfe,13452299,52503793
-AED 0218-EKZ-SON,"3. OG, Sicherheitszentrale",Grunerstraße 20 (O:Mitte),ALEXA Shopping Center,13414583,52519907
-AED 0219-EKZ-SON,"EG, am Infostand",Franz-Stenzer-Straße 2 (O:Marzahn),EASTGATE Berlin,13543658,52543608
-AED 0220-EKZ-SON,"EG, in der BMZ",Märkische Allee 178 (O:Marzahn),EASTGATE Berlin,13543841,52544431
-AED 0221-EKZ-SON,"EG, Übergang zur Ladezone, neben Rossmann",Schnellerstr. 21 (O:Niederschöneweide),Zentrum Schöneweide,1350819,52456701
-AED 0222-EKZ-SON,"EG, neben den Aufzügen, Sicherheitsdienstbüro",Frankfurter Allee 111 (O:Friedrichshain),Ring-Center 1,13474475,52514189
-AED 0223-EKZ-SON,"EG, am Infostand",Am Borsigturm 2 (O:Tegel),Hallen am Borsigturm,13286826,52584626
-AED 0224-EKZ-SON,"EG, am Infostand",Alte Potsdamer Straße 7 (O:Tiergarten),Potsdamer Platz Arkaden (B 10),13374779,5250845
-AED 0225-EKZ-SON,UG neben Rewe,Walther-Schreiber-Platz 1,Schloss-Straßen-Center,13327708,52465112
-AED 0226-EKZ-SON,"EG, am Infostand",Prerower Platz 1 (O:Neu-Hohenschönhausen),Linden-Center,13505352,52563841
-AED 0228-SPO-SON,im Meisterbüro,Müllerstr. 185 (O:Wedding),Erika Heß Eisstadion,13369824,52536978
-AED 0229-SPO-SON,Platzwartraum,Lehrter Str. 59 (O:Moabit),Poststadion,13360158,52529692
-AED 0230-SPO-SON,Platzwartraum,Ostpreußendamm 3 (O:Lichterfelde),Stadion Lichterfelde,13323875,52438699
-AED 0231-EKZ-SON,"EGH, Centerinfo der Hauptmall",Markelstr. 62 (O:Steglitz),Boulevard Berlin,13325907,52462803
-AED 0232-OLY-SON,Empfang,Hanns-Braun-Str. o.Nr. (O:Westend),"Bildungsstätte der Sportjugend, Haus 27",13244806,52518431
-AED 0233-OLY-SON,in der Wache,Hanns-Braun-Str. o.Nr. (O:Westend),Olympiapark Berlin,13244077,52519381
-AED 0234-OLY-SON,Verwaltung/Annaheim,Hanns-Braun-Str. o.Nr. (O:Westend),Olympiapark Berlin,1323212,52516851
-AED 0235-SEN-SON,"Eingangsbereich, links neben Infotafel",Brunnenplatz 1 (O:Gesundbrunnen),Amtsgericht Wedding (BIM 30081),13375506,52550723
-AED 0236-SEN-SON,"Eingangsbereich, rechte Wand",Schönstedtstr. 5 (O:Gesundbrunnen),Zentrales Mahngericht Berlin-Brandenburg,13374809,52549835
-AED 0237-SEN-SON,Pförtnerloge,Klosterstr. 59 (O:Mitte),Senatsverwaltung für Finanzen (BIM 30002),13412415,52515475
-AED 0238-BUN-SON,im Foyer,Steglitzer Damm 117 (O:Steglitz),Eisenbahn-Bundesamt,13359299,52448303
-AED 0239-BUN-SON,Eingangsbereich/Empfang,In den Ministergärten 6 (O:Mitte),Landesvertretung Rheinland-Pfalz,13378678,52512412
-AED 0240-KUT-ASB,"Foyer, links neben den Kassen",Seestr. 94 (O:Wedding),Cineplex Alhambra,13351145,52550424
-AED 0241-KUT-ASB,"Foyer, links neben den Kassen",Havelstr. 20 (O:Spandau),Cineplex Spandau,13206391,52538488
-AED 0242-KUT-ASB,"1. OG, Foyer, Durchgang zu den Toiletten",Gutsmuthsstr. 28 (O:Steglitz),Titania-Palast,13326687,52464112
-AED 0243-HBG-ASB,Rezeption,Anhalter Str. 2 (O:Kreuzberg),Novotel Suites Berlin,13383421,5250463
-AED 0244-HBG-ASB,Rezeption,Anhalter Str. 4 (O:Kreuzberg),IBIS Hotel,13384368,52504787
-AED 0245-HBG-ASB,Rezeption,Anhalter Str. 8 (O:Kreuzberg),relexa hotel Stuttgarter Hof,13385018,52504907
-AED 0246-HBG-SON,Rezeption,Emser Str. 6 (O:Wilmersdorf),CoLiving Emser 6,13319737,5249363
-AED 0247-HBG-SON,Rezeption,Lützowufer 15 (O:Tiergarten),Grand Hotel Esplanade,13355423,52505474
-AED 0248-HBG-SON,Rezeption,Jägerstraße 39 (O:Mitte),Hotel Arcotel John F,13397848,52515042
-AED 0249-HBG-SON,Rezeption,Oranienburger Str. 52 (O:Mitte),Hotel Arcotel Velvet,1338826,52525957
-AED 0250-HBG-SON,Rezeption,Karl-Liebknecht-Str. 3 (O:Mitte),Hotel Dom-Aquaree (Bauteil A),13402775,52519544
-AED 0251-HBG-SON,Rezeption,Sömmeringstr. 24 (O:Charlottenburg),AMBER ECONTEL Berlin-Charlottenburg (Notunterkunft),13306374,52523494
-AED 0252-HBG-SON,Rezeption,Wanda-Kallenbach-Straße 2 (O:Friedrichshain),Hotel Holiday Inn - City East Side,13444616,5250487
-AED 0253-HBG-SON,Rezeption,An der Schillingbrücke 2 (O:Friedrichshain),Ibis Hotel Berlin Ostbahnhof,13429769,52510056
-AED 0254-HBG-SON,Rezeption,Alexanderplatz 7 (O:Mitte),Park Inn Berlin Alexanderplatz Hotel,13412812,52523061
-AED 0255-BUN-SON,Empfang,Ingeborg-Drewitz-Allee 4 (O:Moabit),Bundesministerium des Innern und für Heimat (Dienstsitz),13361966,52521375
-AED 0256-BUN-SON,Empfang,Chausseestr. 96 (O:Mitte),Bundesnachrichtendienst - Zentrale,13376271,52535753
-AED 0257-BUN-SON,Empfang,Fehrbelliner Platz 3 (O:Wilmersdorf),Bundesnetzagentur,13314719,52489727
-AED 0258-BUN-SON,Empfang,Seidelstr. 49 (O:Tegel),Bundesnetzagentur Außenstelle Berlin,13293855,52568546
-AED 0259-SEN-SON,Empfang,Culemeyerstr. 2 (O:Marienfelde),Unfallkasse Berlin,13391837,52417131
-AED 0260-SPO-SON,Sekretariat,Waldmeisterstr. 10 (O:Grunewald),TC 1899 e.V. Blau-Weiss,13273623,52475931
-AED 0261-SPO-SON,Haupteingang,Franziusweg 114 (O:Lichtenrade),Tennisclub Berlin Lichtenrade,13388056,52390395
-AED 0262-SCH-SON,Gang zur Verwaltung,Alte Jakobstr. 12 (O:Kreuzberg),Freie Waldorfschule Kreuzberg,13399452,5250404
-AED 0263-HTW-ASB,Foyer,Ostendstraße 25 (O:Oberschöneweide),Technologie und Gründerzentrum Spreeknie,13533657,5245748
-AED 0264-HTW-ASB,"Geb. A, Foyer",Wilhelminenhofstr. 75A (O:Oberschöneweide),HTW - Campus Wilhelminenhof,13525125,52457495
-AED 0265-HTW-ASB,"Geb. B, EG, Servicepoint",Wilhelminenhofstr. 75A (O:Oberschöneweide),HTW - Campus Wilhelminenhof,1352598,52457639
-AED 0266-HTW-ASB,"Geb. C, Foyer",Wilhelminenhofstr. 75A (O:Oberschöneweide),HTW - Campus Wilhelminenhof,1352617,52456631
-AED 0267-HTW-ASB,"Geb. F, Flur, Erdgeschoss",Wilhelminenhofstr. 75A (O:Oberschöneweide),HTW - Campus Wilhelminenhof,13525981,52455534
-AED 0268-HTW-ASB,"Geb. G, Foyer",Wilhelminenhofstr. 75A (O:Oberschöneweide),HTW - Campus Wilhelminenhof,13524619,52456664
-AED 0269-HTW-ASB,"Geb. A, Foyer",Treskowallee 8 (O:Karlshorst),HTW - Campus Treskowallee,13525788,5249248
-AED 0270-HTW-ASB,"Geb. A, Römerflügel",Treskowallee 8 (O:Karlshorst),HTW - Campus Treskowallee,13526283,52492229
-AED 0271-HTW-ASB,"Geb. B, neben Eingangstür",Treskowallee 8 (O:Karlshorst),HTW - Campus Treskowallee,13526197,52492708
-AED 0272-HTW-ASB,"Geb. C, Foyer",Treskowallee 8 (O:Karlshorst),HTW - Campus Treskowallee,13524268,52492172
-AED 0273-HTW-ASB,"Geb. D, Foyer rechts",Treskowallee 8 (O:Karlshorst),HTW - Campus Treskowallee,13523638,52492452
-AED 0274-HTW-ASB,"Geb. F, Sporthalle, Eingangsbereich rechts",Treskowallee 8 (O:Karlshorst),HTW - Campus Treskowallee,13525221,52493821
-AED 0275-SCH-SON,Lehrerzimmer,Hatzfeldtallee 2 (O:Tegel),Humboldt Gymnasium,13289059,52591834
-AED 0276-SCH-SON,Sporthalle,Im Spektefeld 29 (O:Falkenhagener Feld),Martin-Buber-Oberschule,13157198,5254755
-AED 0277-SCH-SON,"EG, EH-Raum neben Sekretariat",Badenallee 31 (O:Westend),Moser-Schule Berlin (Gymnasium),13263459,52509479
-AED 0278-SCH-SON,"3.OG, vor EH-Raum",Haarlemer Str. 23 (O:Britz),OSZ Informations- und Medizintechnik,13452419,52458177
-AED 0279-SON-SON,Ausstellungsebene,Karl-Liebknecht-Str. 1 (O:Mitte),DDR-Museum,13402609,52519264
-AED 0280-SON-SON,"Haupteingang, blauer Schrank",Päwesiner Weg 30,Contag AG,1317828,5253153
-AED 0281-MSB-SON,Eingangsbereich/Empfang,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13274425,5250132
-AED 0282-SON-SON,"Treppenhaus, EG",Kohlfurter Str. 10 (O:Kreuzberg),Mosaik-Werkstätten für Behinderte,13414855,52497455
-AED 0283-SON-SON,Eingangsbereich/Ausstellungshalle,Invalidenstr. 43 (O:Mitte),Museum für Naturkunde,13379263,52530241
-AED 0284-SON-SON,Pförtnerloge Pforte V,Invalidenstr. 43 (O:Mitte),Museum für Naturkunde,133792,52530951
-AED 0285-MED-SON,"3. OG, Nephrologie",Schönstr. 90 (O:Weißensee),Ärztehaus Park-Klinik,13450517,52553924
-AED 0286-SON-SON,Sparkasse,Turmstr. 33 (O:Moabit),Berliner Sparkasse Beratungscenter Tiergarten,13340133,52526551
-AED 0287-SON-SON,"1. OG, Defi Corning",Leipziger Straße 121 (O:Mitte),Büro- und Wohngebäude Wilhelmstr.,13384475,5251022
-AED 0288-SON-SON,im Haus,Holzmarktstr. 15 (O:Mitte),Bürogebäude Holzmarktstr.,13422809,52513659
-AED 0289-SON-SON,"Atrium Tower, 4. Etage, Rezeption",Eichhornstraße 3 (O:Tiergarten),Daimler Haus (Gebäude C 1),13372688,52505491
-AED 0290-MED-SON,Eichkamp-Praxis,Zikadenweg 33 (O:Westend),Die Eichkamp Praxis,13264218,52495468
-AED 0291-SON-SON,3. Etage,Markgrafenstr. 33 (O:Mitte),DIS AG,13393879,52512016
-AED 0292-SON-SON,"Eingangbereich, Hochpaterre", Wilhelminenhofstr. 75 (O:Oberschöneweide),Rathenau-Villa (OSW),13527622,52457128
-AED 0293-SON-SON,"Eingangbereich, linke Wand",Peter-Behrens-Str. 15 (O:Oberschöneweide),First-Sensor-AG,13526877,5245461
-AED 0294-SON-SON,Empfang,Kaiserdamm 3 (O:Charlottenburg),Flüchtlingsunterkunft Charlottenburg,13294562,5251111
-AED 0295-SON-SON,Security,Hohentwielsteig 27 (O:Zehlendorf),Flüchtlingsunterkunft Zehlendorf,13240227,52431867
-AED 0296-SON-SON,Bühneneingang,Kalkscheunenstr. o.Nr. (O:Mitte),Friedrichstadtpalast,13389515,52523909
-AED 0297-SON-SON,Eingangsbereich,Barnetstraße 11 (O:Lichtenrade),Gemeinschaftshaus Lichtenrade,13405583,52394197
-AED 0298-SON-SON,"Flur, 2. OG",Alarichstr. 12 (O:Tempelhof),Geschäftshaus (Büro-Verwaltung),13378201,52452866
-AED 0299-MED-SON,Gebäude M,Birkenstraße 62 (O:Moabit),Gesundheits- und Sozialzentrum Moabit Haus M und N,1334746,52529949
-AED 0300-MED-SON,Gebäude N,Birkenstraße 62 (O:Moabit),Gesundheits- und Sozialzentrum Moabit Haus M und N,13348776,5253002
-AED 0301-MED-SON,Empfang,Neuendorfer Str. 25 (O:Hakenfelde),Gesundheitszentrum,13209469,52546791
-AED 0302-SON-SON,im Haus,Albrechtstr. 10B (O:Mitte),Hauptverband der Berufsgenossenschaft,13384577,52521741
-AED 0303-SON-SON,"EG, Empfang",Mohrenstr. 20 (O:Mitte),ZDH - Zentralverband des Deutschen Handwerks,13391328,52511907
-AED 0304-SON-SON,im Haus,Am Weidendamm 1A (O:Mitte),Haus für Dienstleistung und Tourismus,13388898,52521853
-AED 0305-SON-SON,"EG, WC-Center",Europaplatz 1 (O:Moabit),Berlin Hauptbahnhof-Rail & Fresh WC,13369185,52525043
-AED 0306-SON-SON,"EG, WC-Center",Am Ostbahnhof 9 (O:Friedrichshain),Rail & Fresh WC Berlin Ostbahnhof,13434332,52509869
-AED 0307-SON-SON,im Haus,Wittenberger Str. 38 (O:Marzahn),Seniorenpflegeheim Wittenberger Str.,13567695,5256407
-AED 0308-SON-SON,Werkschutztor 1,Huttenstraße 12 - 16 (O:Moabit),Siemens ENERGY,13323904,52528081
-AED 0309-SON-SON,Eingang/Pförtner,Bona-Peiser Weg 2 (O:Mitte),Spreeport Verdi,13427737,52509205
-AED 0310-SON-SON,"2. Etage, EH-Wand im Eingangsbereich",Spittelmarkt 12 (O:Mitte),spektrumK GmbH,13401353,52511719
-AED 0311-MED-SON,"3. OG, Praxisräume",Senftenberger Ring 5A (O:Märkisches Viertel),Hausärztliche Praxisgemeinschaft,13355651,5259767
-AED 0312-MED-SON,"1. OG, Foyer",Straße 9 3 (O:Lichtenrade),Jochum Medizintechnik GmbH,13413435,52401438
-AED 0313-MED-SON,Wand am Haupteingang innerhalb des Gebäudes,Welserstr. 23 (O:Schöneberg),Kinder- und Jugendpsychiatrischer Dienst,1334191,52498603
-AED 0314-MED-SON,"Praxisräume, 1. OG",Groß-Ziethener Str. 35 (O:Lichtenrade),Praxis Dr. med. P. Bornmann,13410288,52394362
-AED 0315-MED-SON,"Praxisräume, 1. OG",Schlüterstr. 35 (O:Charlottenburg),Praxis Dr. Vallee,13316707,52502808
-AED 0316-MED-SON,Praxisräume,Osdorfer Str. 50 (O:Lichterfelde),Praxisgemeinschaft Dres. Kellermann-Rieger-Braker,13319826,52412028
-AED 0317-MED-SON,Praxisräume,Gürtelstr. 33 (O:Prenzlauer Berg),Seniorenwohnhaus Gürtelstr. 33,1345099,52545478
-AED 0318-MED-SON,Praxisräume,Schweinfurthstr. 43 (O:Dahlem),Arztpraxis Reinhardt,13296419,52465939
-AED 0319-MED-SON,"1. OG, Orthopädie- und Chirurgiezentrum",Oranienburger Str. 86 (O:Wittenau),Wohn- und Geschäftsgebäude Oranienburger Str. 86,13333345,52595282
-AED 0320-SON-ASB,"Eingangsbereich, Empfang",Hellersdorfer Str. 235 (O:Hellersdorf),fitX Hellersdorf,13602941,52536375
-AED 0321-SON-ASB,"Eingangsbereich, Empfang",Weißenhöher Str. 88 (O:Biesdorf),fitX Biesdorf,13558048,52507087
-AED 0322-SON-ASB,"Eingangsbereich, Empfang",Oraniendamm 6 - 10 (O:Waidmannslust),fitX Waidmannslust,13326227,52607646
-AED 0323-SON-ASB,"Eingangsbereich, Empfang",Ullsteinstr. 128 (O:Tempelhof),fitX Tempelhof,13388083,52454011
-AED 0324-SON-ASB,"Eingangsbereich, Empfang",Oderbruchstr. 14 (O:Fennpfuhl),fitX Landsberger Allee,1346154,52530101
-AED 0325-SON-ASB,"Eingangsbereich, Empfang",Kurfürstendamm 156 (O:Wilmersdorf),fitX Wilmersdorf,13302959,52498947
-AED 0326-SON-ASB,"Eingangsbereich, Empfang",Tamara-Danz-Str. 11 (O:Friedrichshain),fitX East-Side-Mall,13445202,52505888
-AED 0327-SON-ASB,"Eingangsbereich, Empfang",Wilhelm-Kabus-Str. 77 (O:Schöneberg),fitX Südkreuz,13364562,52478392
-AED 0328-SON-ASB,"Eingangsbereich, Empfang",Hauptstraße 141 (O:Schöneberg),fitX Schöneberg,13355728,52485614
-AED 0329-SON-ASB,"Eingangsbereich, Empfang",Alexanderstraße 7 (O:Mitte),fitX Alexanderplatz,13416514,52522821
-AED 0330-SON-ASB,"Eingangsbereich, Empfang",Stromstraße 11 (O:Moabit),fitX Moabit,13343667,52527319
-AED 0331-SON-ASB,EG,Lindenstr. 67 (O:Kreuzberg),BKK VBU Hauptverwaltung,13397224,5250636
-AED 0332-SON-ASB,"Servicecenter, 1. OG",Wiltbergstr. 9 (O:Buch),BKK VBU Buch,13495199,52635289
-AED 0333-SON-ASB,Servicecenter,Frankfurter Allee 231 A (O:Lichtenberg),BKK VBU Lichtenberg,13496093,5251269
-AED 0334-SON-ASB,"Servicecenter, Küche",Fritz-Lang-Str. 2 (O:Hellersdorf),BKK VBU Hellersdorf,13603213,52536619
-AED 0335-SEN-ASB,1. OG & 6. OG,Große-Leege-Str. 103 (O:Alt-Hohenschönhausen),Bürgeramt 4 Alt-Hohenschönhausen,13500346,52545416
-AED 0336-SEN-ASB,3. Etage,Alfred-Kowalke-Str. 24 (O:Friedrichsfelde),Bezirksamt Lichtenberg (Gesundheitsamt),13524529,52507675
-AED 0337-SEN-ASB,Pförtner,Alt-Friedrichsfelde 60 (O:Friedrichsfelde),Bildungs- und Verwaltungszentrum Haus 2,13525633,52509363
-AED 0338-SEN-ASB,"Haupteingang, rechte Wand",Breite Str. 24A (O:Pankow),Rathaus Pankow,13402365,52569065
-AED 0339-SEN-ASB,"Haupteingang, links neben Pförtnerloge",Hanna-Renate-Laurien-Platz 1 (O:Lankwitz),Rathaus Lankwitz (BIM 30047),13343621,52438527
-AED 0340-SEN-ASB,"EG, Wachdienst",Zum Großen Windkanal 4 (O:Adlershof),Bezirksamt Treptow-Köpenick,13531483,5243419
-AED 0341-SEN-ASB,"2. OG, BVV-Büro",Karl-Marx-Straße 83 (O:Neukölln),Rathaus Neukölln,13435068,5248144
-AED 0342-SEN-ASB,"4. OG, Kantine",Karl-Marx-Straße 83 (O:Neukölln),Rathaus Neukölln,13435653,52481774
-AED 0343-SEN-ASB,"Pforte Donaustr., EG",Donaustraße 29 (O:Neukölln),Rathaus Neukölln,13436557,52481675
-AED 0344-SEN-ASB,"Altbauteil, 2. OG, Raum 2026B",Yorckstr. 4 (O:Kreuzberg),Rathaus Kreuzberg,13386651,52494075
-AED 0345-SEN-ASB,"EG, ehem. Pförtnerloge",chlesische Str. 27A (O:Kreuzberg),Bürgeramt 2.0,13447654,52498381
-AED 0346-SEN-ASB,"4. OG, zwischen Treppenhaus und Lagerraum 421",Adalbertstr. 23B (O:Kreuzberg),Familienzentrum Kreuzberg,13421959,52504331
-AED 0347-SEN-ASB,"2. OG, ggü. Raum 208",Urbanstr. 24 (O:Kreuzberg),Amts-und Vertrauensärztlicher Dienst,13410168,52492407
-AED 0348-SEN-ASB,1. OG,Schöneberger Str. 20 (O:Kreuzberg),Regionaler Sozialpädagogischer Dienst (RSD),13377335,52501807
-AED 0349-SEN-ASB,Vorraum Pförtnerloge,Petersburger Str. 86 (O:Friedrichshain),Rathaus Friedrichshain,13452764,52517918
-AED 0350-SEN-ASB,"EG, Raum 36",Hans-Schmidt-Str. 18 (O:Adlershof),Bezirksamt Treptow-Köpenick,13532754,52434147
-AED 0351-SEN-ASB,"EG, Raum 121",Hans-Schmidt-Str. 10 (O:Adlershof),Bezirksamt Treptow-Köpenick,13534323,52435904
-AED 0352-SEN-ASB,"Aufgang B, EG",Frankfurter Allee 35 (O:Friedrichshain),Bürgeramt 3 Friedrichshain,13461522,52515568
-AED 0353-SEN-ASB,"Aufgang A, 1. OG",Frankfurter Allee 35 (O:Friedrichshain),Bürgeramt 3 Friedrichshain,13461824,52515232
-AED 0354-SEN-ASB,EG, Albrecht-Achilles-Str. 61 (O:Wilmersdorf),Finanzamt Wilmersdorf,13304008,52498022
-AED 0355-SEN-ASB,"Finanzamt, Flur",Allee der Kosmonauten 29 (O:Marzahn),Finanzamt Marzahn-Hellersdorf (BIM 10002),13526462,52526445
-AED 0356-SEN-ASB,"Jobcenter, EG",Allee der Kosmonauten 29 (O:Marzahn),Jobcenter Marzahn-Hellersdorf,13527239,52526463
-AED 0357-SEN-ASB,"Jobcenter, 5. OG",Allee der Kosmonauten 29 (O:Marzahn),Jobcenter Marzahn-Hellersdorf,13527771,52526445
-AED 0358-SEN-ASB,"Jobcenter, 5. OG",Allee der Kosmonauten 33F (O:Marzahn),Jobcenter Marzahn-Hellersdorf,13530002,52526015
-AED 0359-SEN-ASB,"Flur, EG",Alt-Moabit 101D (O:Moabit),Rechnungshof von Berlin,13347471,52523101
-AED 0360-SON-ASB,"EG, Spielsaal",Altstädter Ring 1 (O:Spandau),Spielbank Spandau,13199224,52535315
-AED 0361-SCH-ASB,,Bayernallee 4 (O:Westend),Heinz-Berggruen-Gymnasium,132665,52511638
-AED 0362-SEN-ASB,"Leitstelle, hinter der Drehtür",Berliner Straße 112 (O:Wilmersdorf),IT-Dienstleistungszentrum,13316158,52486258
-AED 0363-SON-SON,"3. OG, Perpetua Holding",Clausewitzstr. 7 (O:Charlottenburg),Perpetua Holding,13309701,52501086
-AED 0364-SCH-ASB,"linker Eingang, Foyer",Beymestr. 6 - 7 (O:Steglitz),Evangelische Schule Steglitz (Integrierte Sekundarschule),13331792,52450528
-AED 0365-SEN-ASB,Pförtner,Bismarckstr. 48 (O:Charlottenburg),"Finanzamt Charlottenburg, (BIM 30031)",13303708,52511715
-AED 0366-MED-ASB,Arztpraxis,Bismarckstr. 72 (O:Steglitz),Praxis Keilich,13339408,52462993
-AED 0367-SON-ASB,Foyer,Blücherstraße 62 (O:Kreuzberg),Arbeiterwohlfahrt,13398421,52495152
-AED 0368-SON-ASB,"EG, Foyer",Brandenburgische Str. 80 (O:Wilmersdorf),Landesgeschäftsstelle Paritätischer Wohlfahrtsverband Berlin,13318331,52487569
-AED 0369-SEN-ASB,"EG, Foyer rechts",Bredtschneiderstr. 5 (O:Westend),Finanzamt für Körperschaften 1(Oberfinanzdirektion),13280911,52508877
-AED 0370-SON-ASB,"EG, Rezeption, Backoffice rechts",Brunnenstr. 1 (O:Mitte),ibis Styles Berlin Mitte,13401215,52530067
-AED 0371-SON-ASB,"Schalterhalle, ggü. 8/9",Bundesallee 29 (O:Wilmersdorf),ADAC Geschäftsstelle und Reisebüro,13330547,52491208
-AED 0372-SON-ASB,"EG, Tür zum Seminarbereich",Colditzstraße 34 (O:Tempelhof),Johanniter-Akademie Berlin-Brandenburg,13394644,52455491
-AED 0373-BUN-ASB,"EG, Pförtner",Dorotheenstraße 101 (O:Mitte),Jakob-Kaiser-Haus,13379955,52517896
-AED 0374-SEN-ASB,"EG, Pförtner",Eichborndamm 208 (O:Wittenau),Finanzamt Reinickendorf (BIM 30038),13324823,52587233
-AED 0375-SON-ASB,"EG, Pförtnerloge",(O:Schöneberg),EUREF-Campus Haus 21-22,1335654,52480737
-AED 0376-SON-ASB,"1. OG, Sekretariat",UREF-Campus 7 (O:Schöneberg),ubitricity - Gesellschaft für verteilte Energiesysteme mbH,13355732,52481455
-AED 0377-SON-ASB,"EG, Sicherheitszentrale",Fasanenstr. 85 (O:Charlottenburg),Ludwig-Erhard-Haus (IHK Berlin),13328246,52506508
-AED 0378-SPO-ASB,Eingangsbereich Funktionsgebäude,Fennpfuhlweg 53 (O:Neu-Hohenschönhausen),Wartenberger Sportverein e.V.,13513489,52577326
-AED 0379-MED-ASB,"Praxisräume, EG",Ferdinandstr. 21 (O:Lichterfelde),Praxis Zenker & Partner,13330489,52425354
-AED 0380-SON-ASB,Empfang,Hausvogteiplatz 13 (O:Mitte),Verband forschender Arzneimittelhersteller e.V.,13397271,52512993
-AED 0381-HBG-ASB,"EG, Rezeption",Friedrichstr. 103 (O:Mitte),Hotel Melia,13388306,525217
-AED 0382-SON-ASB,"EG, Eingangsbereich",Friedrichstraße 90 (O:Mitte),Kulturkaufhaus Dussmann,13388731,52518314
-AED 0383-SON-ASB,6. Obergeschoß,Friedrichstr. 95 (O:Mitte),German Business Protection GmbH,13389772,52519274
-AED 0384-SON-ASB,"EG, Foyer",Gotthardstr. 100 (O:Reinickendorf),Miebach Schaltanlagen und Montagen GmbH & Co. KG,13331322,5256316
-AED 0385-SON-ASB,"EG, Empfang",Henriette-Herz-Platz 2 (O:Mitte),Deutscher Gewerkschaftsbund im Quartier an der Museumsinsel,1340085,52522081
-AED 0386-SON-ASB,"8. OG, Herrentoilette",Henriette-Herz-Platz 2 (O:Mitte),Deutscher Gewerkschaftsbund im Quartier an der Museumsinsel,13401154,52522058
-AED 0387-SPO-ASB,Eingangsbereich,Holzhauser Str. 140D (O:Wittenau),Kieser Training,13311679,5258465
-AED 0388-SON-ASB,Eingangsbereich,Ifflandstr. 12,Mosaik-Werkstätten für Behinderte,13422054,52515944
-AED 0389-SON-ASB,Lobby/Garderobe,Panoramastraße 1 A (O:Mitte),Fernseh- und UKW-Turm,13409883,52521049
-AED 0390-SON-ASB,EG,Panoramastraße 1 A (O:Mitte),Spielbank Berlin am Fernsehturm,13409486,52520083
-AED 0391-SON-ASB,"1. OG, Pokerbereich",Panoramastraße 1 A (O:Mitte),Spielbank Berlin am Fernsehturm,13409183,52520272
-AED 0392-SEN-ASB,"4. OG, ggü. Aufzug",Osloer Str. 37 (O:Gesundbrunnen),Finanzamt Wedding (BIM 30055),13374005,52557112
-AED 0393-SON-ASB,"EG, Rezeption Backoffice",Oderberger Str. 57 - 59 (O:Prenzlauer Berg),Hotel Stadtbad Prenzlauer Berg,13410514,52537931
-AED 0394-SEN-ASB,"EG, Eingangsbereich",Nonnendammallee 21 (O:Haselhorst),Finanzamt Spandau (BIM 30054),13238343,52538545
-AED 0395-BUN-ASB,Eingangspforte,Niederkirchnerstraße 1 (O:Mitte),Bundesministerium der Finanzen (Dienstsitz),13383636,52507464
-AED 0396-HBG-ASB,"EG, Rezeption",Mohrenstr. 30 (O:Mitte),Hilton Domhotel Berlin,13392508,52512151
-AED 0397-SON-ASB,adviqo - Gebäude B4 - EG,Max-Dohrn-Straße 8 (O:Charlottenburg-Nord),berlinbiotechpark,13295761,52532278
-AED 0398-SON-ASB,adviqo - Gebäude B3 - 1. OG,Max-Dohrn-Straße 8 (O:Charlottenburg-Nord),berlinbiotechpark,13296161,5253245
-AED 0399-BUN-ASB,Eingangspforte,Mauerstr. 75 (O:Mitte),Bundesministerium der Finanzen,13387745,52509637
-AED 0400-SON-ASB,Empfangstresen,Masurenallee 6A (O:Westend),Kassenärztliche Vereinigung Berlin,13278108,52507162
-AED 0401-SON-ASB,Eingangsbereich, Marlene-Dietrich-Platz 1 (O:Tiergarten),Spielbank Berlin am Potsdamer Platz,1337215,52507599
-AED 0402-SON-ASB,Eingangsbereich,Magdalenenstr. 25 (O:Lichtenberg),Finanzamt für Körperschaften II und IV (BIM 30048),13488575,52514785
-AED 0403-HBG-ASB,"Spabereich, Fitness-Lounge",Lützowufer 15 (O:Tiergarten),Grand Hotel Esplanade,13354622,52505374
-AED 0404-SON-ASB,Eingangsbereich,Los-Angeles-Platz 1 (O:Charlottenburg),Spielbank Berlin  Los-Angeles-Platz,13336109,52502366
-AED 0405-SON-ASB,Fa. Scholz & Friends,Litfaß-Platz 1 (O:Mitte),Hackesches Quartier BT B1-3,13403555,52522009
-AED 0406-EKZ-ASB,Apotheke,Leipziger Str. (Hochhaus) - Leipziger Platz 12 (O:Mitte),Mall of Berlin - Leipziger Str. (Hochhaus),13381507,52509952
-AED 0407-SON-ASB,Empfang,Kochstraße 26 (O:Kreuzberg),IDEAL Versicherung AG,13388759,52506743
-AED 0408-SON-ASB,Foyer (Kulturprojekte Berlin GmbH),Klosterstr. 68,Palais Podewil,13412496,52517733
-AED 0409-SEN-ASB,Pförtnerloge,Klosterstraße 47 (O:Mitte),Altes Stadthaus (BIM 30046),13412196,52516649
-AED 0410-SCH-ASB,Rezeption,Kastanienallee 82 (O:Prenzlauer Berg),GLS Sprachenzentrum,13408449,52537013
-AED 0411-SON-ASB,Eingangsbereich (Heimathafen Neukölln),Karl-Marx-Str. 141 (O:Neukölln),Saalbau Neukölln,13439219,52476929
-AED 0412-KUT-ASB,"EG, Treppe K",Kantstr. 12 (O:Charlottenburg),Theater des Westens,13328838,52505684
-AED 0413-SPO-ASB,Eingang Fitnesshalle,Kamenzer Damm 30 (O:Lankwitz),INJOY Fitnessclub Berlin,13356005,52433314
-AED 0414-SPO-ASB,Eingangsbereich links,Jungfernheideweg 80 (O:Charlottenburg-Nord),Landesruderverband Berlin e.V.,13271569,52547872
-AED 0415-SEN-ASB,EG Zimmer 12,Invalidenstraße 52 (O:Moabit),Landessozialgericht (BIM 30085-86),1337141,52527358
-AED 0416-HBG-ASB,"EG, Lobby, Gepäckraum",nvalidenstraße 38 (O:Mitte),Hotel Mercure Berlin City,13381507,52530396
-AED 0417-MED-ASB,"2. OG, Endoskopie",Innsbrucker Str. 58 (O:Schöneberg),Gastroenterologie am Bayerischen Platz,13340548,52487885
-AED 0418-SON-ASB,Wache,Indira-Gandhi-Str. 66 (O:Alt-Hohenschönhausen),Berliner-Kindl-Schultheiss-Brauerei,13469845,52542575
-AED 0419-SON-ASB,Restaurant Stone Bistro,Im Marienpark 23 (O:Mariendorf),BrewDog GmbH (Brauerei-Produktion+Gastro),13368799,52438147
-AED 0420-BUN-ASB,Pförtner,Leipziger Str. 126 (O:Mitte),Bundesministerium der Finanzen,13382828,52510061
-AED 0421-SON-ASB,"22. OG, Rezeption",Potsdamer Platz 1 (O:Tiergarten),DCI Bürogebäude (Gebäude A1),1337549,52509335
-AED 0422-SON-ASB,"13. OG, interne Treppe",Potsdamer Platz 1 (O:Tiergarten),DCI Bürogebäude (Gebäude A1),1337549,52509229
-AED 0423-SEN-ASB,Eingangsbereich,Bülowstr. 85 (O:Schöneberg),Finanzamt Schöneberg (BIM 30035),1336177,52498083
-AED 0424-SON-ASB,"Bauteil C, EG, Raum C01 (myToys)",Potsdamer Str. 192 (O:Schöneberg),Bürogebäude,13359912,52491489
-AED 0425-SEN-ASB,2. OG,Rhinstr. 88 (O:Marzahn),Jobcenter Marzahn-Hellersdorf Rhinstr,13520484,52527788
-AED 0426-SEN-ASB,"4. OG, Südflügel, Flurende",Rhinstr. 88 (O:Marzahn),Jobcenter Marzahn-Hellersdorf Rhinstr,13520484,52527516
-AED 0427-SCH-ASB,Verwaltungsbereich,Ritterstr. 78 (O:Kreuzberg),Freie Waldorfschule Kreuzberg,13402143,52503583
-AED 0428-SON-ASB,"BASF, EG, Empfangstresen",Rotherstr. 11 (O:Friedrichshain),Oberbaum City (Gebäude 3),13450909,5250424
-AED 0429-SEN-ASB,"EG, Empfangsbereich",Sarrazinstr. 4 (O:Friedenau),Finanzamt Schöneberg (BIM 30063),13331862,52475421
-AED 0430-MED-ASB,"Eingang EG, Hinterhofseite",Schillerpromenade 36 (O:Neukölln),Praxis im Schillerkiez - Dr. Holzer,13423082,52476506
-AED 0431-MED-ASB,"Bauteil C, 1. OG, Radiologie",Schloßstr. 5 (O:Tegel),Facharztzentrum Tegel,13283507,52591318
-AED 0432-MED-ASB,"Bauteil C, 2. OG, Radiologie",Schloßstr. 5 (O:Tegel),Facharztzentrum Tegel,13283413,52591268
-AED 0433-SON-ASB,rail&fresh WC-Center,Seegefelder Str. 1 (O:Spandau),F-Bhf. Spandau,13197573,52534598
-AED 0434-SEN-ASB,Pförtnerloge,Seelenbinderstr. 99 (O:Köpenick),Finanzamt Treptow-Köpenick (BIM 30067),1358881,52455663
-AED 0435-SON-ASB,"EG, Eingangsbereich",Sieversufer 9 (O:Britz),Büro und Verwaltungsgebäude,13448741,52460724
-AED 0436-SON-ASB,Erdgeschoss,Sonnenallee 224C (O:Neukölln),Siebdruckerei Weidling GmbH,13455421,52471492
-AED 0437-THW-ASB,"1. Etage, Mitte Flur",Soorstr. 84 (O:Westend),"THW LV Berlin, Brandenburg, Sachsen-Anhalt",13279024,52516582
-AED 0438-SON-ASB,Eingangsbereich,Sophienwerderweg 50 (O:Haselhorst),Fa. Cemex,13222242,52535086
-AED 0439-SON-ASB,Waage/Kiesumschlagplatz,Sophienwerderweg 50 (O:Haselhorst),Fa. Cemex,13221903,52534528
-AED 0440-SEN-ASB,"EG, Durchgang",Storkower Str. 134 (O:Prenzlauer Berg),Finanzamt Pankow-Weißensee (BIM 30004),13452177,52532792
-AED 0441-SON-ASB,Sekretariat Planungsbüro Rohling,Stralauer Platz 34 (O:Friedrichshain),EnergieForum Berlin,13432365,52509023
-AED 0442-SEN-ASB,Foyer,Tempelhofer Damm 234 (O:Tempelhof),Finanzamt Tempelhof (BIM 30071),13383747,52454498
-AED 0443-SEN-ASB,Pförtnerloge,Thiemannstraße 1 (O:Neukölln),Finanzamt Neukölln (BIM 10030),13452572,52478805
-AED 0444-SON-ASB,Eingangsber. Verwaltungsgeb.,Ullsteinstr. 89 (O:Mariendorf),Berliner Presse Vertrieb GmbH,1339282,52452032
-AED 0445-SON-ASB,Büro Kommissionierungshalle,Ullsteinstr. 89 (O:Mariendorf),Berliner Presse Vertrieb GmbH,13393402,5245183
-AED 0446-SEN-ASB,Dachgeschoss (5. OG),Volkmarstr. 13 (O:Tempelhof),Finanzamt Körperschaften III (Dassbach Forum),13396216,5245421
-AED 0447-SON-ASB,"3. OG, Empfangsbereich VISSIO",Wagner-Régeny-Straße 12 (O:Adlershof),VISSIO Service Group,13535645,5243619
-AED 0448-SON-ASB,Eingangsbereich,Warmensteinacher Str. 59A (O:Buckow),boeba Montagen- und Aluminiumbau GmbH,13426011,52414029
-AED 0449-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13271964,52500751
-AED 0450-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",1327544,52502051
-AED 0451-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13276512,52504923
-AED 0452-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13281187,52505469
-AED 0453-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",1327889,52506105
-AED 0454-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13276731,52506073
-AED 0455-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13275148,52506737
-AED 0456-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13274476,52505987
-AED 0457-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13273422,52506905
-AED 0458-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13268224,52503818
-AED 0459-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13273712,5250362
-AED 0460-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13270916,52504239
-AED 0461-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13271385,52502833
-AED 0462-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13270487,52502126
-AED 0463-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13269664,52501471
-AED 0464-MSB-MSB,,Messedamm 22 (O:Westend),"Messehallen am Funkturm, Verwaltung",13271409,5249972
-AED 0465-SON-ASB,Eingangsbereich Berl. Volksbank,Wittestr. 30R (O:Tegel),TOP Tegel (Haus R),13295587,52579409
-AED 0466-EKZ-CAS,"EG, Kundeninfo Eingang Schloßstr.",Schloßstraße 33 - 37 (O:Steglitz),Das Schloss,13321171,52457772
-AED 0467-EKZ-CAS,"EG, Treppenhaus 7, Eingang Grunewaldstr.",Schloßstraße 33 - 37 (O:Steglitz),Das Schloss,13319989,5245735
-AED 0468-SON-ASB,"5. OG, Müller & Bleher",Nestorstr. 36 (O:Halensee),Müller & Bleher GmbH & Co. KG,13299449,52491042
-AED 0469-SEN-ASB,Bürgeramt,Otto-Schmirgal-Str. 1 (O:Friedrichsfelde),Bezirksamt Lichtenberg - Bürgeramt,13522142,52497657
-AED 0470-SEN-ASB,an der Information,Möllendorffstr. 6 (O:Lichtenberg),Rathaus Lichtenberg,13479598,52515959
-AED 0471-SEN-ASB,Raum 1.02,Oberseestr. 98 (O:Alt-Hohenschönhausen),Gesundheitsamt Berlin,13494574,52547215
-AED 0472-SEN-ASB,"EG, Warteraum",Egon-Erwin-Kisch-Str. 106 (O:Neu-Hohenschönhausen),Bürgeramt 1 Neu-Hohenschönhausen,13514016,52567547
-AED 0473-BUN-ASB,Pförtner,Kapelle-Ufer 1-2 (O:Tiergarten),Bundesministerium für Bildung und Forschung,13375703,52522944
-AED 0474-SCH-ASB,"Sekretariat, EG links",Schulstr. 11 (O:Biesdorf),Otto-Nagel-Gymnasium,13549415,52511875
-AED 0475-SCH-SON,"Sekretariat, 1. OG, Raum K17",Kuckhoffstr. 2 (O:Niederschönhausen),,13402325,52583883
-AED TEMP-OLY-SON,auf dem U-BHF. - Temporär Zeitraum EM24, U-Bhf. Olympiastadion  Rossitter Platz o.Nr. (O:Westend),U-Bhf. Olympiastadion (Ost) (U2),13250503,52516865
-AED TEMP-THEO-SON,auf dem U-BHF. - Temporär Zeitraum EM24, U-Bhf. Theodor-Heuss-Platz o.Nr.(6) (O:Westend),U-Bhf. Theodor-Heuss-Platz (U2),13272545,52510051
-AED TEMP-ZOO-SON,auf dem U-BHF. - Temporär Zeitraum EM24,U-Bhf. ZOO Hardenbergplatz 1 (O:Charlottenburg),"U-Bhf. Zoologischer Garten (U2, U9)",1333263,52506477
+Kennung,Hauptobjekt,Adresse (Klartext),Sonderinfo,Standort,Lat,Lon
+AED 0001-ZOO-CAS,Zoologischer Garten,"Hardenbergplatz 8, 10787 Tiergarten",,Löwentor im Servicecenter,52.50799,13.33526
+AED 0002-ZOO-CAS,Zoologischer Garten,"Hardenbergplatz 8, 10787 Tiergarten",,WC Waldschänke (Kinderspielplatz),52.509492,13.338778
+AED 0003-ZOO-CAS,Zoologischer Garten,"Hardenbergplatz 8, 10787 Tiergarten",,Aquarium (neben Glasaufzug),52.506091,13.340354
+AED 0004-ZOO-CAS,Zoologischer Garten,"Hardenbergplatz 8, 10787 Tiergarten",,Eingang Zoo-Restaurant,52.507054,13.34193
+AED 0005-TPF-CAS,TIERPARK Berlin,"Am Tierpark 93, 10319 Friedrichsfelde",,Kassenbereich Eingang Bärenschaufenster,52.498462,13.523706
+AED 0006-TPF-CAS,TIERPARK Berlin,"Am Tierpark 93, 10319 Friedrichsfelde",,Dickhäuterhaus (derzeit wg. Bauarbeiten am Alfred-Brehm-Haus),52.499277,13.534713
+AED 0007-TPF-CAS,TIERPARK Berlin,"Am Tierpark 93, 10319 Friedrichsfelde",,Besucher WC Affenhaus,52.507718,13.531364
+AED 0008-TPF-CAS,TIERPARK Berlin,"Am Tierpark 93, 10319 Friedrichsfelde",,"Eingang Restaurant ""Patagona""",52.504886,13.528919
+AED 0009-OLY-ASB,Horst-Korber-Sportzentrum,"Glockenturmstraße 1, 14053 Westend",,Empfang,52.513156,13.228972
+AED 0010-OLY-ASB,Rudolf-Harbig-Halle,"Glockenturmstraße 1, 14053 Westend",,Empfang,52.513172,13.229886
+AED 0011-OLY-ASB,Landessportbund - Verwaltung,"Jesse-Owens-Allee 2, 14053 Westend",,Empfangsnebenraum (Hausmeisterzimmer),52.511619,13.239159
+AED 0012-WRD-SON,DLRG Zentralstation,"Am Pichelssee 20, 13595 Wilhelmstadt",,Tauchturm,52.507769,13.197721
+AED 0013-FUB-SON,FU Berlin - Bereich Arbeitssicherheit,"Grunewaldstraße 34A, 12165 Steglitz",,"1.OG, Raum 107",52.459505,13.307233
+AED 0014-FUB-SON,FU Berlin - Bibliothek für Rechtswissenschaften,"Van't-Hoff-Straße 8, 14195 Dahlem",,Bibliothek EG Ausleihtheke,52.447833,13.281867
+AED 0015-FUB-SON,"Philologische Bibliothek, FU-Berlin","Habelschwerdter Allee 45, 14195 Dahlem",,Philologische Bibliothek Ausleihtheke,52.451817,13.288383
+AED 0016-FUB-SON,Klinik für kleine Haustiere der FU Berlin,"Oertzenweg 19B, 14163 Zehlendorf",,"Haus 1, EG, Wartebereich neben Untersuchungsraum,",52.430283,13.2373
+AED 0017-FUB-SON,FU Berlin - Präsidium,"Kaiserswerther Straße 16, 14195 Dahlem",,"EG, Raum 1",52.447916,13.286134
+AED 0018-FUB-SON,Freie Universität Berlin-Dahlem,"Arnimallee 22, 14195 Dahlem",,"Haupteingang, EG, neben dem Erste-Hilfe-Raum",52.455036,13.293438
+AED 0019-FUB-SON,Freie Universität Berlin - Hochschulsport,"Königin-Luise-Straße 47, 14195 Dahlem",,Sporthalle neben Hallenwartraum,52.458755,13.289894
+AED 0020-FUB-SON,Freie Universität Berlin - Bibliothek,"Garystraße 39, 14195 Dahlem",,1.OG Information/Leihstelle,52.448068,13.277526
+AED 0021-FUB-SON,Freie Universität Berlin - Henry-Ford-Bau,"Garystraße 35, 14195 Dahlem",,Neben der Pförtnerloge,52.447713,13.278371
+AED 0022-FUB-SON,FU-Berlin Campus Lankwitz,"Malteserstraße 74, 12249 Lankwitz",,Pförtner Haus G,52.426042,13.357638
+AED 0023-FUB-SON,Otto-Suhr-Institut der FU,"Ihnestraße 21, 14195 Dahlem",,"Atrium, vor der Bibliothek",52.449295,13.276931
+AED 0024-FUB-SON,Anorganisch-Chemisches Institut,"Fabeckstraße 34, 14195 Dahlem",,Eingang Fachbereich Chemie,52.45355,13.293683
+AED 0025-FUB-SON,Institut für Pharmazie der FU,"Königin-Luise-Straße 2, 14195 Lichterfelde",,Atrium,52.45885,13.30645
+AED 0026-FUB-SON,Fachbereich Physik der FU-Berlin,"Arnimallee 14, 14195 Dahlem",,"1. OG, vor der Verwaltungsleitung",52.455967,13.295833
+AED 0027-FUB-SON,Institut für Veterenär-Pathologie+Andrologie der FU,"Robert-von-Ostertag-Straße 15, 14163 Zehlendorf",,"EG, Atrium neben Seminarraum",52.427371,13.237561
+AED 0028-FUB-SON,"Campus Bibliothek, FU-Berlin","Fabeckstraße 23, 14195 Dahlem",,"Campus Bibliothek, ggü. der Ausleihe/Information",52.45417,13.29201
+AED 0029-TUB-CAS,Technologie und Innovationspark der TU Berlin,"Gustav-Meyer-Allee 25, 13355 Gesundbrunnen",,"13B, EG, Treppenhaus. 7, zur Behrens-Halle (Geb.15)",52.541017,13.385168
+AED 0030-TUB-SON,Eugene-Paul-Wigner-Gebäude ehem. Physik-Neubau (EW),"Hardenbergstraße 36, 10623 Charlottenburg",,"Pförtnerloge (+ ein weiterer, nicht-öffentlicher AED in 110-kV-Station)",52.510306,13.324891
+AED 0031-TUB-CAS,Bergbau und Hüttenwesen Altbau (BH-A) TU Berlin,"Ernst-Reuter-Platz 1, 10587 Charlottenburg",,Flur/Eingang,52.511562,13.323313
+AED 0032-TUB-CAS,Architekturgebäude (A) der TU Berlin,"Straße des 17. Juni 152, 10623 Charlottenburg",,Eingangshalle vor Cafeteria,52.513707,13.323001
+AED 0033-TUB-CAS,Chemiegebäude (C) TU Berlin,"Straße des 17. Juni 115, 10623 Charlottenburg",,"Hintereingang, ggü. Hausmeister",52.512003,13.329672
+AED 0034-TUB-CAS,Hauptgebäude (H) TU Berlin,"Straße des 17. Juni 135, 10623 Charlottenburg",.,"Pförtnerloge sowie Betriebsärztlicher Dienst, Raum 7128 (BÄD nur zu Dienstzeiten zugänglich!)",52.51235,13.327426
+AED 0035-TUB-CAS,Mathematikgebäude (MA) der TU Berlin,"Straße des 17. Juni 136, 10623 Charlottenburg",,"Pförtnerloge (+ ein weiterer, nicht-öffentlicher AED in 110-kV-Station)",52.513526,13.326331
+AED 0036-TUB-CAS,Thermodynamik und Kältetechnik (TK) TU Berlin,"Fasanenstraße 1A, 10623 Charlottenburg",,"Schalthalle Eingang/Flur (Nicht öffentlich, klingeln möglich!)",52.510643,13.328647
+AED 0037-TUB-CAS,Wasserbau und Wasserwirtschaft (W) der TU Berlin,"Straße des 17. Juni 144, 10623 Charlottenburg",,Halle,52.513603,13.324921
+AED 0038-TUB-CAS,"Zentralwerkstatt,ehem.Versuchsanstalt für Wasser-Schiffbau (VWS) TU Berlin","Müller-Breslau-Straße 15, 10623 Tiergarten",,Schlosserwerkstatt,52.511835,13.335821
+AED 0039-TUB-CAS,TU Hochhaus ehem. Telefunkenhochhaus,"Ernst-Reuter-Platz 7, 10625 Charlottenburg",,Eingang/Pförtner,52.512768,13.320118
+AED 0040-TUB-SON,Produktionstechnisches Zentrum der TU Berlin,"Pascalstraße 8, 10587 Charlottenburg",.,Pförtnerloge,52.523509,13.323453
+AED 0041-TUB-CAS,Bürogebäude - Gebäude (MAR) der TU Berlin,"Marchstraße 23, 10587 Charlottenburg",,Pförtnerloge,52.516533,13.323707
+AED 0042-TUB-SON,Sporthalle Westend der TU Berlin,"Waldschulallee 71, 14055 Westend",,"Haupteingang, links vom Eingang zur Cafeteria",52.501542,13.260476
+AED 0043-TUB-CAS,Universitätsbiliothek (BIB),"Fasanenstraße 88, 10623 Charlottenburg",.,Pförtnerloge,52.510133,13.3302
+AED 0044-TUB-SON,Elektrotechnische Institute Neubau (E-N) der TU Berlin,"Einsteinufer 17, 10587 Charlottenburg",,Pförtnerloge,52.51554,13.326572
+AED 0045-TUB-CAS,Severin Gelände (SG) der TU Berlin,"Salzufer 17, 10587 Charlottenburg",,"Gebäude SG12, Flur/Erdgeschoß",52.519669,13.322167
+AED 0046-TUB-CAS,Sonderforschungsbereich 69 der TU Berlin,"Ackerstraße 76, 13355 Gesundbrunnen",,Treppenaufgang A,52.538658,13.384639
+AED 0047-TUB-SON,Bürogebäude - Gebäude (FH) der TU Berlin,"Fraunhoferstraße 33, 10587 Charlottenburg",.,Pförtnerloge,52.514684,13.320917
+AED 0048-TUB-SON,Flugtechnische Institute (F) der TU Berlin,"Marchstraße 12, 10587 Charlottenburg",,Pförtnerloge,52.515156,13.323622
+AED 0049-TUB-SON,Hochfrequenz- u. Fernmeldetechnik Techn. Akustik (HFT-TA) der TU Berlin,"Einsteinufer 25, 10587 Charlottenburg",,Werkstatt (Nicht öffentlich!),52.515366,13.325821
+AED 0050-TUB-SON,Elektrotechnische Institute Altbau (E) der TU Berlin,"Einsteinufer 19, 10587 Charlottenburg",,Erdgeschoß vor Raum 12 (Eingeschränkt zugänglich!),52.514938,13.326158
+AED 0051-TUB-SON,Geb. Elektromaschinen und Hochspannungstechnik (EMH) der TU Berlin,"Einsteinufer 11, 10587 Charlottenburg",,Maschinenhalle EM 4 Galerie (Nicht öffentlich!),52.514029,13.327128
+AED 0052-TUB-SON,Bootshaus der TU Berlin,"Siemenswerderweg 27, 13595 Wilhelmstadt",,Flur/Eingang,52.509673,13.208973
+AED 0053-HUB-SON,Humboldt-Universität zu Berlin - Bibliothek,"Hessische Straße 1, 10115 Mitte",.,unbekannt,52.528447,13.381124
+AED 0054-HUB-SON,"Humboldt-Universität zu Berlin, Institut für Genetik","Invalidenstraße 42, 10115 Mitte",,unbekannt,52.530403,13.379676
+AED 0055-HUB-SON,Humboldt-Universität zu Berlin (Lebenswissenschaftliche Fakultät),"Invalidenstraße 42, 10115 Mitte",,unbekannt,52.530193,13.380883
+AED 0056-HUB-SON,Humboldt-Universität zu Berlin (Lebenswissenschaftliche Fakultät),"Invalidenstraße 42, 10115 Mitte",,unbekannt,52.531119,13.379748
+AED 0057-HUB-SON,"Humboldt-Universität zu Berlin, Institut für Nutzpflanzenforschung","Lentzeallee 55, 14195 Dahlem",,unbekannt,52.468508,13.298771
+AED 0058-HUB-SON,Späth-Arboretum der Humboldt Universität,"Späthstraße 80, 12437 Baumschulenweg",,unbekannt,52.45419,13.473161
+AED 0059-HUB-SON,Humboldt Universität zu Berlin (Zentralbibliothek),"Rudower Chaussee 26, 12489 Adlershof",,unbekannt,52.430974,13.531591
+AED 0060-HUB-SON,Germanistisches Institut der Humboldt-Universität Berlin,"Dorotheenstraße 24, 10117 Mitte",,unbekannt,52.519259,13.392656
+AED 0061-HUB-SON,Humboldt Universität zu Berlin (Institut für Theologie),"Burgstraße 26, 10178 Mitte",,unbekannt,52.520935,13.401047
+AED 0062-HUB-SON,Jakob und Wilhelm Grimm-Zentrum (Bibliothek der HU),"Geschwister-Scholl-Straße 1, 10117 Mitte",,unbekannt,52.520407,13.39087
+AED 0063-HUB-SON,Humboldt Universität Lehrgebäude,"Spandauer Straße 1, 10178 Mitte",,unbekannt,52.520784,13.403175
+AED 0064-HUB-SON,Humboldt Universität zu Berlin (Geograph. Institut),"Rudower Chaussee 16, 12489 Adlershof",,unbekannt,52.432162,13.534165
+AED 0065-HUB-SON,Humboldt Universität zu Berlin (Inst. für Psychologie),"Rudower Chaussee 18, 12489 Adlershof",,unbekannt,52.4319,13.533727
+AED 0066-HUB-SON,Humboldt-Universität zu Berlin,"Albrecht-Thaer-Weg 5, 14195 Dahlem",,unbekannt,52.466742,13.299021
+AED 0067-HUB-SON,Humboldt-Universität zu Berlin,"Geschwister-Scholl-Straße 7, 10117 Mitte",,unbekannt,52.521604,13.391488
+AED 0068-HUB-SON,Humboldt-Universität zu Berlin,"Geschwister-Scholl-Straße 7, 10117 Mitte",,unbekannt,52.521488,13.391026
+AED 0069-HUB-SON,Humboldt-Universität zu Berlin,"Dorotheenstraße 1, 10117 Mitte",,unbekannt,52.519506,13.396671
+AED 0070-HUB-SON,Humboldt-Universität zu Berlin,"Am Kupfergraben 5, 10117 Mitte",,unbekannt,52.520394,13.39501
+AED 0071-HUB-SON,Humboldt-Universität zu Berlin,"Universitätsstraße 3B, 10117 Mitte",,unbekannt,52.519987,13.391795
+AED 0072-HUB-SON,Humboldt Graduate School HU Berlin,"Luisenstraße 56, 10117 Mitte",,unbekannt,52.525325,13.379557
+AED 0073-HUB-SON,"Humboldt-Universität zu Berlin, Institutsgebäude","Hannoversche Straße 27, 10115 Mitte",,unbekannt,52.526757,13.385329
+AED 0074-HUB-SON,"Humboldt-Universität zu Berlin, Hauptgebäude","Unter den Linden 6, 10117 Mitte",.,unbekannt,52.51801,13.393726
+AED 0075-HUB-SON,Altes Palais,"Unter den Linden 9, 10117 Mitte",,unbekannt,52.516874,13.392916
+AED 0076-HUB-SON,Gouverneurshaus,"Unter den Linden 11, 10117 Mitte",,unbekannt,52.516826,13.392156
+AED 0077-HUB-SON,Humboldt-Universität zu Berlin - Juristische Fakultät,"Bebelplatz 2, 10117 Mitte",,unbekannt,52.516311,13.393299
+AED 0078-HUB-SON,Humboldt-Universität zu Berlin - Institutsgebäude,"Sophienstraße 22, 10178 Mitte",,unbekannt,52.525986,13.400174
+AED 0079-HUB-SON,Humboldt-Universität zu Berlin - Institutsgebäude,"Georgenstraße 36, 10117 Mitte",,unbekannt,52.519929,13.391039
+AED 0080-HUB-SON,Universitäts- u. Bürogebäude,"Georgenstraße 47, 10117 Mitte",.,unbekannt,52.520416,13.394139
+AED 0081-HUB-SON,Humboldt-Universität zu Berlin - Institut f. Geschichtswissenschaft iund Klassische Philologie,"Friedrichstraße 191, 10117 Mitte",,unbekannt,52.510823,13.389462
+AED 0082-HUB-SON,HU Berlin - Zentralinstitut für Elektrophysik,"Hausvogteiplatz 5, 10117 Mitte",.,unbekannt,52.512982,13.395792
+AED 0083-HUB-SON,Humboldt-Universität zu Berlin - Institutsgebäude,"Mohrenstraße 40, 10117 Mitte",,unbekannt,52.512646,13.396189
+AED 0084-HUB-SON,Humboldt-Universität zu Berlin - Verwaltungsgebäude,"Ziegelstraße 10, 10117 Mitte",,unbekannt,52.523469,13.390862
+AED 0085-HUB-SON,Humboldt-Universität zu Berlin - Institutsgebäude,"Ziegelstraße 13A, 10117 Mitte",,unbekannt,52.523225,13.391745
+AED 0086-HUB-SON,August-Boeckh Haus (Bürogebäude),"Dorotheenstraße 65, 10117 Mitte",.,unbekannt,52.518362,13.386648
+AED 0087-HUB-SON,Humboldt-Universität zu Berlin - Institutsgebäude,"Monbijoustraße 2B, 10117 Mitte",,unbekannt,52.522956,13.395
+AED 0088-HUB-SON,HU Berlin - Campus Nord - Haus 11,"Philippstraße 13, 10115 Mitte",,unbekannt,52.527033,13.383408
+AED 0089-HUB-SON,Haus 18 (Leonor Michaelis Haus ehem. Abderhaldenhaus) HU Berlin,"Philippstraße 13, 10117 Mitte",,unbekannt,52.525135,13.383262
+AED 0090-HUB-SON,HU Berlin - Campus Nord - Haus 16,"Philippstraße 13, 10117 Mitte",,unbekannt,52.525023,13.38421
+AED 0091-HUB-SON,HU Berlin - Campus Nord - Haus 6,"Philippstraße 13, 10117 Mitte",,unbekannt,52.525878,13.382094
+AED 0092-HUB-SON,HU Berlin - Campus Nord - Haus 9,"Philippstraße 13, 10117 Mitte",,unbekannt,52.526338,13.383082
+AED 0093-HUB-SON,HU Berlin - Campus Nord - Haus 2,"Philippstraße 13, 10117 Mitte",,unbekannt,52.524895,13.38087
+AED 0094-HUB-SON,Haus 4 (Ostertag-Haus) HU Berlin,"Philippstraße 13, 10117 Mitte",,unbekannt,52.525448,13.381694
+AED 0095-HUB-SON,Rhoda Erdmann Haus HU Berlin,"Philippstraße 13, 10115 Mitte",.,unbekannt,52.526894,13.381989
+AED 0096-HUB-SON,Hedwig Dohm Haus ( Kita an der Humbold Universität ),"Ziegelstraße 5, 10117 Mitte",.,unbekannt,52.523374,13.390049
+AED 0097-HUB-SON,Humboldt-Universität zu Berlin - Institutsgebäude,"Ziegelstraße 13C, 10117 Mitte",,unbekannt,52.522817,13.390877
+AED 0098-HUB-SON,Haus Friedrichstadt,"Friedrichstraße 199, 10117 Mitte",,unbekannt,52.509679,13.389734
+AED 0099-HUB-SON,"Friedrichstadtpassagen Block 203, Atrium","Friedrichstraße 60, 10117 Mitte",.,unbekannt,52.510531,13.390161
+AED 0100-HUB-SON,Humboldt-Universität zu Berlin,"Dorotheenstraße 26, 10117 Mitte",,unbekannt,52.519235,13.391936
+AED 0101-HUB-SON,Edison Höfe,"Invalidenstraße 118, 10115 Mitte",.,unbekannt,52.530508,13.385526
+AED 0102-HUB-SON,"Humboldt-Universität zu Berlin, Institut für Physik","Invalidenstraße 110, 10115 Mitte",,unbekannt,52.529953,13.383481
+AED 0103-HUB-SON,"Humboldt-Universität zu Berlin, Mensa Nord","Hannoversche Straße 7, 10115 Mitte",.,unbekannt,52.528203,13.381554
+AED 0104-HUB-SON,"Humboldt-Universität zu Berlin, Institut für Geisteswissenschaften","Hannoversche Straße 6, 10115 Mitte",.,unbekannt,52.527549,13.382994
+AED 0105-HUB-SON,"Humboldt-Universität zu Berlin, Institutsgebäude","Hannoversche Straße 27, 10115 Mitte",,unbekannt,52.526413,13.384522
+AED 0106-HUB-SON,Humboldt-Universität zu Berlin (Sportstätte),"Linienstraße 121, 10115 Mitte",,unbekannt,52.527202,13.390498
+AED 0107-HUB-SON,Humboldt-Universität zu Berlin (Stall- und Wirtschaftsgebäude),"Lentzeallee 75, 14195 Dahlem",,unbekannt,52.468132,13.300906
+AED 0108-HUB-SON,Humboldt-Universität zu Berlin (Wassersportzentrum),"Alt-Schmöckwitz 8, 12527 Schmöckwitz",,unbekannt,52.374112,13.649095
+AED 0109-HUB-SON,Humboldt-Universität zu Berlin (Johann-von-Neumann-Haus),"Rudower Chaussee 25, 12489 Adlershof",,unbekannt,52.429399,13.530019
+AED 0110-HUB-SON,Humboldt-Universität zu Berlin,"Rudower Straße 18, 12524 Altglienicke",,unbekannt,52.42283,13.525206
+AED 0111-HUB-SON,"Humboldt-Universität zu Berlin, (Institut für Physik)","Newtonstraße 15, 12489 Adlershof",,unbekannt,52.432921,13.529563
+AED 0112-HUB-SON,"Humboldt-Universität zu Berlin, (Walter-Nernst-Haus)","Newtonstraße 14, 12489 Adlershof",,unbekannt,52.432917,13.528832
+AED 0113-HUB-SON,Humboldt-Universität zu Berlin (Institut für Chemie),"Brook-Taylor-Straße 2, 12489 Adlershof",,unbekannt,52.432344,13.527928
+AED 0114-HUB-SON,Humboldt-Universität zu Berlin (Experimentierhalle Physik MHP),"Brook-Taylor-Straße 6, 12489 Adlershof",,unbekannt,52.431309,13.528853
+AED 0115-HUB-SON,HU zu Berlin - Speicherbibliothek und Universitätsarchiv,"Wagner-Régeny-Straße 5, 12489 Adlershof",.,unbekannt,52.43786,13.533783
+AED 0116-HUB-SON,Humboldt-Universität zu Berlin (Lehrwerkstatt),"Gustav-Kirchhoff-Straße 1, 12489 Adlershof",,unbekannt,52.429228,13.53436
+AED 0117-SON-CAS,Berufsgenossenschaft Berlin,"Spichernstraße 2, 10777 Wilmersdorf",,Erdgeschoß im Foyer,52.497972,13.333217
+AED 0118-THB-CAS,Tierheim Berlin,"Hausvaterweg 39, 13057 Falkenberg",,Verwaltungshaus,52.576172,13.546635
+AED 0119-THB-CAS,Tierheim Berlin,"Hausvaterweg 39, 13057 Falkenberg",,Haupteingang,52.57393,13.546151
+AED 0120-THB-CAS,Tierheim Berlin,"Hausvaterweg 39, 13057 Falkenberg",,Reptilienhaus,52.575734,13.544096
+AED 0121-TUB-CAS,Chemiegebäude (C) TU Berlin,"Straße des 17. Juni 115, 10623 Charlottenburg",,Pförtnerloge,52.512597,13.329602
+AED 0122-SON-CAS,HWL Löttechnik,"Miraustraße 8, 13509 Borsigwalde",,Büro,52.578758,13.314623
+AED 0123-SON-CAS,Lysoform Dr. Hans Rosemann GmbH,"Kaiser-Wilhelm-Straße 133, 12247 Lankwitz",,Büro,52.44191,13.354747
+AED 0124-SON-CAS,Berliner Tafel e.V.,"Beusselstraße 44N, 10553 Moabit",.,Büro,52.53432,13.316233
+AED 0125-EKZ-CAS,Einkaufszentrum LIO,"Lankwitzer Straße 19, 12209 Lichterfelde",.,"1. OG, Kundeninformation",52.429284,13.329688
+AED 0126-SON-SON,50Hertz Transmission GmbH,"Eichenstraße 3A, 12435 Alt-Treptow",,im Haus,52.496178,13.454849
+AED 0127-SEN-SON,Abgeordnetenhaus von Berlin,"Leipziger Straße 3, 10117 Mitte",,im Haus,52.507611,13.381932
+AED 0128-SPO-SON,Sportplatz Günther-Jäger-Anlage,"Schubartstraße 66, 13509 Borsigwalde",,Platzwartraum / Wandhalterung,52.5857,13.3018
+AED 0129-SCH-SON,Albert-Einstein-Schule (Gymnasium),"Parchimer Allee 109, 12359 Britz",,1.OG Lehrerzimmer,52.445228,13.442354
+AED 0130-EKZ-SON,Allende- Center,"Pablo-Neruda-Straße 2, 12559 Köpenick",.,Vor dem Eingang REWE-Markt linke Seite,52.441273,13.587574
+AED 0131-SEN-SON,Amts-und Vertrauensärztlicher Dienst,"Rathausstraße 27, 12105 Mariendorf",,"Pförtnerloge, EG, Ansprechpartner: 030-902777211",52.445897,13.379077
+AED 0132-KUT-SON,Arkaden Neukölln,"Karl-Marx-Straße 66, 12043 Neukölln",.,Cineplex-Kino,52.481937,13.432351
+AED 0133-SEN-SON,Berliner Rathaus (BIM 30001),"Rathausstraße 15, 10178 Mitte",.,am Seiteneingang Jüdenstraße,52.518477,13.409141
+AED 0134-SEN-SON,Bezirksamt Tempelhof-Schöneberg,"Strelitzstraße 15, 12105 Mariendorf",,"Pförtnerloge, EG, Ansprechpartner: 030-902778543",52.449468,13.382762
+AED 0135-OLY-SON,Landesleistungszentrum+Boxhalle,"Friedrich-Friesen-Allee , 14053 Westend",,"Empfang 
+Ansprechpartner: 030 - 300 07 13",52.519775,13.24022
+AED 0136-SON-SON,Bombardier Transportation,"Pohlstraße 20, 10785 Tiergarten",,2. Etage rechts,52.5004,13.3683
+AED 0137-SON-SON,BSR Hauptverwaltung,"Ringbahnstraße , 12103 Tempelhof",,im Haus,52.468754,13.382141
+AED 0138-BUN-SON,Bundeskriminalamt und Bundesamt für Verfassungsschutz,"Am Treptower Park 5, 12435 Alt-Treptow",,im Haus,52.491954,13.456434
+AED 0139-BUN-SON,Bundesministerium für Digitales und Verkehr,"Invalidenstraße 44, 10115 Mitte",.,"Bauteil D, EG ggü Zeiterfassungsterminal ",52.530246,13.376822
+AED 0140-SEN-SON,Bürgeramt Tempelhof-Schöneberg,"Briesingstraße 6, 12307 Lichtenrade",,Flur vor Raum 215,52.385642,13.398765
+AED 0141-SEN-SON,Bürgeramt Wilmersdorf,"Hohenzollerndamm 177, 10713 Wilmersdorf",,im Haus,52.489389,13.312388
+AED 0142-SON-ASB,Bürogebäude  Askanischer Platz,"Askanischer Platz 1, 10963 Kreuzberg",,"Praxis für Allgemeinmedizin (Dr. Kugler, 030 254 206 11)",52.505035,13.381187
+AED 0143-SPO-SON,Carl-Diem-Sportplatz,"Lessingstraße 5, 12169 Steglitz",,Im Platzwartraum (Tel.: 030-72011918),52.455805,13.335606
+AED 0144-SPO-SON,Cole-Sport-Center,"Hüttenweg 43, 14195 Dahlem",.,"Erste-Hilfe-Raum im Hauptgebäude (EG, Raum 8)
+Tel.: 030 - 712 20 49",52.454319,13.26806
+AED 0145-SPO-SON,Dominicus-Sportplatz,"Priesterweg 4, 10829 Schöneberg",,"Büro des Hausmeisters 
+Ansprechpartner: 030-787 72 40",52.475771,13.355992
+AED 0146-SPO-SON,Ernst-Reuter-Sportfeld,"Onkel-Tom-Straße 40, 14169 Zehlendorf",,"Platzwart
+Ansprechpartner: 030-90299 5321",52.442144,13.253634
+AED 0147-SPO-SON,Gretel-Bergmann-Sporthalle,"Rudolstädter Straße 77, 10713 Wilmersdorf",,Neben dem Hallenwartraum,52.484977,13.306195
+AED 0148-SPO-SON,Großsporthalle Hämmerlingstr.,"Hämmerlingstraße , 12555 Köpenick",,Haupteingang Ballspielhalle durch 2. Tür geradeaus linke Wand,52.459003,13.572269
+AED 0149-SPO-SON,Großsporthalle Hämmerlingstr.,"Hämmerlingstraße 88, 12555 Köpenick",,Haupteingang Kegelhalle ü. Foyer u. Flur linke Wand,52.459733,13.57293
+AED 0150-SPO-SON,Harald-Mellorowicz-Sporthalle,"Forckenbeckstraße 20, 14199 Schmargendorf",,EG - neben dem Nottelefon am Regieraum/Eingang,52.481172,13.299578
+AED 0151-SPO-SON,Hubertussportplatz,"Hubertusallee 50, 14193 Grunewald",,Haus 1 - gegenüber vom Platzwartraum,52.485249,13.284698
+AED 0152-SPO-SON,Sport- und Freizeitzentrum Siemensstadt,"Buolstraße 14, 13629 Siemensstadt",,"Empfang
+Ansprechpartner: 030 - 38 00 40",52.545183,13.258647
+AED 0153-SPO-SON,Sportanlage Kiriat Bialik,"Wedellstraße 57, 12249 Lankwitz",,"Erste-Hilfe-Raum (Hauptgebäude, EG, Raum 2)
+Tel.: 030-7705798",52.431813,13.360428
+AED 0154-SPO-SON,Sportanlage Osdorfer Str.,"Osdorfer Straße 53, 12207 Lichterfelde",,"Erste-Hilfe-Raum im Hauptgebäude (EG, Raum 8)
+Tel.: 030 - 712 20 49",52.411551,13.320072
+AED 0155-SPO-SON,Haus des Sports,"Sportpromenade 3, 12527 Grünau",,Haupteingang EG hinter 2.Tür links,52.409672,13.601955
+AED 0156-SPO-SON,Sportforum,"Weißenseer Weg 53, 13053 Alt-Hohenschönhausen",,"Pförtnerhäuschen (Schranke Hauptparkplatz)
+Ansprechpartner: 030 - 9717 2655",52.538454,13.473418
+AED 0157-SPO-SON,Sporthalle Adlershof,"Merlitzstraße 16, 12489 Adlershof",.,Hallenwartraum linke Seite,52.43325,13.534136
+AED 0158-SPO-SON,Sporthalle Charlottenburg,"Sömmeringstraße 29, 10589 Charlottenburg",,Erste-Hilfe-Raum,52.523446,13.305594
+AED 0159-SPO-SON,Sporthalle im Freizeitzentrum am Steinplatz,"Uhlandstraße 194, 10623 Charlottenburg",,4.OG neben dem Hallenwartraum,52.506866,13.326841
+AED 0160-SPO-SON,,"Keplerstraße 10, 12459 Oberschöneweide",,Foyer rechte Wand,52.459547,13.532126
+AED 0161-SPO-SON,Sporthalle Lippstädter Straße,"Lippstädter Straße 5, 12207 Lichterfelde",,"Platzwartraum
+Tel.: 030 - 710 935 31",52.413247,13.303046
+AED 0162-SPO-SON,Sporthalle Onkel-Tom-Str.,"Onkel-Tom-Straße 58, 14169 Zehlendorf",,"Raum 012 (Platzwartraum, Zugang von der Halle möglich)
+Tel.: 030 - 939 529 90",52.446314,13.252236
+AED 0163-SPO-SON,Sporthalle Schloßstr.,"Schloßstraße 1, 14059 Charlottenburg",,Hallenwartraum,52.518418,13.294932
+AED 0164-SPO-SON,Sporthalle Wasserfahrsport Zur Uferbahn,"Zur Uferbahn 10, 12527 Grünau",,"Eingang, linke Wand",52.41031,13.583127
+AED 0165-SPO-SON,Sportplatz am Volkspark,"Straße am Schoelerpark 39, 10715 Wilmersdorf",,Platzwartraum / Wandhalterung,52.483955,13.322432
+AED 0166-SPO-SON,Sportplatz Aroser Allee,"Aroser Allee 184, 13407 Reinickendorf",,Platzwartraum / Wandhalterung,52.572109,13.353497
+AED 0167-SPO-SON,Sportplatz Berliner Str.,"Berliner Straße 75, 13507 Tegel",,Platzwartraum / Wandhalterung,52.585215,13.290028
+AED 0168-SPO-SON,Sportplatz Elchdamm,"Elchdamm 171, 13503 Heiligensee",,Platzwartraum / Wandhalterung,52.600224,13.221212
+AED 0169-SPO-SON,Sportplatz Finsterwalder Str.,"Finsterwalder Straße 58, 13435 Märkisches Viertel",,Platzwartraum / Wandhalterung,52.600855,13.345667
+AED 0170-SPO-SON,Sportplatz Freiheitsweg,"Freiheitsweg 20, 13407 Reinickendorf",,Platzwartraum / Wandhalterung,52.576133,13.355774
+AED 0171-SPO-SON,Sportplatz Göschenstr.,"Göschenstraße 9, 13437 Wittenau",,Platzwartraum / Wandhalterung,52.596356,13.32756
+AED 0172-SPO-SON,Sportplatz Heidenheimer Str.,"Heidenheimer Straße 53, 13467 Hermsdorf",,Platzwartraum / Wandhalterung,52.616135,13.29829
+AED 0173-SPO-SON,Sportplatz Im Jagen 57-58,"Königsweg 10, 14193 Grunewald",,Platzwartraum / Wandhalterung,52.484964,13.250847
+AED 0174-SPO-SON,Sportplatz Königshorster Str.,"Königshorster Straße 10, 13439 Märkisches Viertel",,Platzwartraum / Wandhalterung,52.598389,13.349888
+AED 0175-SPO-SON,Sportplatz Schäfersee,"Rütlistraße 19, 13407 Reinickendorf",,Platzwartraum / Wandhalterung,52.56393,13.356884
+AED 0176-SPO-SON,(alt) Sportplatz Scharnweberstr.,"Uranusweg 34, 13405 Reinickendorf",,Platzwartraum / Wandhalterung,52.564661,13.315251
+AED 0177-SPO-SON,Sportplatz Schluchseestr.,"Schluchseestraße 68, 13469 Waidmannslust",,Platzwartraum / Wandhalterung,52.608133,13.337646
+AED 0178-SPO-SON,Sportplatz Schönfließer Str.,"Schönfließer Straße 19, 13465 Frohnau",,Platzwartraum / Wandhalterung,52.642292,13.291046
+AED 0179-SPO-SON,Sportplatz Seebadstr.,"Seebadstraße 40, 13467 Hermsdorf",,Platzwartraum / Wandhalterung,52.615931,13.321691
+AED 0180-SPO-SON,Sportplatz Sömmeringstraße,"Sömmeringstraße 15, 10589 Charlottenburg",,Platzwartraum / Wandhalterung,52.522189,13.304791
+AED 0181-SPO-SON,Sportplatz Thurgauer Str.,"Thurgauer Straße 45, 13407 Reinickendorf",,Platzwartraum / Wandhalterung,52.570491,13.355885
+AED 0182-SPO-SON,Fritz-Lesch-Sportplatz,"Dörpfeldstraße 89, 12489 Adlershof",,Haupteingang rechte Wand,52.439953,13.555198
+AED 0183-SPO-SON,Sportplatz Eichkamp,"Harbigstraße 10, 14055 Westend",,Neben dem  Platzwartraum,52.498497,13.257287
+AED 0184-SPO-SON,Sportplatz Fritschestr.,"Fritschestraße 21, 10585 Charlottenburg",,Neben dem  Platzwartraum,52.514504,13.298647
+AED 0185-SPO-SON,Sportplatz Heckerdamm,"Heckerdamm 204, 13627 Charlottenburg-Nord",,Im Kabinengang zwischen Kab.1 und Kab.2,52.539668,13.306082
+AED 0186-SPO-SON,Sportanlage Jungfernheide,"Jungfernheideweg 70, 13629 Charlottenburg-Nord",,Platzwartraum,52.54547,13.274239
+AED 0187-SPO-SON,Sportplatz Kühler Weg,"Kühler Weg 12, 14055 Westend",,Platzwartraum,52.495808,13.26017
+AED 0188-SPO-SON,Sportplatz Ollenhauerstr.,"Ollenhauerstraße 64E, 13403 Reinickendorf",,Casino,52.576988,13.337952
+AED 0189-SPO-SON,Sportplatz Schildhornstr.,"Kreuznacher Straße 29, 14197 Steglitz",,"Im Platzwartraum
+Tel.: 030 - 939 521 78",52.466721,13.313799
+AED 0190-SPO-SON,Sportplatz Hatzfeldtallee,"Hatzfeldtallee 29, 13509 Tegel",,Vorraum / Wandhalterung,52.593024,13.294871
+AED 0191-SPO-SON,Sportplatz Wackerweg,"Wackerweg , 13403 Reinickendorf",,Schiedsrichterraum,52.575031,13.308975
+AED 0192-SPO-SON,Sportplatz Westend,"Spandauer Damm 150, 14050 Westend",,Im Kabinengang vom Neubau,52.522949,13.27384
+AED 0193-SPO-SON,Mommsen-Stadion,"Waldschulallee 34, 14055 Westend",,EG neben Erste-Hilfe-Raum,52.50068,13.263697
+AED 0194-SPO-SON,Werner-Ruhemann-Sporthalle,"Forckenbeckstraße 37, 14199 Schmargendorf",,Neben dem Hallenwartraum,52.481703,13.297023
+AED 0195-SPO-SON,Stadion Wilmersdorf,"Forckenbeckstraße 14, 14199 Schmargendorf",,Neben dem  Platzwartraum,52.484464,13.302194
+AED 0196-SPO-SON,Stadion Wilmersdorf,"Forckenbeckstraße 14, 14199 Schmargendorf",,Neben dem  Platzwartraum,52.484598,13.301643
+AED 0197-EKZ-SON,Spandau Arcaden,"Klosterstraße 3, 13581 Spandau",,"Spandau Arcaden, Büro Wachschutz, EG
+Ansprechpartner: 030-3300 1110 oder 0172-316 88 53",52.534218,13.195835
+AED 0198-KUT-ASB,Schloßpark Theater,"Schloßstraße 48, 12165 Steglitz",,"Adria-Filmtheater (Cineplex), linke Seite im Foyer im Durchgang zur Küche",52.454698,13.318076
+AED 0199-EKZ-ASB,Einkaufszentrum - Die Mitte,"Alexanderplatz 3, 10178 Mitte",,Saturn (Infotheke),52.521496,13.415011
+AED 0200-HBG-ASB,Estrel-Residence-Hotel,"Sonnenallee 225, 12057 Neukölln",.,EG Rezeption,52.472952,13.458631
+AED 0201-EKZ-ASB,EUROPA-CENTER,"Tauentzienstraße 9, 10787 Charlottenburg",,EG an der Rolltreppe am Brunnen/Café Tiffany,52.504585,13.337213
+AED 0202-EKZ-ASB,Möllendorff-Passage,"Möllendorffstraße 52, 10367 Fennpfuhl",,"Röntgeninstitut 1. OG, Raum 1.22",52.525011,13.480167
+AED 0203-SON-ASB,Uber Arena,"Uber-Platz (ehem. Mercedes-Platz) 1, 10243 Friedrichshain",.,"Zentraler Empfang der Anschutz Entertainment Group, 1. Obergeschoß - Zugang über Personaleingang 3/Arena Control - Hedwig-Wachenheim-Str. (Ostseite der Arena)",52.506171,13.444582
+AED 0204-OLY-SON,Eissporthalle Glockenturmstr.,"Glockenturmstraße 14, 14053 Westend",.,Flur hinter der Kasse,52.51376,13.227103
+AED 0205-EKZ-SON,Rosmarin Karree,"Friedrichstraße 83, 10117 Mitte",,"Büroflur im 1. OG
+Ansprechpartner: Hr. Lorenz, 0152 - 5303 7460
+AED nicht öffentlich! Zu Bürozeiten klingeln möglich!",52.516083,13.389275
+AED 0206-SEN-SON,Rathaus Charlottenburg,"Otto-Suhr-Allee 100, 10585 Charlottenburg",,Pförtnerloge,52.517129,13.308217
+AED 0207-SEN-SON,Rathaus Köpenick,"Alt-Köpenick 21, 12555 Köpenick",,"Pförtnerloge/Wachdienstraum im Erdgeschoss
+Ansprechpartner: 030 - 90297 2000/2001",52.445651,13.574753
+AED 0208-SEN-SON,Rathaus Kreuzberg,"Yorckstraße 4, 10965 Kreuzberg",,Pförtnerloge,52.493425,13.386601
+AED 0209-SEN-SON,Rathaus Schöneberg,"Am Rathaus 9, 10825 Schöneberg",,Pförtnerloge,52.485012,13.344199
+AED 0210-SEN-SON,Rathaus Spandau,"Carl-Schurz-Straße 2, 13597 Spandau",,Pförtnerloge,52.535112,13.200587
+AED 0211-SEN-SON,Rathaus Tempelhof,"Tempelhofer Damm 165, 12099 Tempelhof",,Pförtnerloge,52.462591,13.385915
+AED 0212-SEN-SON,Rathaus Treptow,"Neue Krugallee 4, 12435 Plänterwald",,"EG beim Wachdienst, Raum 21
+Ansprechpartner: 030 - 90297 4121",52.483679,13.479816
+AED 0213-ASB-ASB,ASB Hugenottenhofkita Berlin,"Hauptstraße 13A, 13127 Französisch-Buchholz",,"linker Flur auf dem Stiefelschrank (durch Haupteingang und dann linke Glastür)
+Schließzeiten beachten! Kita ist Mo - Fr von 6 bis 18 Uhr geöffnet!",52.605204,13.431502
+AED 0214-ASB-ASB,ASB Landesverband Berlin,"Rudolfstraße 9, 10245 Friedrichshain",,"EG, Landesgeschäftsstelle
+Mo-Fr von 6 - 19 Uhr",52.50425,13.452825
+AED 0215-ASB-ASB,ASB Berlin (Fernmeldedienst),"Seestraße 120, 13353 Wedding",,"EG, Ausbildungszentrum",52.546977,13.344379
+AED 0216-ASB-ASB,ASB Regionalverband Berlin-Südwest e.V.,"Lahnstraße 52, 12055 Neukölln",,"4. OG rechts neben dem Ausbildungsbüro
+erreichbar Mo-Fr von 10 - 14 Uhr",52.468457,13.447338
+AED 0217-ASB-ASB,ASB Nothilfe,"Ehrenbergstraße 11, 10245 Friedrichshain",,EG im Foyer (ASB-Nothilfe),52.503793,13.452299
+AED 0218-EKZ-SON,ALEXA Shopping Center,"Grunerstraße 20, 10179 Mitte",.,"3. OG, Sicherheitszentrale
+Ansprechpartner: 030 - 269 340 199",52.519907,13.414583
+AED 0219-EKZ-SON,EASTGATE Berlin,"Franz-Stenzer-Straße 2, 12679 Marzahn",,EG am Infostand,52.543608,13.543658
+AED 0220-EKZ-SON,EASTGATE Berlin,"Märkische Allee , 12679 Marzahn",,EG in der BMZ (Zugang Märkische Allee),52.544431,13.543841
+AED 0221-EKZ-SON,Zentrum Schöneweide,"Schnellerstraße 21, 12439 Niederschöneweide",,"EG, im Übergang zur Ladezone, neben der Rossmann-Filiale",52.456701,13.50819
+AED 0222-EKZ-SON,Ring-Center 1,"Frankfurter Allee 111, 10247 Friedrichshain",.,"EG, neben den Aufzügen im Büro des Sicherheitsdienstes
+Ansprechpartner: 0151 161 30 663",52.514189,13.474475
+AED 0223-EKZ-SON,Hallen am Borsigturm,"Am Borsigturm 2, 13507 Tegel",.,EG am Infostand,52.584626,13.286826
+AED 0224-EKZ-SON,Potsdamer Platz Arkaden (B 10),"Alte Potsdamer Straße 7, 10785 Tiergarten",,EG am Infostand,52.50845,13.374779
+AED 0225-EKZ-SON,Schloss-Straßen-Center,"Walther-Schreiber-Platz 1, 12161 Friedenau",.,"Untergeschoß, neben Rewe und den Toiletten",52.465112,13.327708
+AED 0226-EKZ-SON,Linden-Center,"Prerower Platz 1, 13051 Neu-Hohenschönhausen",.,EG am Infostand,52.563841,13.505352
+AED 0228-SPO-SON,Erika Heß Eisstadion,"Müllerstraße 185, 13353 Wedding",,im Meisterbüro,52.536978,13.369824
+AED 0229-SPO-SON,Poststadion,"Lehrter Straße 59, 10557 Moabit",,Platzwartraum,52.529692,13.360158
+AED 0230-SPO-SON,Stadion Lichterfelde,"Ostpreußendamm 3, 12207 Lichterfelde",,"Im Platzwartraum
+Ansprechpartner: 030 - 939 519 55",52.438699,13.323875
+AED 0231-EKZ-SON,Boulevard Berlin,"Markelstraße 62, 12163 Steglitz",,"EG, Centerinfo der Hauptmall",52.462803,13.325907
+AED 0232-OLY-SON,"Bildungsstätte der Sportjugend, Haus 27","Hanns-Braun-Straße , 14053 Westend",.,"Empfang 
+Ansprechpartner: 030 - 300 07 13",52.518431,13.244806
+AED 0233-OLY-SON,Olympiapark Berlin,"Hanns-Braun-Straße , 14053 Westend",.,in der Wache,52.519381,13.244077
+AED 0234-OLY-SON,Olympiapark Berlin,"Hanns-Braun-Straße , 14053 Westend",.,"Empfang (Verwaltungsgebäude - ehem. Wohnhaus ""Annaheim"")",52.516851,13.23212
+AED 0235-SEN-SON,Amtsgericht Wedding (BIM 30081),"Brunnenplatz 1, 13357 Gesundbrunnen",,"Eingangsbereich, links neben der Infotafel
+Ansprechpartner: 030 - 901 565 75",52.550723,13.375506
+AED 0236-SEN-SON,Zentrales Mahngericht Berlin-Brandenburg,"Schönstedtstraße 5, 13357 Gesundbrunnen",,Haupteingang rechte Wand,52.549835,13.374809
+AED 0237-SEN-SON,Senatsverwaltung für Finanzen (BIM 30002),"Klosterstraße 59, 10179 Mitte",,Pförtnerloge,52.515475,13.412415
+AED 0238-BUN-SON,Eisenbahn-Bundesamt,"Steglitzer Damm 117, 12169 Steglitz",,im Foyer,52.448303,13.359299
+AED 0239-BUN-SON,Landesvertretung Rheinland-Pfalz,"In den Ministergärten 6, 10117 Mitte",,Eingangsbereich/Empfang,52.512412,13.378678
+AED 0240-KUT-ASB,Cineplex Alhambra,"Seestraße 94, 13353 Wedding",.,im Foyer links neben den Kassen,52.550424,13.351145
+AED 0241-KUT-ASB,Cineplex Spandau,"Havelstraße 20, 13597 Spandau",,im Foyer links neben den Kassen,52.538488,13.206391
+AED 0242-KUT-ASB,Titania-Palast,"Gutsmuthsstraße 28, 12163 Steglitz",.,"Im Kino, 1. OG im Foyer, Durchgang zu den Toiletten",52.464112,13.326687
+AED 0243-HBG-ASB,Novotel Suites Berlin,"Anhalter Straße 2, 10963 Kreuzberg",,an der Hotelrezeption,52.50463,13.383421
+AED 0244-HBG-ASB,IBIS Hotel,"Anhalter Straße 4, 10963 Kreuzberg",.,an der Hotelrezeption,52.504787,13.384368
+AED 0245-HBG-ASB,relexa hotel Stuttgarter Hof,"Anhalter Straße 8, 10963 Kreuzberg",.,an der Hotelrezeption,52.504907,13.385018
+AED 0246-HBG-SON,CoLiving Emser 6,"Emser Straße 6, 10719 Wilmersdorf",.,an der Hotelrezeption,52.49363,13.319737
+AED 0247-HBG-SON,Grand Hotel Esplanade,"Lützowufer 15, 10785 Tiergarten",.,an der Hotelrezeption,52.505474,13.355423
+AED 0248-HBG-SON,Hotel Arcotel John F,"Jägerstraße 39, 10117 Mitte",,an der Hotelrezeption,52.515042,13.397848
+AED 0249-HBG-SON,Hotel Arcotel Velvet,"Oranienburger Straße 52, 10117 Mitte",.,an der Hotelrezeption,52.525957,13.38826
+AED 0250-HBG-SON,Hotel Dom-Aquaree (Bauteil A),"Karl-Liebknecht-Straße 3, 10178 Mitte",.,an der Hotelrezeption,52.519544,13.402775
+AED 0251-HBG-SON,AMBER ECONTEL Berlin-Charlottenburg (Notunterkunft),"Sömmeringstraße 24, 10589 Charlottenburg",.,an der Hotelrezeption,52.523494,13.306374
+AED 0252-HBG-SON,Hotel Holiday Inn - City East Side,"Wanda-Kallenbach-Straße 2, 10243 Friedrichshain",.,an der Hotelrezeption,52.50487,13.444616
+AED 0253-HBG-SON,Ibis Hotel Berlin Ostbahnhof,"An der Schillingbrücke 2, 10243 Friedrichshain",.,an der Hotelrezeption,52.510056,13.429769
+AED 0254-HBG-SON,Park Inn Berlin Alexanderplatz Hotel,"Alexanderplatz 7, 10178 Mitte",.,an der Hotelrezeption,52.523061,13.412812
+AED 0255-BUN-SON,Bundesministerium des Innern und für Heimat (Dienstsitz),"Ingeborg-Drewitz-Allee 4, 10557 Moabit",.,Empfang/Pförtnerloge,52.521375,13.361966
+AED 0256-BUN-SON,Bundesnachrichtendienst - Zentrale,"Chausseestraße 96, 10115 Mitte",,Empfang/Pförtnerloge,52.535753,13.376271
+AED 0257-BUN-SON,Bundesnetzagentur,"Fehrbelliner Platz 3, 10707 Wilmersdorf",,Empfang/Pförtnerloge,52.489727,13.314719
+AED 0258-BUN-SON,Bundesnetzagentur Außenstelle Berlin,"Seidelstraße 49, 13405 Tegel",.,Empfang/Pförtnerloge,52.568546,13.293855
+AED 0259-SEN-SON,Unfallkasse Berlin,"Culemeyerstraße 2, 12277 Marienfelde",,Empfang/Pförtnerloge,52.417131,13.391837
+AED 0260-SPO-SON,TC 1899 e.V. Blau-Weiss,"Waldmeisterstraße 10, 14193 Grunewald",,"Sekretariat 
+Ansprechpartner: 030-826 48 66",52.475931,13.273623
+AED 0261-SPO-SON,Tennisclub Berlin Lichtenrade,"Franziusweg 114, 12307 Lichtenrade",,"Haupteingang, links neben dem Erste-Hilfe-Kasten
+Ansprechpartner: 0179 - 960 52 25",52.390395,13.388056
+AED 0262-SCH-SON,Freie Waldorfschule Kreuzberg,"Alte Jakobstraße 12, 10969 Kreuzberg",,"im Gang zur Verwaltung, nach Schuleingang gleich rechts, dann geradezu
+Ferienzeiten beachten!",52.50404,13.399452
+AED 0263-HTW-ASB,Technologie und Gründerzentrum Spreeknie,"Ostendstraße 25, 12459 Oberschöneweide",.,im Foyer,52.45748,13.533657
+AED 0264-HTW-ASB,HTW - Campus Wilhelminenhof,"Wilhelminenhofstraße 75A, 12459 Oberschöneweide",.,"Gebäude A, im Foyer",52.457495,13.525125
+AED 0265-HTW-ASB,HTW - Campus Wilhelminenhof,"Wilhelminenhofstraße 75A, 12459 Oberschöneweide",.,"Gebäude B, EG, Servicepoint",52.457639,13.52598
+AED 0266-HTW-ASB,HTW - Campus Wilhelminenhof,"Wilhelminenhofstraße 75A, 12459 Oberschöneweide",.,"Gebäude C, im Foyer",52.456631,13.52617
+AED 0267-HTW-ASB,HTW - Campus Wilhelminenhof,"Wilhelminenhofstraße 75A, 12459 Oberschöneweide",.,"Gebäude F, Flur, Erdgeschoss",52.455534,13.525981
+AED 0268-HTW-ASB,HTW - Campus Wilhelminenhof,"Wilhelminenhofstraße 75A, 12459 Oberschöneweide",.,"Gebäude G, im Foyer",52.456664,13.524619
+AED 0269-HTW-ASB,HTW - Campus Treskowallee,"Treskowallee 8, 10318 Karlshorst",,"Gebäude A, im Foyer, Haupteingang von Treskowallee kommend",52.49248,13.525788
+AED 0270-HTW-ASB,HTW - Campus Treskowallee,"Treskowallee 8, 10318 Karlshorst",,"Gebäude A ""Römerflügel"", im Eingangsbereich neben Lesesaal I",52.492229,13.526283
+AED 0271-HTW-ASB,HTW - Campus Treskowallee,"Treskowallee 8, 10318 Karlshorst",,"Gebäude B, Eingang mit Treppe nehmen, dann neben der Eingangstür",52.492708,13.526197
+AED 0272-HTW-ASB,HTW - Campus Treskowallee,"Treskowallee 8, 10318 Karlshorst",,"Gebäude C, im Foyer",52.492172,13.524268
+AED 0273-HTW-ASB,HTW - Campus Treskowallee,"Treskowallee 8, 10318 Karlshorst",,"Gebäude D, im Foyer rechts (neben den Herrentoiletten)",52.492452,13.523638
+AED 0274-HTW-ASB,HTW - Campus Treskowallee,"Treskowallee 8, 10318 Karlshorst",,"Gebäude F, große Sporthalle, Eingangsbereich, rechte Seite",52.493821,13.525221
+AED 0275-SCH-SON,Humboldt Gymnasium,"Hatzfeldtallee 2, 13509 Tegel",,Lehrerzimmer,52.591834,13.289059
+AED 0276-SCH-SON,Martin-Buber-Oberschule,"Im Spektefeld 29, 13589 Falkenhagener Feld",,"Sporthalle
+Ansprechpartner: 030 - 375 86 40",52.54755,13.157198
+AED 0277-SCH-SON,Moser-Schule Berlin (Gymnasium),"Badenallee 31, 14052 Westend",,"EG, Erste-Hilfe-Raum neben Sekretariat - Ferienzeiten beachten!",52.509479,13.263459
+AED 0278-SCH-SON,OSZ Informations- und Medizintechnik,"Haarlemer Straße 23, 12359 Britz",,"4. Ebene (3. OG), vor Erste-Hilfe-Raum - Ferienzeiten beachten!",52.458177,13.452419
+AED 0279-SON-SON,DDR-Museum,"Karl-Liebknecht-Straße 1, 10178 Mitte",,"DDR-Museum, Ausstellungsebene im Bereich der Toiletten.
+Am Eingang beim Museumspersonal melden, dann durch die Drehkreuze in die erste Ausstellungshalle, dort dann rechte Seite",52.519264,13.402609
+AED 0280-SON-SON,Contag AG,"Päwesiner Weg 30, 13581 Spandau",,"Haupteingang, blaue Schranktür
+Ansprechpartner: 030 - 351 788 300",52.53153,13.17828
+AED 0281-MSB-SON,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich/Empfang,52.50132,13.274425
+AED 0282-SON-SON,Mosaik-Werkstätten für Behinderte,"Kohlfurter Straße 10, 10999 Kreuzberg",,"im Treppenhaus (EG) auf der linken Seite, Zugang durch Haupteingang 
+Ansprechpartner: 030 - 616 914 10",52.497455,13.414855
+AED 0283-SON-SON,Museum für Naturkunde,"Invalidenstraße 43, 10115 Mitte",.,Eingangsbereich vor der Ausstellungshalle,52.530241,13.379263
+AED 0284-SON-SON,Museum für Naturkunde,"Invalidenstraße 43, 10115 Mitte",.,Pförtnerloge am Personaleingang/Pforte V,52.530951,13.3792
+AED 0285-MED-SON,Ärztehaus Park-Klinik,"Schönstraße 90, 13086 Weißensee",,"3. OG, Dialysezentrum Nephrocare",52.553924,13.450517
+AED 0286-SON-SON,Berliner Sparkasse Beratungscenter Tiergarten,"Turmstraße 33, 10551 Moabit",,in den Räumlichkeiten der Sparkasse,52.526551,13.340133
+AED 0287-SON-SON,Büro- und Wohngebäude Wilhelmstr.,"Leipziger Straße 121, 10117 Mitte",,"Defi-Corning, 3. OG, beim Customer Service",52.51022,13.384475
+AED 0288-SON-SON,Bürogebäude Holzmarktstr.,"Holzmarktstraße 15, 10179 Mitte",.,im Haus,52.513659,13.422809
+AED 0289-SON-SON,Daimler Haus (Gebäude C 1),"Eichhornstraße 3, 10785 Tiergarten",,"Atrium Tower, 4. Etage, an der Rezeption",52.505491,13.372688
+AED 0290-MED-SON,Die Eichkamp Praxis,"Zikadenweg 33, 14055 Westend",,in den Räumlichkeiten der Eichkamp-Praxis,52.495468,13.264218
+AED 0291-SON-SON,DIS AG,"Markgrafenstraße 33, 10117 Mitte",,"DIS AG, 3. Etage (Aufzug nutzen!), im Eingangsbereich an der rechten Tür nach hinten (Bereich Industrie)",52.512016,13.393879
+AED 0292-SON-SON,Rathenau-Villa (OSW),"Wilhelminenhofstraße 75, 12459 Oberschöneweide",,"Elektro-Innung, Eingangsbereich Hochpaterre",52.457128,13.527622
+AED 0293-SON-SON,First-Sensor-AG,"Peter-Behrens-Straße 15, 12459 Oberschöneweide",.,"First Sensor AG, Eingangsbereich, linke Wand (ggf. klingeln!)",52.45461,13.526877
+AED 0294-SON-SON,Flüchtlingsunterkunft Charlottenburg,"Kaiserdamm 3, 14057 Charlottenburg",,"Empfang 
+Ansprechpartner: 030-322 10 11",52.51111,13.294562
+AED 0295-SON-SON,Flüchtlingsunterkunft Zehlendorf,"Hohentwielsteig 27, 14163 Zehlendorf",,beim Sicherheitspersonal,52.431867,13.240227
+AED 0296-SON-SON,Friedrichstadtpalast,"Kalkscheunenstraße , 10117 Mitte",.,Bühneneingang Friedrichstadtpalast,52.523909,13.389515
+AED 0297-SON-SON,Gemeinschaftshaus Lichtenrade,"Barnetstraße 11, 12305 Lichtenrade",,"Eingangsbereich, an der Telefonzentrale",52.394197,13.405583
+AED 0298-SON-SON,Geschäftshaus (Büro-Verwaltung),"Alarichstraße 12, 12105 Tempelhof",,Flur 2. OG,52.452866,13.378201
+AED 0299-MED-SON,Gesundheits- und Sozialzentrum Moabit Haus M und N,"Birkenstraße 62, 10559 Moabit",.,"Gebäude M, im Haus",52.529949,13.34746
+AED 0300-MED-SON,Gesundheits- und Sozialzentrum Moabit Haus M und N,"Birkenstraße 62, 10559 Moabit",.,"Gebäude N, im Haus",52.53002,13.348776
+AED 0301-MED-SON,Gesundheitszentrum,"Neuendorfer Straße 25, 13585 Hakenfelde",.,Gesundheitszentrum/Empfang,52.546791,13.209469
+AED 0302-SON-SON,Hauptverband der Berufsgenossenschaft,"Albrechtstraße 10B, 10117 Mitte",,im Haus,52.521741,13.384577
+AED 0303-SON-SON,ZDH - Zentralverband des Deutschen Handwerks,"Mohrenstraße 20, 10117 Mitte",.,"EG, Büro ""Landskron"", Am Empfang melden!
+Ansprechpartner: 030 - 20 619 555",52.511907,13.391328
+AED 0304-SON-SON,Haus für Dienstleistung und Tourismus,"Am Weidendamm 1A, 10117 Mitte",,im Haus,52.521853,13.388898
+AED 0305-SON-SON,Berlin Hauptbahnhof-Rail & Fresh WC,"Europaplatz 1, 10557 Moabit",,EG im Eingangsbereich des Rail&Fresh-WC-Centers,52.525043,13.369185
+AED 0306-SON-SON,Rail & Fresh WC Berlin Ostbahnhof,"Am Ostbahnhof 9, 10243 Friedrichshain",,EG im Eingangsbereich des Rail&Fresh-WC-Centers,52.509869,13.434332
+AED 0307-SON-SON,Seniorenpflegeheim Wittenberger Str.,"Wittenberger Straße 38, 12689 Marzahn",.,im Haus,52.56407,13.567695
+AED 0308-SON-SON,Siemens ENERGY,"Huttenstraße 12, 10553 Moabit",.,"Werkschutztor 1
+Ansprechpartner: 030 - 3461 2210",52.528081,13.323904
+AED 0309-SON-SON,Spreeport Verdi,"Bona-Peiser-Weg 2, 10179 Mitte",.,Eingang/Pförtner,52.509205,13.427737
+AED 0310-SON-SON,spektrumK GmbH,"Spittelmarkt 12, 10117 Mitte",,"2. Etage, Eingangsbereich der spektrumK GmbH, an der Erste-Hilfe-Wand",52.511719,13.401353
+AED 0311-MED-SON,Hausärztliche Praxisgemeinschaft,"Senftenberger Ring 5A, 13439 Märkisches Viertel",,"Arztpraxisräume im 3. OG, mit dem Aufzug hoch, dann links und am Tresen melden. Ggf. laut klopfen!",52.59767,13.355651
+AED 0312-MED-SON,Jochum Medizintechnik GmbH,"Straße 9 3, 12309 Lichtenrade",,"1. OG im Foyer der Geschäftsräume (Jochum Medizintechnik GmbH) - Den Eingang zum Fitnessstudio nehmen, dann die Treppe hoch und die erste Tür rechts. Dort ggf. klingeln.",52.401438,13.413435
+AED 0313-MED-SON,Kinder- und Jugendpsychiatrischer Dienst,"Welserstraße 23, 10777 Schöneberg",,An der Wand am Haupteingang innerhalb des Hauses (beim Kinder- und Jugendpsych. Dienst) befestigt.,52.498603,13.34191
+AED 0314-MED-SON,Praxis Dr. med. P. Bornmann,"Groß-Ziethener Straße 35, 12309 Lichtenrade",,"Arztpraxisräume im 1. OG, dort am Empfang melden",52.394362,13.410288
+AED 0315-MED-SON,Praxis Dr. Vallee,"Schlüterstraße 35, 10629 Charlottenburg",,"Arztpraxisräume im 1. OG, dort am Empfang melden",52.502808,13.316707
+AED 0316-MED-SON,Praxisgemeinschaft Dres. Kellermann-Rieger-Braker,"Osdorfer Straße 50, 12207 Lichterfelde",,In den Räumlichkeiten der Praxisgemeinschaft Dres. Kellermann/Rieger/Braker.,52.412028,13.319826
+AED 0317-MED-SON,Seniorenwohnhaus Gürtelstr. 33,"Gürtelstraße 33, 10409 Prenzlauer Berg",.,In den Praxisräumen der im Haus befindlichen Allgemeinarztpraxis.,52.545478,13.45099
+AED 0318-MED-SON,Arztpraxis Reinhardt,"Schweinfurthstraße 43, 14195 Dahlem",,In den Praxisräumen der Westklinik Dahlem.,52.465939,13.296419
+AED 0319-MED-SON,Wohn- und Geschäftsgebäude Oranienburger Str. 86,"Oranienburger Straße 86, 13437 Wittenau",,1. OG im Orthopädie-/Chirurgiezentrum Wittenau,52.595282,13.333345
+AED 0320-SON-ASB,fitX Hellersdorf,"Hellersdorfer Straße 235, 12627 Hellersdorf",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.536375,13.602941
+AED 0321-SON-ASB,fitX Biesdorf,"Weißenhöher Straße 88, 12683 Biesdorf",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.507087,13.558048
+AED 0322-SON-ASB,fitX Waidmannslust,"Oraniendamm 6, 13469 Waidmannslust",.,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.607646,13.326227
+AED 0323-SON-ASB,fitX Tempelhof,"Ullsteinstraße 128, 12109 Tempelhof",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.454011,13.388083
+AED 0324-SON-ASB,fitX Landsberger Allee,"Oderbruchstraße 14, 10369 Fennpfuhl",.,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.530101,13.46154
+AED 0325-SON-ASB,fitX Wilmersdorf,"Kurfürstendamm 156, 10709 Wilmersdorf",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.498947,13.302959
+AED 0326-SON-ASB,fitX East-Side-Mall,"Tamara-Danz-Straße 11, 10243 Friedrichshain",.,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.505888,13.445202
+AED 0327-SON-ASB,fitX Südkreuz,"Wilhelm-Kabus-Straße 77, 10829 Schöneberg",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.478392,13.364562
+AED 0328-SON-ASB,fitX Schöneberg,"Hauptstraße 141, 10827 Schöneberg",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.485614,13.355728
+AED 0329-SON-ASB,fitX Alexanderplatz,"Alexanderstraße 7, 10178 Mitte",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.522821,13.416514
+AED 0330-SON-ASB,fitX Moabit,"Stromstraße 11, 10551 Moabit",,fitX-Fitnessstudio - Eingangsbereich - am Empfang,52.527319,13.343667
+AED 0331-SON-ASB,BKK VBU Hauptverwaltung,"Lindenstraße 67, 10969 Kreuzberg",,BKK VBU - Hauptverwaltung - Erdgeschoß,52.50636,13.397224
+AED 0332-SON-ASB,BKK VBU Buch,"Wiltbergstraße 9, 13125 Buch",,"BKK VBU - Servicecenter, 1. OG",52.635289,13.495199
+AED 0333-SON-ASB,BKK VBU Lichtenberg,"Frankfurter Allee 231A, 10365 Lichtenberg",,BKK VBU - Servicecenter,52.51269,13.496093
+AED 0334-SON-ASB,BKK VBU Hellersdorf,"Fritz-Lang-Straße 2, 12627 Hellersdorf",,"BKK VBU - Servicecenter, Küche",52.536619,13.603213
+AED 0335-SEN-ASB,Bürgeramt 4 Alt-Hohenschönhausen,"Große-Leege-Straße 103, 13055 Alt-Hohenschönhausen",,Bürgeramt/Bezirksamt Lichtenberg - 1. OG neben Raum 107 und 6. OG Flurmitte,52.545416,13.500346
+AED 0336-SEN-ASB,Bezirksamt Lichtenberg (Gesundheitsamt),"Alfred-Kowalke-Straße 24, 10315 Friedrichsfelde",,"Bezirksamt, 3. OG",52.507675,13.524529
+AED 0337-SEN-ASB,Bildungs- und Verwaltungszentrum Haus 2,"Alt-Friedrichsfelde 60, 10315 Friedrichsfelde",,Eingang/Pförtner,52.509363,13.525633
+AED 0338-SEN-ASB,Rathaus Pankow,"Breite Straße 24A, 13187 Pankow",,"Bezirksamt/Rathaus, Haupteingang, durch beide Türen dann rechte Wand",52.569065,13.402365
+AED 0339-SEN-ASB,Rathaus Lankwitz (BIM 30047),"Hanna-Renate-Laurien-Platz 1, 12247 Lankwitz",.,"Bezirksamt, durchs Hauptportal, links neben der Pförtnerloge",52.438527,13.343621
+AED 0340-SEN-ASB,Bezirksamt Treptow-Köpenick,"Zum Großen Windkanal 4, 12489 Adlershof",,"Bezirksamt, EG beim Wachdienst, Raum 01
+Ansprechpartner: 030 - 90297 5294",52.43419,13.531483
+AED 0341-SEN-ASB,Rathaus Neukölln,"Karl-Marx-Straße 83, 12043 Neukölln",,"2. OG, Vorraum des BVV-Büros",52.48144,13.435068
+AED 0342-SEN-ASB,Rathaus Neukölln,"Karl-Marx-Straße 83, 12043 Neukölln",,"4. Etage, gegenüber der Kantine",52.481774,13.435653
+AED 0343-SEN-ASB,Rathaus Neukölln,"Donaustraße 29, 12043 Neukölln",,Pforte Donaustraße im Erdgeschoß,52.481675,13.436557
+AED 0344-SEN-ASB,Rathaus Kreuzberg,"Yorckstraße 4, 10965 Kreuzberg",,"Altbauteil, 2. OG, Sozialamt, neben Raum 2026B",52.494075,13.386651
+AED 0345-SEN-ASB,Bürgeramt 2.0,"Schlesische Straße 27A, 10997 Kreuzberg",,EG in der ehem. Pförtnerloge. Jeder Büroschlüssel passt zu diesem Schloss!,52.498381,13.447654
+AED 0346-SEN-ASB,Familienzentrum Kreuzberg,"Adalbertstraße 23B, 10997 Kreuzberg",,"4. Etage, an der Wand zwischen Raum 421 (Lagerraum) und dem Treppenhaus",52.504331,13.421959
+AED 0347-SEN-ASB,Amts-und Vertrauensärztlicher Dienst,"Urbanstraße 24, 10967 Kreuzberg",,"2. Etage, ggü. Raum 208 (Warteraum)",52.492407,13.410168
+AED 0348-SEN-ASB,Regionaler Sozialpädagogischer Dienst (RSD),"Schöneberger Straße 20, 10963 Kreuzberg",,"1. Etage, an der Wand zwischen Raum 117 und Herrentoilette",52.501807,13.377335
+AED 0349-SEN-ASB,Rathaus Friedrichshain,"Petersburger Straße 86, 10247 Friedrichshain",,"Haupteingang Rathaus, Vorraum vor der Pförtnerloge",52.517918,13.452764
+AED 0350-SEN-ASB,Bezirksamt Treptow-Köpenick,"Hans-Schmidt-Straße 18, 12489 Adlershof",,"EG beim Wachdienst, Raum 36
+Ansprechpartner: 030 - 90297 6193",52.434147,13.532754
+AED 0351-SEN-ASB,Bezirksamt Treptow-Köpenick,"Hans-Schmidt-Straße 10, 12489 Adlershof",,"EG beim Wachdienst, Raum 121
+Ansprechpartner: 030 - 90297 5290",52.435904,13.534323
+AED 0352-SEN-ASB,Bürgeramt 3 Friedrichshain,"Frankfurter Allee 35, 10247 Friedrichshain",,"Bürgeramt, Aufgang B, EG rechts neben Raum 0705 (Infotresen) unter der Anzeigetafel",52.515568,13.461522
+AED 0353-SEN-ASB,Bürgeramt 3 Friedrichshain,"Frankfurter Allee 35, 10247 Friedrichshain",,"Bürgeramt, Aufgang A, direkt an der Frankfurter Allee, 1. OG, rechts neben Raum 1102",52.515232,13.461824
+AED 0354-SEN-ASB,Finanzamt Wilmersdorf,"Albrecht-Achilles-Straße 61, 10709 Wilmersdorf",.,Erdgeschoß,52.498022,13.304008
+AED 0355-SEN-ASB,Finanzamt Marzahn-Hellersdorf (BIM 10002),"Allee der Kosmonauten 29, 12681 Marzahn",,"Finanzamt, Flur",52.526445,13.526462
+AED 0356-SEN-ASB,Jobcenter Marzahn-Hellersdorf,"Allee der Kosmonauten 29, 12681 Marzahn",,"Jobcenter, EG",52.526463,13.527239
+AED 0357-SEN-ASB,Jobcenter Marzahn-Hellersdorf,"Allee der Kosmonauten 29, 12681 Marzahn",,"Jobcenter, 5. OG",52.526445,13.527771
+AED 0358-SEN-ASB,Jobcenter Marzahn-Hellersdorf,"Allee der Kosmonauten 33F, 12681 Marzahn",,"Jobcenter, 5. OG",52.526015,13.530002
+AED 0359-SEN-ASB,Rechnungshof von Berlin,"Alt-Moabit 101D, 10559 Moabit",,Wandanbringung (unverschlossen) im Flur im Erdgeschoß neben der Empfangspforte,52.523101,13.347471
+AED 0360-SON-ASB,Spielbank Spandau,"Altstädter Ring 1, 13597 Spandau",,Spielbank - Erdgeschoss im Spielsaal,52.535315,13.199224
+AED 0361-SCH-ASB,Heinz-Berggruen-Gymnasium,"Bayernallee 4, 14052 Westend",,unbekannt,52.511638,13.2665
+AED 0362-SEN-ASB,IT-Dienstleistungszentrum,"Berliner Straße 112, 10713 Wilmersdorf",,"IT-Zentrum - Hinter der roten Drehtür in der Leitstelle.
+Ansprechpartner: 030 - 90222 7071",52.486258,13.316158
+AED 0363-SON-SON,Perpetua Holding,"Clausewitzstraße 7, 10629 Charlottenburg",,"3. OG, Perpetua-Holding (werktags zw. 9 und 18 Uhr verfügbar, über die Treppe erreichbar!)
+Ansprechpartner: Fr. Lepenius, 030 - 629 28 25 90",52.501086,13.309701
+AED 0364-SCH-ASB,Evangelische Schule Steglitz (Integrierte Sekundarschule),"Beymestraße 6, 12167 Steglitz",,"linker Eingang, im Foyer geradezu",52.450528,13.331792
+AED 0365-SEN-ASB,"Finanzamt Charlottenburg, (BIM 30031)","Bismarckstraße 48, 10627 Charlottenburg",,"Eingangsbereich, hinter der Pforte",52.511715,13.303708
+AED 0366-MED-ASB,Praxis Keilich,"Bismarckstraße 72, 12157 Steglitz",,Arztpraxis Keilich,52.462993,13.339408
+AED 0367-SON-ASB,Arbeiterwohlfahrt,"Blücherstraße 62, 10961 Kreuzberg",.,im Foyer,52.495152,13.398421
+AED 0368-SON-ASB,Landesgeschäftsstelle Paritätischer Wohlfahrtsverband Berlin,"Brandenburgische Straße 80, 10713 Wilmersdorf",,"Foyer, EG ",52.487569,13.318331
+AED 0369-SEN-ASB,Finanzamt für Körperschaften 1(Oberfinanzdirektion),"Bredtschneiderstraße 5, 14057 Westend",,Foyer rechte Wand,52.508877,13.280911
+AED 0370-SON-ASB,ibis Styles Berlin Mitte,"Brunnenstraße 1, 10119 Mitte",.,"EG Rezeption, im Back-Office auf der rechten Seite",52.530067,13.401215
+AED 0371-SON-ASB,ADAC Geschäftsstelle und Reisebüro,"Bundesallee 29, 10717 Wilmersdorf",,Schalterhalle ggü. Schalter 8 und 9,52.491208,13.330547
+AED 0372-SON-ASB,Johanniter-Akademie Berlin-Brandenburg,"Colditzstraße 34, 12099 Tempelhof",,EG an der Feuerschutztür zum Seminarbereich,52.455491,13.394644
+AED 0373-BUN-ASB,Jakob-Kaiser-Haus,"Dorotheenstraße 101, 10117 Mitte",,Eingang/Pförtner,52.517896,13.379955
+AED 0374-SEN-ASB,Finanzamt Reinickendorf (BIM 30038),"Eichborndamm 208, 13403 Wittenau",,Eingang/Pförtner,52.587233,13.324823
+AED 0375-SON-ASB,EUREF-Campus Haus 21-22,"EUREF-Campus 22, 10829 Schöneberg",,Pförtnerloge,52.480737,13.35654
+AED 0376-SON-ASB,ubitricity - Gesellschaft für verteilte Energiesysteme mbH,"EUREF-Campus 7, 10829 Schöneberg",,"1. OG, Sekretariat",52.481455,13.355732
+AED 0377-SON-ASB,Ludwig-Erhard-Haus (IHK Berlin),"Fasanenstraße 85, 10623 Charlottenburg",.,"EG, Sicherheitszentrale
+Ansprechpartner: 030 - 31510 220",52.506508,13.328246
+AED 0378-SPO-ASB,Wartenberger Sportverein e.V.,"Fennpfuhlweg 53, 13059 Wartenberg",,Eingangsbereich Funktionsgebäude,52.577326,13.513489
+AED 0379-MED-ASB,Praxis Zenker & Partner,"Ferdinandstraße 21, 12209 Lichterfelde",,"Praxisräume, EG, Umkleidekabine
+Ansprechpartner: 030 - 7680 5500",52.425354,13.330489
+AED 0380-SON-ASB,Verband forschender Arzneimittelhersteller e.V.,"Hausvogteiplatz 13, 10117 Mitte",,"Empfang 
+Ansprechpartner: 030 - 206 040",52.512993,13.397271
+AED 0381-HBG-ASB,Hotel Melia,"Friedrichstraße 103, 10117 Mitte",.,EG Rezeption,52.5217,13.388306
+AED 0382-SON-ASB,Kulturkaufhaus Dussmann,"Friedrichstraße 90, 10117 Mitte",.,Erdgeschoß im Foyer,52.518314,13.388731
+AED 0383-SON-ASB,German Business Protection GmbH,"Friedrichstraße 95, 10117 Mitte",,German Business Protection GmbH - 6. Obergeschoß,52.519274,13.389772
+AED 0384-SON-ASB,Miebach Schaltanlagen und Montagen GmbH & Co. KG,"Gotthardstraße 100, 13403 Reinickendorf",,Erdgeschoß im Foyer,52.56316,13.331322
+AED 0385-SON-ASB,Deutscher Gewerkschaftsbund im Quartier an der Museumsinsel,"Henriette-Herz-Platz 2, 10178 Mitte",.,Eingangsbereich/Empfang,52.522081,13.40085
+AED 0386-SON-ASB,Deutscher Gewerkschaftsbund im Quartier an der Museumsinsel,"Henriette-Herz-Platz 2, 10178 Mitte",.,"8. OG, Herrentoilette",52.522058,13.401154
+AED 0387-SPO-ASB,Kieser Training,"Holzhauser Straße 140D, 13509 Borsigwalde",,Eingangsbereich/Empfang,52.58465,13.311679
+AED 0388-SON-ASB,Mosaik-Werkstätten für Behinderte,"Ifflandstraße 12, 10179 Mitte",.,Eingangsbereich/Empfang,52.515944,13.422054
+AED 0389-SON-ASB,Fernseh- und UKW-Turm,"Panoramastraße 1A, 10178 Mitte",.,Lobbybereich/Garderobe,52.521049,13.409883
+AED 0390-SON-ASB,Spielbank Berlin am Fernsehturm,"Panoramastraße 1A, 10178 Mitte",.,EG,52.520083,13.409486
+AED 0391-SON-ASB,Spielbank Berlin am Fernsehturm,"Panoramastraße 1A, 10178 Mitte",.,"1. OG im Pokerbereich (nach der Treppe die erste rechts, dann gleich links)",52.520272,13.409183
+AED 0392-SEN-ASB,Finanzamt Wedding (BIM 30055),"Osloer Straße 37, 13359 Gesundbrunnen",.,"4. Etage, gegenüber Aufzug",52.557112,13.374005
+AED 0393-SON-ASB,Hotel Stadtbad Prenzlauer Berg,"Oderberger Straße 57, 10435 Prenzlauer Berg",.,"Rezeption Backoffice (EG)
+Ansprechpartner: 030 - 7800 8976 0",52.537931,13.410514
+AED 0394-SEN-ASB,Finanzamt Spandau (BIM 30054),"Nonnendammallee 21, 13599 Haselhorst",,Eingangsbereich/Empfang,52.538545,13.238343
+AED 0395-BUN-ASB,Bundesministerium der Finanzen (Dienstsitz),"Niederkirchnerstraße 1, 10117 Mitte",,"Eingangspforte
+Ansprechpartner: 030 - 186 823 561",52.507464,13.383636
+AED 0396-HBG-ASB,Hilton Domhotel Berlin,"Mohrenstraße 30, 10117 Mitte",,EG Rezeption,52.512151,13.392508
+AED 0397-SON-ASB,berlinbiotechpark,"Max-Dohrn-Straße 8, 10589 Charlottenburg-Nord",.,Fa. adviqo - Gebäude B4 - Erdgeschoss,52.532278,13.295761
+AED 0398-SON-ASB,berlinbiotechpark,"Max-Dohrn-Straße 8, 10589 Charlottenburg-Nord",.,Fa. adviqo - Gebäude B3 - 1. OG,52.53245,13.296161
+AED 0399-BUN-ASB,Bundesministerium der Finanzen,"Mauerstraße 75, 10117 Mitte",.,"Eingangspforte/Pförtner
+Ansprechpartner: 030 - 186 823 131",52.509637,13.387745
+AED 0400-SON-ASB,Kassenärztliche Vereinigung Berlin,"Masurenallee 6A, 14057 Westend",.,"am Tresen der Anmeldung, Personal rund um die Uhr vor Ort
+Ansprechparter: 030 - 310 032 13",52.507162,13.278108
+AED 0401-SON-ASB,Spielbank Berlin am Potsdamer Platz,"Marlene-Dietrich-Platz 1, 10785 Tiergarten",,Eingangsbereich/Empfang,52.507599,13.37215
+AED 0402-SON-ASB,Finanzamt für Körperschaften II und IV (BIM 30048),"Magdalenenstraße 25, 10365 Lichtenberg",,Eingangsbereich/Empfang,52.514785,13.488575
+AED 0403-HBG-ASB,Grand Hotel Esplanade,"Lützowufer 15, 10785 Tiergarten",.,"Spa-Bereich, Fitnesslounge",52.505374,13.354622
+AED 0404-SON-ASB,Spielbank Berlin  Los-Angeles-Platz,"Los-Angeles-Platz 1, 10789 Charlottenburg",,Eingangsbereich/Empfang,52.502366,13.336109
+AED 0405-SON-ASB,Hackesches Quartier BT B1-3,"Litfaß-Platz 1, 10178 Mitte",.,"Fa. Scholz & Friends, beim Empfang",52.522009,13.403555
+AED 0406-EKZ-ASB,Mall of Berlin - Leipziger Str. (Hochhaus),"Leipziger Platz 12, 10117 Mitte",,"in der Apotheke, öffentliche Zugänge sind die Piazza 
+und die beiden Mall-Haupteingänge",52.509952,13.381507
+AED 0407-SON-ASB,IDEAL Versicherung AG,"Kochstraße 26, 10969 Kreuzberg",,Eingangsbereich/Empfang,52.506743,13.388759
+AED 0408-SON-ASB,Palais Podewil,"Klosterstraße 68, 10179 Mitte",.,im Foyer (Kulturprojekte Berlin),52.517733,13.412496
+AED 0409-SEN-ASB,Altes Stadthaus (BIM 30046),"Klosterstraße 47, 10179 Mitte",.,Pförtnerloge,52.516649,13.412196
+AED 0410-SCH-ASB,GLS Sprachenzentrum,"Kastanienallee 82, 10435 Prenzlauer Berg",,EG Rezeption,52.537013,13.408449
+AED 0411-SON-ASB,Saalbau Neukölln,"Karl-Marx-Straße 141, 12043 Neukölln",.,Eingangsbereich (Heimathafen Neukölln),52.476929,13.439219
+AED 0412-KUT-ASB,Theater des Westens,"Kantstraße 12, 10623 Charlottenburg",.,"Treppe K, Erdgeschoß (Pförtner weist ein)",52.505684,13.328838
+AED 0413-SPO-ASB,INJOY Fitnessclub Berlin,"Kamenzer Damm 30, 12249 Lankwitz",,in der Fitnesshalle neben dem Eingang,52.433314,13.356005
+AED 0414-SPO-ASB,Landesruderverband Berlin e.V.,"Jungfernheideweg 80, 13629 Charlottenburg-Nord",,"Eingangsbereich hinter den beiden Türen an der linken Seite
+Ansprechpartner: 030 - 306 400 00",52.547872,13.271569
+AED 0415-SEN-ASB,Landessozialgericht (BIM 30085-86),"Invalidenstraße 52, 10557 Moabit",,"in der Wachtmeisterei, EG Zimmer 12",52.527358,13.37141
+AED 0416-HBG-ASB,Hotel Mercure Berlin City,"Invalidenstraße 38, 10115 Mitte",.,"EG, Lobby (vom Eingang aus rechts im Gepäckraum)",52.530396,13.381507
+AED 0417-MED-ASB,Gastroenterologie am Bayerischen Platz,"Innsbrucker Straße 58, 10825 Schöneberg",,"2. OG, Endoskopie (am Empfang fragen, AED ist im Behandlungsraum und damit NICHT öffentlich)",52.487885,13.340548
+AED 0418-SON-ASB,Berliner-Kindl-Schultheiss-Brauerei,"Indira-Gandhi-Straße 66, 13053 Alt-Hohenschönhausen",,"Wache/Pforte der Brauerei
+Ansprechpartner: 030 - 960 95 23",52.542575,13.469845
+AED 0419-SON-ASB,BrewDog GmbH (Brauerei-Produktion+Gastro),"Im Marienpark 23, 12107 Mariendorf",.,"Restaurant Stone Brewing World Bistro & Gardens
+Haupteingang, dann rechts halten, neben dem Stone-Wand-Tattoo",52.438147,13.368799
+AED 0420-BUN-ASB,Bundesministerium der Finanzen,"Leipziger Straße 126, 10117 Mitte",,"Pförtner
+Ansprechpartner: 030 - 186 823 533",52.510061,13.382828
+AED 0421-SON-ASB,DCI Bürogebäude (Gebäude A1),"Potsdamer Platz 1, 10785 Tiergarten",,22. OG - Rezeption - Freshfields Bruckhaus Deringer,52.509335,13.37549
+AED 0422-SON-ASB,DCI Bürogebäude (Gebäude A1),"Potsdamer Platz 1, 10785 Tiergarten",,13. OG - Morrison & Foerster - interne Treppe (Im Foyer fragen!),52.509229,13.37549
+AED 0423-SEN-ASB,Finanzamt Schöneberg (BIM 30035),"Bülowstraße 85, 10783 Schöneberg",,Eingangsbereich/Empfang,52.498083,13.36177
+AED 0424-SON-ASB,Bürogebäude,"Potsdamer Straße 192, 10783 Schöneberg",.,"Bauteil C, EG neben Raum C01, myToys",52.491489,13.359912
+AED 0425-SEN-ASB,Jobcenter Marzahn-Hellersdorf Rhinstr,"Rhinstraße 88, 12681 Marzahn",,"2. OG, Hauptaufgang",52.527788,13.520484
+AED 0426-SEN-ASB,Jobcenter Marzahn-Hellersdorf Rhinstr,"Rhinstraße 88, 12681 Marzahn",,"4. OG, Südflügel, am Ende des Flurs",52.527516,13.520484
+AED 0427-SCH-ASB,Freie Waldorfschule Kreuzberg,"Ritterstraße 78, 10969 Kreuzberg",,"im Verwaltungsbereich, nach dem Eingang rechts halten.",52.503583,13.402143
+AED 0428-SON-ASB,Oberbaum City (Gebäude 3),"Rotherstraße 11, 10245 Friedrichshain",,"EG, links hinter Empfangstresen (BASF-Turm)",52.50424,13.450909
+AED 0429-SEN-ASB,Finanzamt Schöneberg (BIM 30063),"Sarrazinstraße 4, 12159 Friedenau",,Eingangsbereich/Empfang,52.475421,13.331862
+AED 0430-MED-ASB,Praxis im Schillerkiez - Dr. Holzer,"Schillerpromenade 36, 12049 Neukölln",,"Zugang zur Praxis über Hinterhof, dort EG am Eingang",52.476506,13.423082
+AED 0431-MED-ASB,Facharztzentrum Tegel,"Schloßstraße 5, 13507 Tegel",,"Bauteil C, 1. OG, Anmeldung Radiologie",52.591318,13.283507
+AED 0432-MED-ASB,Facharztzentrum Tegel,"Schloßstraße 5, 13507 Tegel",,"Bauteil C, 2. OG, Anmeldung Radiologie",52.591268,13.283413
+AED 0433-SON-ASB,F-Bhf. Spandau,"Seegefelder Straße 1, 13597 Spandau",,EG im Eingangsbereich des Rail&Fresh-WC-Centers,52.534598,13.197573
+AED 0434-SEN-ASB,Finanzamt Treptow-Köpenick (BIM 30067),"Seelenbinderstraße 99, 12555 Köpenick",,Pförtnerloge,52.455663,13.58881
+AED 0435-SON-ASB,Büro und Verwaltungsgebäude,"Sieversufer 9, 12359 Britz",,"Fa. Biotronik, EG, Eingangbereich, links neben der Kantinentür
+Ansprechpartner: 030 - 689 050",52.460724,13.448741
+AED 0436-SON-ASB,Siebdruckerei Weidling GmbH,"Sonnenallee 224C, 12059 Neukölln",,Erdgeschoß,52.471492,13.455421
+AED 0437-THW-ASB,"THW LV Berlin, Brandenburg, Sachsen-Anhalt","Soorstraße 84, 14050 Westend",,"1. Etage, Brandschutztür Mitte des Flurs
+Ansprechpartner: 030 - 306 820",52.516582,13.279024
+AED 0438-SON-ASB,Fa. Cemex,"Sophienwerderweg 50, 13597 Spandau",,Haupteingang,52.535086,13.222242
+AED 0439-SON-ASB,Fa. Cemex,"Sophienwerderweg 50, 13597 Spandau",,Waage/Kiesumschlagplatz,52.534528,13.221903
+AED 0440-SEN-ASB,Finanzamt Pankow-Weißensee (BIM 30004),"Storkower Straße 134, 10407 Prenzlauer Berg",,Erdgeschoß,52.532792,13.452177
+AED 0441-SON-ASB,EnergieForum Berlin,"Stralauer Platz 34, 10243 Friedrichshain",.,Sekretariat Planungsbüro Rohling,52.509023,13.432365
+AED 0442-SEN-ASB,Finanzamt Tempelhof (BIM 30071),"Tempelhofer Damm 234, 12099 Tempelhof",,im Foyer,52.454498,13.383747
+AED 0443-SEN-ASB,Finanzamt Neukölln (BIM 10030),"Thiemannstraße 1, 12059 Neukölln",,Pförtnerloge,52.478805,13.452572
+AED 0444-SON-ASB,Berliner Presse Vertrieb GmbH,"Ullsteinstraße 89, 12109 Mariendorf",,Eingangsbereich Verwaltungsgebäude,52.452032,13.39282
+AED 0445-SON-ASB,Berliner Presse Vertrieb GmbH,"Ullsteinstraße 89, 12109 Mariendorf",,Büro Kommissionierungshalle,52.45183,13.393402
+AED 0446-SEN-ASB,Finanzamt Körperschaften III (Dassbach Forum),"Volkmarstraße 13, 12099 Tempelhof",,Dachgeschoss (5. OG),52.45421,13.396216
+AED 0447-SON-ASB,VISSIO Service Group,"Wagner-Régeny-Straße 12, 12489 Adlershof",,"3. OG links, Empfangsbereich der VISSIO
+(links an der Wand vom Eingang), erreichbar über Treppe/Aufzug",52.43619,13.535645
+AED 0448-SON-ASB,boeba Montagen- und Aluminiumbau GmbH,"Warmensteinacher Straße 59A, 12349 Buckow",,Eingangsbereich/Empfang,52.414029,13.426011
+AED 0449-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.500751,13.271964
+AED 0450-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.502051,13.27544
+AED 0451-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.504923,13.276512
+AED 0452-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.505469,13.281187
+AED 0453-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.506105,13.27889
+AED 0454-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.506073,13.276731
+AED 0455-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.506737,13.275148
+AED 0456-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.505987,13.274476
+AED 0457-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",,Eingangsbereich,52.506905,13.273422
+AED 0458-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14052 Westend",.,Eingangsbereich,52.503818,13.268224
+AED 0459-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.50362,13.273712
+AED 0460-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.504239,13.270916
+AED 0461-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.502833,13.271385
+AED 0462-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.502126,13.270487
+AED 0463-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.501471,13.269664
+AED 0464-MSB-MSB,"Messehallen am Funkturm, Verwaltung","Messedamm 22, 14055 Westend",.,Eingangsbereich,52.49972,13.271409
+AED 0465-SON-ASB,TOP Tegel (Haus R),"Wittestraße 30R, 13509 Tegel",,"EG, Eingangsbereich Berliner Volksbank",52.579409,13.295587
+AED 0466-EKZ-CAS,Das Schloss,"Schloßstraße 33, 12163 Steglitz",,"EG, Kundeninfo am Eingang Schloßstraße",52.457772,13.321171
+AED 0467-EKZ-CAS,Das Schloss,"Schloßstraße 33, 12165 Steglitz",,"EG, Treppenhaus 7, Eingang Grunewaldstraße",52.45735,13.319989
+AED 0468-SON-ASB,Müller & Bleher GmbH & Co. KG,"Nestorstraße 36, 10709 Halensee",,"5. OG, Müller & Bleher Berlin GmbH & Co. KG",52.491042,13.299449
+AED 0469-SEN-ASB,Bezirksamt Lichtenberg - Bürgeramt,"Otto-Schmirgal-Straße 1, 10319 Friedrichsfelde",,"Bürgeramt Lichtenberg, Eingang durch Center, der Beschilderung folgen",52.497657,13.522142
+AED 0470-SEN-ASB,Rathaus Lichtenberg,"Möllendorffstraße 6, 10367 Lichtenberg",,An der Information,52.515959,13.479598
+AED 0471-SEN-ASB,Gesundheitsamt Berlin,"Oberseestraße 98, 13053 Alt-Hohenschönhausen",,Raum 1.02,52.547215,13.494574
+AED 0472-SEN-ASB,Bürgeramt 1 Neu-Hohenschönhausen,"Egon-Erwin-Kisch-Straße 106, 13059 Neu-Hohenschönhausen",,"EG, Warteraum",52.567547,13.514016
+AED 0473-BUN-ASB,Bundesministerium für Bildung und Forschung,"Kapelle-Ufer 1, 10117 Mitte",.,Pförtner,52.522944,13.375703
+AED 0474-SCH-ASB,Otto-Nagel-Gymnasium,"Schulstraße 11, 12683 Biesdorf",,"Sekretariat, EG links",52.511875,13.549415
+AED 0475-SCH-SON,,"Kuckhoffstraße 2, 13156 Niederschönhausen",,"Hauptgebäude, 1. OG im Sekretariat (Raum K17)",52.583883,13.402325
