@@ -1,2 +1,2 @@
 calls_received_year,call_count,answer_time_mean,answer_time_median,answer_time_std,call_count_not_answered,call_count_112,answer_time_mean_112,answer_time_median_112,answer_time_std_112,call_count_112_not_answered
-2024,667961,25.44,11.3,34.81,227740,621673,25.71,11.48,34.67,224117
+2024,670177,25.47,11.33,34.82,228722,623747,25.74,11.5,34.69,225090
