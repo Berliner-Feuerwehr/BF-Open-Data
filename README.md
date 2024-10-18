@@ -93,7 +93,7 @@ The response time (Hilfsfrist) is the time from mission creation until the first
 #### Time to first Pump
 Time to first pump is the time from mission creation until the first water carrying vehicle arrives at the scene. 2 minutes are added to this time for the emergency call and dispatch.
 #### Time to first Ladder
-Time to first pump is the time from mission creation until the first ladder carrying vehicle arrives at the scene. 2 minutes are added to this time for the emergency call and dispatch.
+Time to first Ladder is the time from mission creation until the first ladder carrying vehicle arrives at the scene. 2 minutes are added to this time for the emergency call and dispatch.
 #### Time to full Crew
 Time to full crew is the time from mission creation until at least 14 firefighters arrive at the scene. 2 minutes are added to this time for the emergency call and dispatch.
 #### Answer Time
