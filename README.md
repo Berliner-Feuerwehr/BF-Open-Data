@@ -26,11 +26,14 @@ Our data contains information about:
     
 This is an ongoing project number and types of datasets will grow continously. 
 
-Please Note: 
+
+## Disclaimers:
 
 This is a machine-generated data set.
 There may be differences to the annual report of the Berlin Fire Brigade, which may stem from a case-by-case consideration of the missions. 
 Differences arise primarily in the classification of missions as "other" or internal missions.
+
+On New Year's Eve ( turn of the year 24/25), there were temporary restrictions on the 112 emergency number, meaning that emergency calls were briefly answered at the fallback level. These calls were not documented in the system, thus the emergency call numbers shown here are not complete. The emergency control center was able to process emergency calls at all times, emergency calls were accepted and all missions were processed.
 
 ## Getting Started:
 <!--<Provide instructions on how to access the data.-->
