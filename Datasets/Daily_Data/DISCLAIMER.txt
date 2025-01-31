@@ -1,0 +1,4 @@
+On New Year's Eve ( turn of the year 24/25), there were temporary restrictions on the 112 emergency number, meaning that emergency calls were briefly answered at the fallback level. These calls were not documented in the system, thus the emergency call numbers shown here are not complete. The emergency control center was able to process emergency calls at all times, emergency calls were accepted and all missions were processed.
+
+
+In der Silvesternacht (Jahreswechsel 24/25) kam es zeitweise zu Einschränkungen der Notrufnummer 112, sodass die Notrufannahme kurzzeitig in der Rückfallebene erfolgte. Diese Anrufe wurden nicht über das System dokumentiert, sodass die hier dargestellten Notrufzahlen nicht vollständig sind. Die Leitstelle war in der Notrufbearbeitung jederzeit arbeitsfähig, Notrufe wurden angenommen und alle angelegten Einsätze auch abgearbeitet
