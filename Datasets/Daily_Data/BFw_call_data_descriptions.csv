@@ -1,0 +1,14 @@
+Field,Description,Beschreibung
+calls_received_day,Day the calls were received,"Tag, an dem die Anrufe eingegangen sind"
+calls_received_month,Month the calls were received,"Monat, in dem die Anrufe eingegangen sind"
+calls_received_year,Year the calls were received,"Jahr, in dem die Anrufe eingegangen sind"
+call_count,Total number of answered calls,Anzahl der beantworteten Anrufe
+answer_time_mean,Average time taken to answer calls,Durchschnittliche Antwortzeit der Anufe
+answer_time_median,Median time taken to answer calls,Median der Antwortzeit der Anufe
+answer_time_std,Standard deviation of answering times,Standardabweichung der Antwortzeiten der Anufe
+call_count_not_answered,Number of calls not answered,Anzahl der nicht beantworteten Anrufe
+call_count_112,Number of emergency calls (112) answered,Anzahl der beantworteten Notrufe (112)
+answer_time_mean_112,Average time taken to answer emergency calls (112),Durchschnittliche Antwortzeit für Notrufe (112)
+answer_time_median_112,Median time taken to answer emergency calls (112),Median der Antwortzeit für Notrufe (112)
+answer_time_std_112,Standard deviation of answering times for emergency calls (112),Standardabweichung der Antwortzeiten für Notrufe (112)
+call_count_112_not_answered,Number of emergency calls (112) not answered,Anzahl der nicht beantworteten Notrufe (112)

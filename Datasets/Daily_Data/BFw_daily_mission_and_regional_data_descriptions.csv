@@ -1,0 +1,38 @@
+Field,Description,Beschreibung
+mission_created_date,Date of the mission,Datum der Einsätze
+mission_created_month,Month and year of the mission,Monat und Jahr der Einsätze
+mission_created_year,Year of the mission,Jahr der Einsätze
+prediction_area_id,ID of the prediction area,ID des Prognoseraums
+prediction_area_name,Name of the prediction area,Name des Prognoseraums
+district_area_id,ID of the district area,ID der Bezirksregion
+district_area_name,Name of the district area,Name der Bezirksregion
+planning_room_id,ID of the planning room,ID des Planungsraums
+planning_room_name,Name of the planning room,Name des Planungsraums
+mission_count_all,Number of missions,Gesamtzahl der Einsätze
+mission_count_ems,Number of EMS missions,Anzahl der Rettungsdiensteinsätze
+mission_count_ems_critical,Number of critical EMS missions,Anzahl der kritischen Rettungsdiensteinsätze
+mission_count_ems_critical_cpr,Number of critical EMS missions with CPR alert,Anzahl der kritischen Rettungsdiensteinsätze mit Reanimations-Alarmierung
+mission_count_fire,Number of fire missions,Anzahl der Brandeinsätze
+mission_count_technical_rescue,Number of technical rescue missions,Anzahl der technischen Hilfeleistungen
+mission_count_ems_critical_timegoal_computed,"The number of critical EMS missions where the reponse time was computed, i.e. all relevant timestamps were available",Anzahl der kritischen Rettungsdiensteinsätze bei denen die Hilfsfrist berechnet wurde. D.h. es lagen alle relevanten Zeitstempel vor. 
+mission_count_fire_timegoal_computed,"The number of fire missions where the reponse time was computed, i.e. all relevant timestamps were available",Anzahl der Brandeinsätze bei denen die Hilfsfrist berechnet wurde. D.h. es lagen alle relevanten Zeitstempel vor. 
+mission_count_ems_critical_timegoal_reached,The number of critical EMS missions where the time goal was computed and reached. ,Anzahl der kritischen Rettungsdiensteinsätze bei denen die Hilfsfrist berechnet und und unter der Vorgabe liegt. 
+mission_count_fire_timegoal_reached,The number of fire missions where the time goal was computed and reached. ,Anzahl der Brandeinsätze bei denen die Hilfsfrist berechnet wurde und unter der Vorgabe liegt. 
+response_time_ems_critical_mean,Average response time for critical EMS missions,Durchschnittliche Reaktionszeit für kritische Rettungsdiensteinsätze
+response_time_ems_critical_median,Median response time for critical EMS missions,Mediane Reaktionszeit für kritische Rettungsdiensteinsätze
+response_time_ems_critical_std,Standard deviation of the response time for critical EMS missions,Standardabweichung der Reaktionszeiten für kritische Rettungsdiensteinsätze
+response_time_ems_critical_cpr_mean,Average response time for critical EMS missions with CPR alert,Durchschnittliche Reaktionszeit für kritische Rettungsdiensteinsätze mit Reanimations-Alarmierung
+response_time_ems_critical_cpr_median,Median response time for critical EMS missions with CPR alert,Mediane Reaktionszeit für kritische Rettungsdiensteinsätze mit Reanimations-Alarmierung
+response_time_ems_critical_cpr_std,Standard deviation of the response time for critical EMS missions with CPR alert,Standardabweichung der Reaktionszeiten für kritische Rettungsdiensteinsätze mit Reanimations-Alarmierung
+response_time_fire_time_to_first_pump_mean,Average time to first pump unit arrival for fire missions,Durchschnittliche Zeit bis zum Eintreffen des ersten Löschfahrzeugs bei Brandeinsätzen
+response_time_fire_time_to_first_pump_median,Median time to first pump unit arrival for fire missions,Mediane Zeit bis zum Eintreffen des ersten Löschfahrzeugs bei Brandeinsätzen
+response_time_fire_time_to_first_pump_std,Standard deviation of the time to first pump unit arrival for fire missions,Standardabweichung der Zeit bis zum Eintreffen des ersten Löschfahrzeugs bei Brandeinsätzen
+response_time_fire_time_to_first_ladder_mean,Average time to first ladder unit arrival for fire missions,Durchschnittliche Zeit bis zum Eintreffen der ersten Drehleiter bei Brandeinsätzen
+response_time_fire_time_to_first_ladder_median,Median time to first ladder unit arrival for fire missions,Mediane Zeit bis zum Eintreffen der ersten Drehleiter bei Brandeinsätzen
+response_time_fire_time_to_first_ladder_std,Standard deviation of the time to first ladder unit arrival for fire missions,Standardabweichung der Zeit bis zum Eintreffen der ersten Drehleiter bei Brandeinsätzen
+response_time_fire_time_to_full_crew_mean,Average time until at least 14 firefighters arrived for fire missions,Durchschnittliche Zeit bis zum Eintreffen von 14 Einsatzkräften der Brandbekämpfung bei Brandeinsätzen
+response_time_fire_time_to_full_crew_median,Median time until at least 14 firefighters arrived for fire missions,Median der Zeit bis zum Eintreffen von 14 Einsatzkräften der Brandbekämpfung  bei Brandeinsätzen
+response_time_fire_time_to_full_crew_std,Standard deviation of times until at least 14 firefighters arrived for fire missions,Standardabweichung der Zeit bis zum Eintreffen von 14 Einsatzkräften der Brandbekämpfung  bei Brandeinsätzen
+response_time_technical_rescue_mean,Average response time for technical rescue missions,Durchschnittliche Reaktionszeit für technische Hilfeleistungen
+response_time_technical_rescue_median,Median response time for technical rescue missions,Mediane Reaktionszeit für technische Hilfeleistungen
+response_time_technical_rescue_std,Standard deviation of the response times for technical rescue missions,Standardabweichung der Reaktionszeiten für technische Hilfeleistungen
