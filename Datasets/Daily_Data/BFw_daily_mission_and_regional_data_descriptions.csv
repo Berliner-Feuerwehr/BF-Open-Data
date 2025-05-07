@@ -36,3 +36,7 @@ response_time_fire_time_to_full_crew_std,Standard deviation of times until at le
 response_time_technical_rescue_mean,Average response time for technical rescue missions,Durchschnittliche Reaktionszeit für technische Hilfeleistungen
 response_time_technical_rescue_median,Median response time for technical rescue missions,Mediane Reaktionszeit für technische Hilfeleistungen
 response_time_technical_rescue_std,Standard deviation of the response times for technical rescue missions,Standardabweichung der Reaktionszeiten für technische Hilfeleistungen
+mission_count_rd1,Number of EMS missions with emergency category RD1 (critical),Anzahl der Einsätze mit Notfallkategorie RD1 (critical)
+mission_count_rd2,Number of EMS missions with emergency category RD2 (critical),Anzahl der Einsätze mit Notfallkategorie RD2 (critical)
+mission_count_rd3,Number of EMS missions with emergency category RD3,Anzahl der Einsätze mit Notfallkategorie RD3 
+mission_count_rd4,Number of EMS missions with emergency category RD4,Anzahl der Einsätze mit Notfallkategorie RD4
