@@ -53,7 +53,7 @@ No special software is required to work with our data.
 | Daily Data | Mission counts,response times, call counts, answer times  | The entire city of Berlin   | 1 day, 1 month, 1 year   | daily |  |   |
 | Mission Data | Detailed information about our missions | The entire city of Berlin   | 1 mission | daily |   |
 |  Dispatchcodes | A mapping of dispatchcodes to resource requierements| N.A.  | N.A.   | irregularly |   |   |
-|  Defibrillator Locations |All locations of public defibrillators that we know of | N.A.  | N.A.   | daily |   |   |
+
 
 <Create a table or list of available datasets.>
 <Include a brief description for each dataset.>
