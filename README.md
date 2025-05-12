@@ -52,6 +52,7 @@ No special software is required to work with our data.
 |  Kiez Data | Mission counts and response times |Based on the [Living Spaces (LOR)](https://www.berlin.de/sen/sbw/stadtdaten/stadtwissen/sozialraumorientierte-planungsgrundlagen/lebensweltlich-orientierte-raeume/) concept of Berlin. Either 58 prediciton rooms, 143 district areas or 542 planning rooms  |  1 year    | daily |
 | Daily Data | Mission counts,response times, call counts, answer times  | The entire city of Berlin   | 1 day, 1 month, 1 year   | daily |  |   |
 | Mission Data | Detailed information about our missions | The entire city of Berlin   | 1 mission | daily |   |
+|  Turnout Times | Turnout Times (Alarmierungsübernahmezeiten)  per vehicle type and fire station | All fire stations in Berlin  | quartals, last 30 days  | daily |   |   |
 |  Dispatchcodes | A mapping of dispatchcodes to resource requierements| N.A.  | N.A.   | irregularly |   |   |
 
 
