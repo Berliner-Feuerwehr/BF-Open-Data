@@ -1,0 +1,20 @@
+,field_name,description
+0,wache_nummer,Die Kennnummer der Wache
+1,anzahl_alarmierungen_RTW,"Die Anzahl der alarmierten RTW. Betrachtet werden nur Alarmierungen auf der Wache, für Einsätze mit hoher Dringlichkeit (critical) bei denen das Einsatzmittel auch ausgerückt ist. 
+                        Alarmierungen der freiwilligen Feuerwehr wurden entfernt. "
+2,mittlere_ausrueckedauer_RTW,Die Mittelwert der Alarmierungsübernahmezeiten für die RTW-Alarmierungen
+3,anzahl_alarmierungen_NEF,"Die Anzahl der alarmierten NEF. Betrachtet werden nur Alarmierungen auf der Wache, für Einsätze mit hoher Dringlichkeit (critical) bei denen das Einsatzmittel auch ausgerückt ist. 
+                        Alarmierungen der freiwilligen Feuerwehr wurden entfernt. "
+4,mittlere_ausrueckedauer_NEF,Die Mittelwert der Alarmierungsübernahmezeiten für die NEF-Alarmierungen
+5,anzahl_alarmierungen_LHF,"Die Anzahl der alarmierten LHF. Betrachtet werden nur Alarmierungen auf der Wache, für Einsätze mit hoher Dringlichkeit (critical) bei denen das Einsatzmittel auch ausgerückt ist. 
+                        Alarmierungen der freiwilligen Feuerwehr wurden entfernt. "
+6,mittlere_ausrueckedauer_LHF,Die Mittelwert der Alarmierungsübernahmezeiten für die LHF-Alarmierungen
+7,anzahl_alarmierungen_DLK,"Die Anzahl der alarmierten DLK. Betrachtet werden nur Alarmierungen auf der Wache, für Einsätze mit hoher Dringlichkeit (critical) bei denen das Einsatzmittel auch ausgerückt ist. 
+                        Alarmierungen der freiwilligen Feuerwehr wurden entfernt. "
+8,mittlere_ausrueckedauer_DLK,Die Mittelwert der Alarmierungsübernahmezeiten für die DLK-Alarmierungen
+9,anzahl_alarmierungen_ELW,"Die Anzahl der alarmierten ELW. Betrachtet werden nur Alarmierungen auf der Wache, für Einsätze mit hoher Dringlichkeit (critical) bei denen das Einsatzmittel auch ausgerückt ist. 
+                        Alarmierungen der freiwilligen Feuerwehr wurden entfernt. "
+10,mittlere_ausrueckedauer_ELW,Die Mittelwert der Alarmierungsübernahmezeiten für die ELW-Alarmierungen
+11,wache_name,Der Name der Wache
+12,start_date,Der Anfang des Betrachtungszeitraums
+13,end_date,Das Ende des Betrachtungszeitraums
