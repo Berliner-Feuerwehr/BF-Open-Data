@@ -1,0 +1,6 @@
+name_deutsch,name_englisch,beschreibung,description
+Datum,date,"Das Datum, worauf sich die Zahlen beziehen.","The Date, to which the numbers are referring."
+Einsätze_potentiell_abgabefähig_an_KV,missions potentially transferable to the KV,"Die Anzahl der Einsätze, die anhand des Meldebildes das Potential haben, von der Kassenärztlichen Vereinigung (KV) Berlin behandelt zu werden können.",The number of missions that have the potential to be handled by the on-call medical service (KV - Association of Statutory Health Insurance Physicians).
+Fälle_an_KV_abgegeben,missions handed to the KV,Die Anzahl der Einsätze die von der Berliner Feuerwehr an die KV Berlin abgegeben wurden.,The number of missions that were handed to the KV Berlin.
+Von_KV_an_Berliner_Feuerwehr_abgegeben,missions received from the KV,Die Anzahl der Einsätze die von der KV Berlin an die Berliner Feuerwehr übermittelt wurden.,The number of missions the Berlin Fire Brigade received from the KV Berlin.
+Aufwertungen_mit_festen_Aufwertegründen,revaluations with specified revaluation reasons,"Die Anzahl der Einsätze die vom Meldebild abgabefähig wären, aber aufgrund besonderer Risikofaktoren durch die Berliner Feuerwehr bearbeitet wurden.",The number of missions that could have been transferred to the KV Berlin but were handled by the Berlin Fire Brigade due to special risk factors.
