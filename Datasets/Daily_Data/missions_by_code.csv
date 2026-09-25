@@ -1,35 +1,35 @@
 dispatchcode_hauptbeschwerde_name,anzahl
-Sturz / Absturz,5800
-Bewusstlosigkeit / Ohnmacht (Beinahe-),3761
-Atembeschwerden,3486
-Kranke Person (Spezielle Krankheitsbilder),3090
-Brustschmerzen / Andere Beschwerden in der Brust (Nicht Traumatisch),2782
-Verletzungen,2561
-Psychiatrie / Abnormales Verhalten / Suizidversuch,2545
-"Bauchschmerzen,-beschwerden",2110
-Überdosis / Vergiftung (Einnahme),2071
-Herzbeschwerden / Implantierter Defibrillator,1936
-Blutung / Wunden,1604
-Schlaganfall / Transitorische Ischämische Attacke (TIA),1388
-Krampfanfall,987
-Körperverletzung / Sexualdelikt / Elektroschocker,887
-Unklares Geschehen (Person in Notlage),822
-Verkehrsunfall,797
-Rückenschmerzen (Nicht traumatische Rückenschmerzen oder ältere Verletzung),765
-Anforderung von Rettungsmittel durch Versorgungseinrichtung / Palliative Medizin / Einweisung,597
-"Allergie (Überreaktion) / Kontakt mit giftigen Tieren (Stiche, Bisse)",591
+Sturz / Absturz,5755
+Bewusstlosigkeit / Ohnmacht (Beinahe-),3805
+Atembeschwerden,3487
+Kranke Person (Spezielle Krankheitsbilder),3068
+Brustschmerzen / Andere Beschwerden in der Brust (Nicht Traumatisch),2803
+Psychiatrie / Abnormales Verhalten / Suizidversuch,2563
+Verletzungen,2559
+"Bauchschmerzen,-beschwerden",2104
+Überdosis / Vergiftung (Einnahme),2070
+Herzbeschwerden / Implantierter Defibrillator,1943
+Blutung / Wunden,1613
+Schlaganfall / Transitorische Ischämische Attacke (TIA),1397
+Krampfanfall,988
+Körperverletzung / Sexualdelikt / Elektroschocker,885
+Unklares Geschehen (Person in Notlage),809
+Verkehrsunfall,794
+Rückenschmerzen (Nicht traumatische Rückenschmerzen oder ältere Verletzung),768
+Anforderung von Rettungsmittel durch Versorgungseinrichtung / Palliative Medizin / Einweisung,615
+"Allergie (Überreaktion) / Kontakt mit giftigen Tieren (Stiche, Bisse)",565
 Kopfschmerzen,429
-"Kreislauf-, Atemstillstand / Tote Person",383
-Schwangerschaft / Geburt / Fehlgeburt,375
-Blutzuckerentgleisungen,232
-Atemwegsverlegung (Durch Fremdkörper),104
-Augenprobleme / Verletzungen,96
-Verbrennungen (Verbrühungen) / Explosion (Detonation),79
+Schwangerschaft / Geburt / Fehlgeburt,383
+"Kreislauf-, Atemstillstand / Tote Person",378
+Blutzuckerentgleisungen,233
+Atemwegsverlegung (Durch Fremdkörper),103
+Augenprobleme / Verletzungen,94
+Verbrennungen (Verbrühungen) / Explosion (Detonation),78
 Stromunfall / Blitzschlag,50
-"Stich-, Schuss-, Pfählungsverletzung",37
-Tierbiss / Tierangriff,33
-AUM (Automatische Unfallmeldung),33
-Hitze- / Kälteeinwirkung,17
+Tierbiss / Tierangriff,36
+"Stich-, Schuss-, Pfählungsverletzung",35
+AUM (Automatische Unfallmeldung),32
+Hitze- / Kälteeinwirkung,18
 Kohlenmonoxid / Inhalation / Gefahrgut / CBRN,9
-Unzugängliche / Verschüttete / Eingeklemmte / Eingeschlossene Person (Nicht verkehrsbedingt),3
 Ertrinken / Beinahe-Ertrinken / Kopfsprung / Gerätetauchunfall,2
+Unzugängliche / Verschüttete / Eingeklemmte / Eingeschlossene Person (Nicht verkehrsbedingt),2
