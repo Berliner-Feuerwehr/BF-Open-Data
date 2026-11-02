@@ -1,35 +1,34 @@
 dispatchcode_hauptbeschwerde_name,anzahl
-Sturz / Absturz,5850
-Bewusstlosigkeit / Ohnmacht (Beinahe-),4048
-Atembeschwerden,3848
-Brustschmerzen / Andere Beschwerden in der Brust (Nicht Traumatisch),3066
-Kranke Person (Spezielle Krankheitsbilder),2828
-Psychiatrie / Abnormales Verhalten / Suizidversuch,2314
-Herzbeschwerden / Implantierter Defibrillator,2173
-"Bauchschmerzen,-beschwerden",2101
-Verletzungen,2101
-Überdosis / Vergiftung (Einnahme),2080
-Blutung / Wunden,1621
-Schlaganfall / Transitorische Ischämische Attacke (TIA),1415
+Sturz / Absturz,5831
+Bewusstlosigkeit / Ohnmacht (Beinahe-),4025
+Atembeschwerden,3880
+Brustschmerzen / Andere Beschwerden in der Brust (Nicht Traumatisch),3079
+Kranke Person (Spezielle Krankheitsbilder),2821
+Psychiatrie / Abnormales Verhalten / Suizidversuch,2312
+Herzbeschwerden / Implantierter Defibrillator,2178
+"Bauchschmerzen,-beschwerden",2119
+Überdosis / Vergiftung (Einnahme),2112
+Verletzungen,2088
+Blutung / Wunden,1612
+Schlaganfall / Transitorische Ischämische Attacke (TIA),1430
 Krampfanfall,939
-Rückenschmerzen (Nicht traumatische Rückenschmerzen oder ältere Verletzung),818
-Körperverletzung / Sexualdelikt / Elektroschocker,797
-Unklares Geschehen (Person in Notlage),738
-Verkehrsunfall,701
-Anforderung von Rettungsmittel durch Versorgungseinrichtung / Palliative Medizin / Einweisung,546
-Kopfschmerzen,403
-"Kreislauf-, Atemstillstand / Tote Person",356
-"Allergie (Überreaktion) / Kontakt mit giftigen Tieren (Stiche, Bisse)",344
-Schwangerschaft / Geburt / Fehlgeburt,338
-Blutzuckerentgleisungen,240
-Atemwegsverlegung (Durch Fremdkörper),112
-Augenprobleme / Verletzungen,108
+Rückenschmerzen (Nicht traumatische Rückenschmerzen oder ältere Verletzung),821
+Körperverletzung / Sexualdelikt / Elektroschocker,796
+Unklares Geschehen (Person in Notlage),735
+Verkehrsunfall,705
+Anforderung von Rettungsmittel durch Versorgungseinrichtung / Palliative Medizin / Einweisung,543
+Kopfschmerzen,405
+"Kreislauf-, Atemstillstand / Tote Person",365
+"Allergie (Überreaktion) / Kontakt mit giftigen Tieren (Stiche, Bisse)",342
+Schwangerschaft / Geburt / Fehlgeburt,337
+Blutzuckerentgleisungen,244
+Atemwegsverlegung (Durch Fremdkörper),115
+Augenprobleme / Verletzungen,104
 Stromunfall / Blitzschlag,63
-Verbrennungen (Verbrühungen) / Explosion (Detonation),61
-"Stich-, Schuss-, Pfählungsverletzung",39
-Tierbiss / Tierangriff,38
+Verbrennungen (Verbrühungen) / Explosion (Detonation),62
+"Stich-, Schuss-, Pfählungsverletzung",37
+Tierbiss / Tierangriff,37
 Hitze- / Kälteeinwirkung,36
-AUM (Automatische Unfallmeldung),30
+AUM (Automatische Unfallmeldung),32
 Kohlenmonoxid / Inhalation / Gefahrgut / CBRN,13
 Unzugängliche / Verschüttete / Eingeklemmte / Eingeschlossene Person (Nicht verkehrsbedingt),4
-Ertrinken / Beinahe-Ertrinken / Kopfsprung / Gerätetauchunfall,1
